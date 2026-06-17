@@ -1,4 +1,4 @@
-# Full Name (Your Role / What You Do)
+# Adhithya S U (Frontend Developer & CSE student)
 ### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
 
 ### About Me
