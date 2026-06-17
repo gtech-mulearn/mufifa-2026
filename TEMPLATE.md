@@ -1,117 +1,156 @@
-# Full Name (Your Role / What You Do)
-### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
+# Fahad Bin Hashim (Full-Stack Developer | AI Enthusiast | Creative Technologist)
 
-### About Me
+**Squad Domain:** Coder 💻 | **FIFA Nation:** Brazil 🇧🇷
 
-> Who are you, what do you build or create, and what brought you to μFIFA? Tell us about your field, your work at your institution or organisation, and what you're here to prove on the pitch. If you're just starting out, tell us what excites you and what you want to become. *(Minimum 200 characters)*
+# About Me
 
----
+I’m Fahad Bin Hashim, a final-year Computer Science Engineering student at Saintgits College of Engineering, Kottayam, Kerala. I’m passionate about building modern web applications, exploring artificial intelligence, and solving real-world problems through technology.
 
-## ⚽ FIFA World Cup Corner
+Alongside my technical interests, I have a lifelong passion for creativity. Filmmaking, direction, acting, video editing, and visual storytelling have always fascinated me, and I dream of creating films of my own in the future. I believe technology and creativity complement each other, and I aspire to combine both worlds throughout my career.
 
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
-
-#### My Nation & Why:
-
-- Which FIFA Nation are you representing in μFIFA, and why did you pick them?
-- Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
-
-#### Supporting Team in the Real World Cup 2026:
-
-- Which team are you backing in the actual FIFA World Cup 2026?
-- Are they the same as your μFIFA Nation, or do you split loyalties?
-
-#### All-Time Favourite Player:
-
-- Who is your all-time favourite footballer and why?
-- What about their game or story resonates with you?
-
-#### Best Player Right Now:
-
-- Who do you think is the best player in the world at this moment?
-- Make your case.
-
-#### Past World Cup Memories:
-
-- What's your most memorable FIFA World Cup moment? A match, a goal, a heartbreak, or an upset?
-- Where were you when it happened?
-
-#### 2026 Predictions:
-
-- Who wins the FIFA World Cup 2026?
-- Dark horse team to watch?
-- Player who will define this tournament?
-- Which match are you most looking forward to?
-
-#### μFIFA World Cup 2026 - Tournament Goals:
-
-- What do you want to achieve in μFIFA by the time the final whistle blows?
-- What will you have built, learned, or contributed that you didn't have before?
+At present, my primary focus is becoming a strong MERN Stack developer while building parallel expertise in AI and Machine Learning, as I believe these domains will shape the future of software engineering. Through μFIFA, I hope to collaborate with talented people, contribute to meaningful projects, strengthen my public portfolio, and continuously push myself beyond my comfort zone.
 
 ---
 
-## 🏅 Portfolio Highlights
+# ⚽ FIFA World Cup Corner
 
-> No portfolio yet? That's fine. μFIFA is where you build one. Fill in what you have, even if it's just an idea, a plan, or something you're currently learning.
+## My Nation & Why
 
-#### History of Open Source and Collaborative Contributions:
+I proudly represent **Brazil 🇧🇷** because I have been a die-hard fan of **Neymar Jr.** for many years. Watching Neymar’s creativity, confidence, dribbling, and fearless style of play inspired my love for football. Brazil’s rich football culture, attacking philosophy, and history of producing legendary players make it the nation I naturally connect with.
 
-- Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
-- *If you're just starting:* mention a project you're planning to open-source, or a repo you've been studying and want to contribute to.
+## Supporting Team in the Real World Cup 2026
 
-#### History of Community Engagement:
+I’ll be supporting **Brazil** throughout the FIFA World Cup 2026. My loyalty has always been with the Seleção, and I hope to see them lift another World Cup trophy.
 
-- Describe your engagement in technical or creative communities: Discord servers, forums, hackathons, campus clubs, μLearn programs, or any space where you've shown up and contributed consistently.
-- *If you're just starting:* mention a community you've recently joined or an event you attended. Showing up counts.
+## All-Time Favourite Player
 
-#### Domain Profiles:
+**Neymar Jr.**
 
-- Link to the platforms where your work lives publicly, relevant to your Squad Domain(s):
-  - **Coder**: GitHub, LeetCode, HackerRank, CTFtime, or similar
-  - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
-  - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
-  - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
-- *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
+For me, Neymar represents creativity, flair, and resilience. His ability to entertain millions while handling enormous expectations has always inspired me. Beyond his technical brilliance, I admire his passion for expressing himself on the field and his willingness to take risks.
 
-#### Tools, Workflows & Automations:
+## Best Player Right Now
 
-- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
-- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
+At the moment, I consider **Kylian Mbappé** one of the best players in world football due to his consistency, pace, finishing ability, leadership, and impact in major tournaments.
 
-#### Public Portfolio & Recognition:
+## Past World Cup Memories
 
-- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
-- This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
-- *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
+One of my most memorable football memories is watching the incredible **2022 FIFA World Cup Final between Argentina and France**. The drama, intensity, comeback, and penalty shootout made it one of the greatest matches I have ever witnessed.
 
-#### Education and Proof of Work:
+## 2026 Predictions
 
-- Mention your current degree, institution, and any relevant certifications or courses completed.
-- Add links to your GitHub and LinkedIn profiles.
+* **World Cup Winner:** Brazil 🇧🇷
+* **Dark Horse Team:** Portugal 🇵🇹
+* **Player Who Will Define the Tournament:** Kylian Mbappé
+* **Most Anticipated Match:** Brazil vs Argentina
 
-#### History of Leadership:
+## μFIFA World Cup 2026 – Tournament Goals
 
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
+By the end of μFIFA, I want to:
 
-#### Networking:
-
-- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
-- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
-
-#### Career Plan:
-
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
-- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
+* Build projects that demonstrate real technical ability.
+* Strengthen my GitHub portfolio and open-source presence.
+* Collaborate with talented developers across domains.
+* Learn from peers and mentors.
+* Improve my consistency, communication, and teamwork.
+* Leave the tournament with meaningful proof of work and lasting connections.
 
 ---
 
-#### Profile Card:
+# 🏅 Portfolio Highlights
 
-<!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
+## History of Open Source and Collaborative Contributions
 
-<img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
-    width="400px">
-</img>
+I actively maintain personal projects on GitHub and believe in learning by building. My repositories include web development projects, academic work, and my **Project Phoenix** consistency challenge, where I document my software engineering growth through daily progress and practical applications. I plan to contribute more actively to open-source initiatives during μFIFA.
+
+## History of Community Engagement
+
+I have participated in several μLearn activities and continuously engage in technical learning communities to improve my skills. While I haven't yet taken on formal volunteering or mentoring roles, I enjoy collaborating with peers, sharing knowledge, and learning through community-driven initiatives.
+
+## Domain Profiles
+
+* **GitHub:** https://github.com/Fahadbinhashim2005
+* **LinkedIn:** https://www.linkedin.com/in/fahadbinhashim/
+* **LeetCode:** https://leetcode.com/u/FahadBinHashim/
+* **HackerRank:** https://www.hackerrank.com/profile/fahadbh_csa2327
+
+## Tools, Workflows & Automations
+
+Technologies and tools I regularly work with include:
+
+* HTML5
+* CSS3
+* JavaScript
+* Git & GitHub
+* Visual Studio Code
+* Adobe Photoshop
+* Adobe After Effects
+* Adobe Premiere Pro
+* AI-assisted development tools
+* Modern web development workflows
+
+I enjoy combining creative software with programming to produce engaging digital experiences.
+
+## Public Portfolio & Recognition
+
+Some of my notable public work includes:
+
+* **Project Phoenix** – A long-term consistency challenge documenting my software engineering journey through daily coding and project building.
+* **Farsi Laban Website** – A responsive website created for a dessert brand with a focus on modern UI and user experience.
+* **Dysarthric Speech Recognition using Machine Learning** – An academic project exploring AI-based speech recognition solutions.
+* Qualified **GATE 2026** by clearing the cutoff, reflecting my commitment to strengthening my computer science fundamentals.
+
+My goal is to continue publishing meaningful projects that demonstrate both technical depth and creativity.
+
+## Education and Proof of Work
+
+* **B.Tech in Computer Science Engineering**
+* Saintgits College of Engineering, Kottayam, Kerala
+
+### Certifications & Learning
+
+* Infosys Springboard – HTML
+* SWAYAM-NPTEL – Python Programming
+* SWAYAM-NPTEL – Introduction to Machine Learning
+
+### Internships
+
+* Full Stack Development Intern
+* Data Science & Machine Learning Intern
+
+## History of Leadership
+
+Although I have not yet held formal leadership positions, I consistently take initiative in personal and collaborative projects. I enjoy organizing development tasks, taking ownership of responsibilities, and ensuring work gets completed efficiently. I believe leadership is demonstrated through action, reliability, and continuous improvement.
+
+## Networking
+
+Through μFIFA, I hope to connect with developers, AI enthusiasts, designers, makers, startup founders, and creative technologists from diverse backgrounds. I believe cross-disciplinary collaboration leads to better innovation, and I’m excited to learn from people who share a passion for building impactful solutions.
+
+## Career Plan
+
+### Immediate Goals (Next 6–12 Months)
+
+* Master the MERN Stack.
+* Strengthen my AI & Machine Learning knowledge.
+* Build high-quality portfolio projects.
+* Contribute consistently on GitHub.
+* Prepare for internships and software engineering opportunities.
+
+### Long-Term Vision
+
+My ambition extends beyond software engineering. While I aim to establish myself as a capable full-stack developer with expertise in AI, I also aspire to pursue my lifelong passion for filmmaking, direction, acting, and creative storytelling. I want to combine technology and creativity to build products, experiences, and stories that positively impact people around the world.
+
+---
+
+# 📇 Profile Card
+
+**Name:** Fahad Bin Hashim
+**Role:** Full-Stack Developer | AI Enthusiast | Creative Technologist
+**Squad:** Coder 💻
+**μFIFA Nation:** Brazil 🇧🇷
+**Favourite Footballer:** Neymar Jr. 🇧🇷
+**Current Focus:** MERN Stack, AI & Machine Learning, Open Source, Creative Technology
+**Institution:** Saintgits College of Engineering, Kottayam
+**GitHub:** https://github.com/Fahadbinhashim2005
+**LinkedIn:** https://www.linkedin.com/in/fahadbinhashim/
+
+> *“Code with consistency. Create with passion. Learn without limits.”*
