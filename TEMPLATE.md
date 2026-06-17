@@ -1,11 +1,10 @@
-# Full Name (Your Role / What You Do)
-### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
+# Libin A Reji (Designer)
+
+### Squad Domain: Designer | FIFA Nation: India
 
 ### About Me
 
-> Who are you, what do you build or create, and what brought you to μFIFA? Tell us about your field, your work at your institution or organisation, and what you're here to prove on the pitch. If you're just starting out, tell us what excites you and what you want to become. *(Minimum 200 characters)*
-
----
+I am Libin A Reji, a student at Providence College of Engineering. I am passionate about design, creativity, and technology. I enjoy learning new tools, creating user interfaces, and participating in innovation challenges. Through μFIFA 2026, I hope to improve my skills, collaborate with talented people, and contribute meaningfully to my squad while gaining valuable experience.
 
 ## ⚽ FIFA World Cup Corner
 
