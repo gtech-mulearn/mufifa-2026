@@ -57,8 +57,8 @@ A neat, open source template that extracts a student's accomplishments, challeng
 You may include your last step of being added to the main µLearn Discord server. That’s the place where all the action takes place—you turn in your enablement tasks, communicate with peers from other IGs, and receive activation of your personal μID.
 
 #### Domain Profiles:
-  - **Coder**: GitHub- https://github.com/TheSpulbur
-  - HackerRank- https://www.hackerrank.com/profile/faizananushams
+  - **Coder**: GitHub: [TheSpulbur](www.github.com/TheSpulbur)
+  - HackerRank: [faizananushams](www.hackerrank.com/profile/faizananushams)
  
 
 #### Tools, Workflows & Automations:
