@@ -62,9 +62,9 @@
 
 ### Domain Profiles:
 
-- 💻 **Developer:** GitHub – DHURANTHAM007
-- ✍️ **Content Creator:** Content Writer at μLearn MCE
-- 🎨 **Creative Designer:** Event branding, posters, and digital campaigns
+- 💻 **Developer:** GitHub – https://github.com/DHURANTHAM007
+- ✍️ **Content Creator:** https://medium.com/@anjosh753/list/3f9fb9da4cc0
+- 🎨 **Strategist:** https://www.linkedin.com/in/anjosh007
 
 ### Tools, Workflows & Technologies:
 
@@ -114,9 +114,7 @@
 
 ### Profile Card
 
-```html
 <img
     src="https://mulearn.org/embed/rank/anjoshja@mulearn"
     width="400px">
 </img>
-```
