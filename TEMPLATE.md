@@ -143,14 +143,7 @@ My ambition extends beyond software engineering. While I aim to establish myself
 
 # 📇 Profile Card
 
-**Name:** Fahad Bin Hashim
-**Role:** Full-Stack Developer | AI Enthusiast | Creative Technologist
-**Squad:** Coder 💻
-**μFIFA Nation:** Brazil 🇧🇷
-**Favourite Footballer:** Neymar Jr. 🇧🇷
-**Current Focus:** MERN Stack, AI & Machine Learning, Open Source, Creative Technology
-**Institution:** Saintgits College of Engineering, Kottayam
-**GitHub:** https://github.com/Fahadbinhashim2005
-**LinkedIn:** https://www.linkedin.com/in/fahadbinhashim/
-
-> *“Code with consistency. Create with passion. Learn without limits.”*
+<img
+    src="https://mulearn.org/embed/rank/fahadbinhashim@mulearn"
+    width="900px">
+</img>
