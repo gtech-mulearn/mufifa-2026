@@ -83,11 +83,9 @@ Participating in µLearn programs and student tech communities.
 
 Domain Profiles
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/tobinjoseph18-art
 
-LinkedIn: https://linkedin.com/in/your-profile
-
-
+LinkedIn: https://www.linkedin.com/in/tobinjoseph2007?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
