@@ -11,7 +11,6 @@ What brought me to μFIFA is the same mindset I bring to my work: discipline, st
 
 ## ⚽ FIFA World Cup Corner
 
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
 
 #### My Nation & Why:
 
@@ -50,8 +49,6 @@ By the end of μFIFA, I want to have grown both technically and personally. As a
 ---
 
 ## 🏅 Portfolio Highlights
-
-> No portfolio yet? That's fine. μFIFA is where you build one. Fill in what you have, even if it's just an idea, a plan, or something you're currently learning.
 
 #### History of Open Source and Collaborative Contributions:
 
