@@ -1,9 +1,9 @@
-# Sachin Raj M (Generalist, Program Manager & AI Engineer)
-### Squad Domain: Strategist | FIFA Nation: Argentina
+# Anjosh J A (Content Creator, Designer, Strategist)
+### Squad Domain: Creative | FIFA Nation: Argentina
 
 ### About Me
 
-> I am a Program Manager at μLearn Foundation (a Section 8 non-profit under GTech, Kerala) and an AI Engineer. I focus on bridging the gaps between software development, hardware prototyping, design, and operations. At μLearn, I coordinate daily operations, program execution, and campus partnerships across the ecosystem.
+> A content writer and strategist focused on the idea that strong concepts matter as much as clean execution. By merging storytelling with practical marketing insights, I create purpose driven content that builds brand voice and drives audience engagement.
 
 ---
 
