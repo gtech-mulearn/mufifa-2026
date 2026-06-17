@@ -111,6 +111,6 @@ Building a tournament-specific application offers the perfect playground to impl
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
+    src="https://mulearn.org/embed/rank/adhithyasu@mulearn"
     width="400px">
 </img>
