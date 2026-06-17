@@ -1,0 +1,20 @@
+{
+  "name": "mufifa-2026",
+  "version": "1.0.0",
+  "description": "μFIFA World Cup 2026 - The Festival of Innovation, Fellowship & Achievement by μLearn",
+  "scripts": {
+    "validate": "python scripts/validate_profile.py",
+    "prepare": "husky install || true"
+  },
+  "keywords": [
+    "mufifa",
+    "mulearn",
+    "innovation",
+    "challenge"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "husky": "^9.1.7"
+  }
+}
