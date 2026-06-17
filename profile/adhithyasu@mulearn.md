@@ -53,20 +53,19 @@ Building a tournament-specific application offers the perfect playground to impl
 
 #### History of Open Source and Collaborative Contributions:
 
-
-- Developed custom Model Context Protocol (MCP) servers and automation pipelines.
+ Developed a highly cost-effective project which can solve the kerala's rainy season issues which is the AQUA SENSE,an ultra-low-cost, IoT-enabled edge computing node designed to eliminate localized flash-flood telemetry blind spots on municipal streets during monsoonsand also developed custom Model Context Protocol (MCP) servers.
 
 #### History of Community Engagement:
 
-- Coordinated operations for initiatives like Launchpad, Top 100 Series, In50Hours, and Mutate.
-- Assist student developers and creators on the Discord server with onboarding and learning paths.
+ Coordinated operations for initiatives like Launchpad, Top 100 Series, In50Hours, and Mutate.
+ Assist student developers and creators on the Discord server with onboarding and learning paths.
 
 #### Domain Profiles:
 
 -Github:[](https://github.com/Adhieeeh)
 -Linkedin:[](https://www.linkedin.com/in/adhithya-su)
--HackerRank:
--Vercel: https://vercel.com/adhithyasu6-2675s-projects
+-HackerRank: [](https://www.hackerrank.com/profile/adhithyasu02)
+-Vercel: [](https://vercel.com/adhithyasu6-2675s-projects)
 
 #### Tools, Workflows & Automations:
 
@@ -76,23 +75,23 @@ Building a tournament-specific application offers the perfect playground to impl
 
 #### Public Portfolio & Recognition:
 
-- Created guides on integrating AI workflows into student learning pathways, used across college campus.
+Created guides on integrating AI workflows into student learning pathways, used across college campus.
 
 #### Education and Proof of Work:
 
-- BTech in Computer Science and engineering at College of Engineering,Muttathara,TVM.
-- Certifications: IBM 's web Development ,Ai tools ,Cybersecurity certificates,TCS ION Career EDGE-Young proffesional certificate.Future skills prime's web,mobile development and marketing,overview of BDA,Popular software tools, chchatgpt for excel,Srishtis Field visit certificate.
+ BTech in Computer Science and engineering at College of Engineering,Muttathara,TVM.
+ Certifications: IBM 's web Development ,Ai tools ,Cybersecurity certificates,TCS ION Career EDGE-Young proffesional certificate.Future skills prime's web,mobile development and marketing,overview of BDA,Popular software tools, chchatgpt for excel,Srishtis Field visit certificate.
 - GitHub: [](https://github.com/Adhieeeh)
 - LinkedIn: [](https://www.linkedin.com/in/adhithya-su)
 
 #### History of Leadership:
 
-- Worked in progressive operations and coordinator roles at college of engineering muttathara and an active member of GDG TVM
-- Assisted cross-functional teams of developers, creators, and coordinators on educational programs.
+ Worked in progressive operations and coordinator roles at college of engineering muttathara and an active member of GDG TVM
+ Assisted cross-functional teams of developers, creators, and coordinators on educational programs.
 
 #### Networking:
 
-- Collaborated with GDG , Shristi Communications tvm
+ Collaborated with GDG , Shristi Communications tvm
 
 #### Career Plan:
 
@@ -102,8 +101,6 @@ Building a tournament-specific application offers the perfect playground to impl
 ---
 
 #### Profile Card:
-
-<!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
     src="https://mulearn.org/embed/rank/adhithyasu@mulearn"
