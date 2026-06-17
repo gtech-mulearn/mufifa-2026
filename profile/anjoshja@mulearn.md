@@ -32,7 +32,7 @@
 ### 2026 Predictions:
 
 - **Winner:** Argentina
-- **Dark Horse:** Morocco
+- **Dark Horse:** Germany
 - **Player of the Tournament:** Messi/Mbappe
 - **Most Anticipated Match:** Argentina vs France
 
