@@ -18,7 +18,7 @@ FIFA World Cup Corner
 
 My Nation & Why:
 
-I represent India in µFIFA because I support its growth and potential in global football.
+I represent Brazil in µFIFA because I support its growth and potential in global football.
 
 Supporting Team in FIFA World Cup 2026:
 
