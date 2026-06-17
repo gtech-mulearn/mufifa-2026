@@ -1,4 +1,4 @@
-# Anjosh J A (Content Creator, Developer & Community Builder)
+# Anjosh J A (Content Creator, Strategist, Community Builder)
 ### Squad Domain: Creative | FIFA Nation: Argentina
 
 ## About Me
