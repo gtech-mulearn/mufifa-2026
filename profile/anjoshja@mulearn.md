@@ -33,7 +33,7 @@
 
 - **Winner:** Argentina
 - **Dark Horse:** Morocco
-- **Player of the Tournament:** Jude Bellingham
+- **Player of the Tournament:** Messi/Mbappe
 - **Most Anticipated Match:** Argentina vs France
 
 ### μFIFA World Cup 2026 – Tournament Goals:
@@ -70,7 +70,7 @@
 
 - **Programming:** C, Python, Java, JavaScript
 - **Web Development:** React, Tailwind CSS, HTML, CSS
-- **Design & Content:** Canva, Figma, Photoshop, ChatGPT
+- **Design & Content:** Canva, Figma, Photoshop, Gemini
 - **Productivity:** GitHub, Vercel, Notion
 
 ### Public Portfolio & Recognition:
