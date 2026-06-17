@@ -75,7 +75,7 @@
 
 ### Public Portfolio & Recognition:
 
-- Created and deployed **Iron-Folio**, a personal portfolio showcasing projects, achievements, and technical skills.
+- Created and deployed my portfolio, a personal portfolio showcasing projects, achievements, and technical skills.
 - Produced promotional content and event campaigns for μLearn MCE and Inspira Marian IEDC.
 - Contributed to multiple student-led workshops, hackathons, and innovation programs.
 
