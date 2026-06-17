@@ -85,3 +85,8 @@ Working alongside a friend, Abhinav V R, on DevaBhumi, and collaborating across 
 ---
 
 #### Profile Card:
+ 
+<img
+    src="https://mulearn.org/embed/rank/ayushrkumar@mulearn"
+    width="400px">
+</img>
