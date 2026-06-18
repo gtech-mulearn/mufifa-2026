@@ -96,7 +96,7 @@
 
 * B.Tech Computer Science and Engineering
 * St. Joseph's College of Engineering and Technology (SJCET), Palai
-* MuID: kiranmadhav@mulearn
+* MUID: kiranmadhav@mulearn
 * GitHub: https://github.com/kiran-madhav
 * LinkedIn: https://www.linkedin.com/in/kiran--madhav
 
