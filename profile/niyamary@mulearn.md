@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am Niya Mary L, a BTech Computer Science student at College of Engineering Kidangoor. I am interested in Full Stack Web Development and Data Analytics and have completed a Full Stack Web Development bootcamp. I enjoy building web applications and learning new technologies through hands-on projects. My mini project, Intelligent Gym & Fitness Management System, helped me gain experience in web development and teamwork. I joined μFIFA to learn from the community, improve my technical skills, contribute to collaborative projects, and build a stronger portfolio through consistent participation and practical work.
+I am Niya Mary L, a BTech Computer Science student at College of Engineering Kidangoor. I am interested in Full Stack Web Development and have completed a Full Stack Web Development bootcamp. I enjoy building web applications and learning new technologies through hands-on projects. My mini project, Intelligent Gym & Fitness Management System, helped me gain experience in web development and teamwork.
 
 ---
 
