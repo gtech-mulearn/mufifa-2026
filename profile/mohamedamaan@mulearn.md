@@ -141,7 +141,7 @@ My long-term goal is to become an AI entrepreneur building products used by mill
 
 ```html
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
+    src="https://mulearn.org/embed/rank/mohamedamaan@mulearn"
     width="400px">
 </img>
 ```
