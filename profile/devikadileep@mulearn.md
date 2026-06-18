@@ -3,11 +3,7 @@
 
 ### About Me
 
-I am Devika Dileep, a Computer Science and Engineering graduate from the College of Engineering Perumon, Kerala. I am passionate about frontend development and creating responsive, user-friendly web applications that deliver great user experiences. I enjoy transforming ideas and designs into functional products using modern web technologies.
-
-Currently, I serve as a Frontend Developer Intern and Web Interest Group Lead at GTech μLearn, where I collaborate on frontend projects, contribute to technical communities, and help fellow learners grow their development skills. My experience includes building applications using React, Next.js, TypeScript, and Tailwind CSS, with a strong focus on clean code, performance, and accessibility.
-
-I joined μFIFA to challenge myself, connect with talented builders, strengthen my frontend engineering skills, and create projects that showcase my abilities. My goal is to become a skilled Frontend Engineer who builds impactful digital experiences and contributes to the developer community.
+> I am Devika Dileep, a Computer Science and Engineering graduate from the College of Engineering Perumon, Kerala. I am passionate about frontend development and creating responsive, user-friendly web applications that deliver great user experiences. I enjoy transforming ideas and designs into functional products using modern web technologies. Currently, I serve as a Frontend Developer Intern and Web Interest Group Lead at GTech μLearn, where I collaborate on frontend projects, contribute to technical communities, and help fellow learners grow their development skills. My experience includes building applications using React, Next.js, TypeScript, and Tailwind CSS, with a strong focus on clean code, performance, and accessibility. I joined μFIFA to challenge myself, connect with talented builders, strengthen my frontend engineering skills, and create projects that showcase my abilities. My goal is to become a skilled Frontend Engineer who builds impactful digital experiences and contributes to the developer community.
 
 ---
 
