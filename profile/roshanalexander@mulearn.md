@@ -1,5 +1,5 @@
 # Roshan Alexander (Computer Science Student, AI Enthusiast & Data science and AI Student)
-### Squad Domain: Coder | FIFA Nation: Argentina
+### Squad Domain: Coder FIFA Nation: Argentina
 
 ### About Me
 
