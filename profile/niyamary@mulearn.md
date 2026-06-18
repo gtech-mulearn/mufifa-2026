@@ -102,6 +102,6 @@ I look forward to connecting with students, developers, and innovators from diff
 #### Profile Card:
 
 <img
- src="https://mulearn.org/embed/rank/niya-2@mulearn"
- width="400px"> 
- </img>
+    src="https://mulearn.org/embed/rank/niya-2@mulearn"
+    width="400px">
+</img>
