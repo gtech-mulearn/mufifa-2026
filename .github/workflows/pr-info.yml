@@ -1,0 +1,27 @@
+name: PR Information
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+jobs:
+
+  info:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Print PR Information
+        run: |
+          echo "PR Number : ${{ github.event.pull_request.number }}"
+          echo "Author    : ${{ github.event.pull_request.user.login }}"
+          echo "Title     : ${{ github.event.pull_request.title }}"
+          echo "Base      : ${{ github.event.pull_request.base.ref }}"
+          echo "Head      : ${{ github.event.pull_request.head.ref }}"
