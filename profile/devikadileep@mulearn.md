@@ -174,9 +174,7 @@ My long-term goal is to become an experienced Frontend Engineer specializing in 
 
 ## Profile Card
 
-```html
 <img
     src="https://mulearn.org/embed/rank/devikadileep@mulearn"
     width="400px">
 </img>
-```
