@@ -70,7 +70,7 @@
 #### Domain Profiles:
 
 - 💻 **Coder**: [GitHub: roshanalexander22](https://github.com/roshanalexander22)
-- 📋 **Strategist**: [LinkedIn: Roshan Alexander](www.linkedin.com/in/roshan-alexander-thu2122005)
+- 📋 **Strategist**: [LinkedIn: Roshan Alexander](https://www.linkedin.com/in/roshan-alexander-thu2122005)
 
 #### Tools, Workflows & Automations:
 
@@ -93,7 +93,7 @@
 - B.Tech Computer Science Engineering – Government Engineering College, Idukki
 - BS in Artificial Intelligence and Data Science – IIT Guwahati
 - GitHub: [GitHub: roshanalexander22](https://github.com/roshanalexander22)
-- LinkedIn: [LinkedIn: Roshan Alexander](www.linkedin.com/in/roshan-alexander-thu2122005)
+- LinkedIn: [LinkedIn: Roshan Alexander](https://www.linkedin.com/in/roshan-alexander-thu2122005)
 
 #### History of Leadership:
 
