@@ -23,8 +23,8 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 #### All-Time Favourite Player:
 
-- Who is your all-time favourite footballer and why?
-- What about their game or story resonates with you?
+- **Cristiano Ronaldo**
+- 
 
 #### Best Player Right Now:
 
