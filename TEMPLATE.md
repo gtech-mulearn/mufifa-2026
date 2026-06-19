@@ -1,25 +1,22 @@
-# Full Name (Your Role / What You Do)
-### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
+# Mariya Primil (Aspiring AI Engineer)
+### Squad Domain: Coder | FIFA Nation: Argentina
 
 ### About Me
 
-> Who are you, what do you build or create, and what brought you to μFIFA? Tell us about your field, your work at your institution or organisation, and what you're here to prove on the pitch. If you're just starting out, tell us what excites you and what you want to become. *(Minimum 200 characters)*
+> I'm a second year engineering student at SJCET, Palai. I have a growing paassion for technology, design, and community building. I've been exploring the UI/UX domain recently and have been teaching myself basics using MuLearn internship, hands-on projects, and other learning oppurtunities. Alongside academics, I've actively explored leadership, event management, and communication roles, which have helped me develop teamwork and problem-solving skills
+> What brought me to μFIFA is the opportunity to connect with like-minded students who are passionate about learning, competition, and growth. I'm here not just to play, but to challenge myself, meet new people, and represent the spirit of continuous improvement. As someone still at the beginning of my journey, I'm excited to learn from every experience, sharpen my skills, and grow into a well-rounded engineer and designer who can create meaningful impact both on and off the pitch.
 
 ---
 
 ## ⚽ FIFA World Cup Corner
 
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
-
 #### My Nation & Why:
 
-- Which FIFA Nation are you representing in μFIFA, and why did you pick them?
-- Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
+*i am representing Argentina in μFIFA. While many people associate Argentina with its rich football legacy, my connection comes from watching their team spirit over the years. The 2022 World Cup run showed how determination and leadership can overcome immense pressure. Argentina represents a balance of talent, passion, and teamwork that I admire both in football and in collaborative communities.*
 
 #### Supporting Team in the Real World Cup 2026:
 
-- Which team are you backing in the actual FIFA World Cup 2026?
-- Are they the same as your μFIFA Nation, or do you split loyalties?
+I will be supporting Argentina in the FIFA World Cup 2026 as well. My loyalty stays with the same team because I enjoy following their style of play and the culture they bring to international football.
 
 #### All-Time Favourite Player:
 
@@ -75,9 +72,12 @@
 
 #### Tools, Workflows & Automations:
 
-- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
-- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
+I use:
+Figma
+Canva
+VS Code
+Google Workspace
+Notion
 
 #### Public Portfolio & Recognition:
 
@@ -87,13 +87,13 @@
 
 #### Education and Proof of Work:
 
-- Mention your current degree, institution, and any relevant certifications or courses completed.
-- Add links to your GitHub and LinkedIn profiles.
+I am currently pursuing a Bachelor's degree in Engineering. Alongside academics, I actively explore UI/UX design, coding, and community-based learning opportunities through platforms like μLearn.
+Github:
+LinkedIn:
 
 #### History of Leadership:
 
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
+I have taken initiative in team activities, collaborative projects, and community engagements where I contributed to planning, communication, and execution. I believe leadership is about taking responsibility, supporting others, and helping a team move toward a common goal.
 
 #### Networking:
 
@@ -102,7 +102,9 @@
 
 #### Career Plan:
 
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
+- **Immediate:**Strengthen my programming fundamentals
+Build a UI/UX portfolio
+Gain practical experience through projects and community initiatives
 - **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
 
 ---
