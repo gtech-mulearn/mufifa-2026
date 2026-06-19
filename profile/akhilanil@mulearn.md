@@ -21,6 +21,9 @@ Brazil it is.
 ### Best Player Right Now:
 **Vinícius Júnior**.
 
+### Past World Cup Memories:
+**Germany 7–1 Brazil, 2014.** Watching that semifinal unfold was an unforgettable heartbreak as a supporter.
+
 ### 2026 Predictions:
 *   **Winner:** Brazil to lift the trophy and secure the hexa. 
 *   **Dark Horse:** Japan. Their discipline, high-pressing transition play, and tactical growth mean they can upset any giant on their day.
