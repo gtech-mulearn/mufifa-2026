@@ -110,7 +110,10 @@ I joined μFIFA to learn, collaborate, and challenge myself alongside talented p
 * Continue learning emerging technologies while contributing to technical communities and open-source initiatives.
 
 ## Profile Card
-https://mulearn.org/embed/rank/meenuks@mulearn
+<img
+    src="https://mulearn.org/embed/rank/meenuks@mulearn"
+    width="400px">
+</img>
 
 
   
