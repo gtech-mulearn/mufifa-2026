@@ -106,8 +106,8 @@ I am a B.Tech Computer Science and Engineering student at Providence College of 
 
 #### Profiles:
 
-* GitHub: [Your GitHub Profile]
-* LinkedIn: [Your LinkedIn Profile]
+* GitHub: https://github.com/Febinabey
+* LinkedIn: https://www.linkedin.com/in/febin-abey
 
 #### History of Leadership:
 
