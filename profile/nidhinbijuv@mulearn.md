@@ -3,7 +3,7 @@
 
 ### About Me
 
-> I am Nidhin Biju V, a B.Tech Electronics and Communication Engineering (ECE) graduate with a deep passion for graphic design and visual storytelling. What brought me to μFIFA is the exciting opportunity to kickstart my journey with μLearn, dive into its vast ecosystem of learning, and connect with a vibrant community of like-minded peers who share a drive for innovation.
+I am Nidhin Biju V, a B.Tech Electronics and Communication Engineering (ECE) graduate with a deep passion for graphic design and visual storytelling. What brought me to μFIFA is the exciting opportunity to kickstart my journey with μLearn, dive into its vast ecosystem of learning, and connect with a vibrant community of like-minded peers who share a drive for innovation.
 
 My background in ECE gives me a strong technical foundation, but my true excitement lies where technology meets creativity. While I am just starting out in this specific arena, I am incredibly eager to explore how my analytical skills can merge with my design interests to create impactful digital experiences. On the pitch, I am here to prove my adaptability, learn from the best, and evolve into a versatile creator capable of blending logic with art. I’m ready to collaborate, grow, and make my mark in this community!
 ---
