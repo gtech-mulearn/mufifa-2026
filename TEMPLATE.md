@@ -1,4 +1,4 @@
-# Amritha Pradeep (Your Role / What You Do)
+# Amritha Pradeep (BCA Student & Aspiring Data Analyst)
 ### Squad Domain: [Coder  | FIFA Nation: India]
 
 ### About Me
