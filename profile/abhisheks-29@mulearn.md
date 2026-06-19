@@ -37,10 +37,10 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 #### 2026 Predictions:
 
-- Who wins the FIFA World Cup 2026?
-- Dark horse team to watch?
-- Player who will define this tournament?
-- Which match are you most looking forward to?
+- **Winner:** France should win the World Cup because Mbappé deserves it.
+- **Dark horse:** Norway because of Haaland Ødegaard combo.
+- **Player of the Tournament:** Erling Haaland
+- **Most Anticipated Match:** Portugal vs Spain (2018 World Cup) Ronaldo's legendary hat-trick, including a late free-kick.
 
 #### μFIFA World Cup 2026 - Tournament Goals:
 
