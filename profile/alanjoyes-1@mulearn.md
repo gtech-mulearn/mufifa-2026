@@ -185,6 +185,15 @@ Long-term:
 
 ---
 
+Profile Card
+
+<img
+    src="https://mulearn.org/embed/rank/alanjoyes-1@mulearn"
+    width="400px">
+</img>
+
+---
+
 Motto
 
 «"Keep learning, keep building, and let curiosity drive innovation."»
