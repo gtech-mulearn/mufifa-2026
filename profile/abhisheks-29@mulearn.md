@@ -63,8 +63,14 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 #### History of Community Engagement:
 
-- Describe your engagement in technical or creative communities: Discord servers, forums, hackathons, campus clubs, μLearn programs, or any space where you've shown up and contributed consistently.
-- *If you're just starting:* mention a community you've recently joined or an event you attended. Showing up counts.
+- Recently joined the **μLearn community (GECK)**.
+  
+- Attended talk sessions and workshops on:
+**EV exploration (IEDC RIT)**
+**Photoshop (IEDC RIT)**
+**Cybersecurity (TECHMAGI X ELAN & NVISION)**
+  
+- Recently joined **μFIFA Community**.
 
 #### Domain Profiles:
 
