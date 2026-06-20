@@ -48,4 +48,6 @@ As someone early in my journey, I am driven by learning how to build things from
  * **Immediate (6–12 Months):** Mastering core Network Theory and advanced logic scripting during academic milestones, aiming to secure high-value paid technical internships during upcoming seasonal vacations.
  * **Long-Term:** Branching out into dedicated IoT engineering and system design solutions, utilizing the collective teamwork, rapid proof-of-work ethos, and agile pipelines learned right here in \muFIFA to build highly impactful open-source technology.
 ### Profile Card:
- * 
+<img src="https://mulearn.org/embed/rank/aryanandan@mulearn"
+    width="400px">
+</img>
