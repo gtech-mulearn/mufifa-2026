@@ -22,6 +22,15 @@
 #### Best Player Right Now:
 - If we are talking about the best player overall, I have to acknowledge Lionel Messi. However, if we are measuring by absolute ball control, pure dribbling skills, and on-pitch magic, my choice is Neymar Jr.
 
+#### Past World Cup Memories:
+- My most memorable moment is undoubtedly the 2022 World Cup where Lionel Messi won his first crown. Witnessing that historic achievement was truly spectacular.
+
+#### 2026 Predictions:
+- **Winner:** I predict Brazil will win the FIFA World Cup 2026.
+
+#### μFIFA World Cup 2026 - Tournament Goals:
+- I aim to connect with more people, learn new skills from different domains, and further improve my leadership skills by the time the final whistle blows.
+
 ---
 
 ## 🏅 Portfolio Highlights
@@ -32,6 +41,31 @@
 - **CTF PCAP Analyzer:** Built a specialized PCAP file analyzer optimized for rapid network traffic analysis, packet inspection, and flag extraction during time-sensitive CTF competitions.
 - **International CTF Infrastructure:** Architected, organized, and hosted an international-level Capture The Flag (CTF) competition that successfully supported over 400 global participants.
 - **Curriculum & Community Development:** Designed a comprehensive 24-week "Zero to Pro" cybersecurity syllabus aimed at transitioning students from foundational networking concepts to advanced penetration testing skills.
+
+#### History of Community Engagement:
+- Attended 50+ CTF challenges with 30+ wins and participated in numerous workshops.
+- Served as the featured speaker for a "Cybersecurity 101" talk aimed at the general student body, successfully engaging an audience of 100+ participants.
+- Hosted an international level CTF.
+- Created a 6-month curriculum for students interested in cybersecurity.
+
+#### Domain Profiles:
+- **LinkedIn:** [Rahul Raj VM](https://www.linkedin.com/in/n0x)
+- **GitHub:** [@xzn0x](https://github.com/xzn0x)
+
+#### Education and Proof of Work:
+- Currently a 4th-year B.Tech Computer Science and Engineering (Cyber Security) student at Rajadhani Institute of Engineering and Technology.
+
+#### History of Leadership:
+- **μLearn Foundation:** Cybersecurity Interest Group (IG) Lead
+- **μLearn RIE:** Cybersecurity Interest Group (IG) Lead
+- **ROOT RIET (Cybersecurity Club):** Operations Head
+- **Chess Club:** Lead
+
+#### Networking:
+- Through my extensive participation in CTF competitions, I have successfully made numerous connections with cybersecurity professionals and enthusiasts around the world.
+
+#### Career Plan:
+- **Immediate/Long-term:** My primary focus is to continuously improve my cybersecurity skills and secure a job in the cybersecurity field.
 
 ---
 
