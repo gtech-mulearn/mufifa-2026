@@ -63,7 +63,7 @@ Fork [this repository](https://github.com/gtech-mulearn/mufifa-2026) to your own
 Create a new Markdown file inside `/profile`, named using your MUID:
 
 ```
-profile/yourname@mulearn.md
+ameenas@mulearn.md
 ```
 
 **3. Fill out your profile**
