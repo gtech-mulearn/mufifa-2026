@@ -75,7 +75,7 @@ I want to use μFIFA to connect with developers, designers, and football enthusi
 
 #### Career Plan:
 
-Currently i'm building a Saas company based in UK, I am the CTO of the company. You can checkout the company website here: https://daxiontech . 
+Currently i'm building a Saas company based in UK, I am the CTO of the company. You can checkout the company website here: https://daxiontech.com .
 In the next 6–12 months, I want to deepen my expertise in full-stack development, cloud infrastructure, and scalable systems. Long term, I aim to build impactful software products and establish myself as a skilled software engineer and product builder.
 
 #### Profile Card:
