@@ -104,10 +104,11 @@
 ---
 
 #### Profile Card:
-<img
-    src="https://mulearn.org/embed/rank/amaldeva@mulearn"
-    width="400px">
-</img>
+
+
+
+
+<img src="https://mulearn.org/embed/rank/amaldeva@mulearn" width="600px"></img>
 
 
 
