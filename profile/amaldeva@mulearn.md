@@ -9,8 +9,8 @@
 
 #### My Nation & Why:
 
-- Which FIFA Nation are you representing in μFIFA, and why did you pick them?
-- Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
+- I am representing Argentina in the fifa 2026 because of the goat player Messi.
+- From the fifa 2022 i saw legacy match of Argentina that why i am representing  the Argentina.
 
 #### Supporting Team in the Real World Cup 2026:
 
