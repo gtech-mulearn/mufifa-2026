@@ -62,18 +62,18 @@
 
 #### Domain Profiles:
 
-- Link to the platforms where your work lives publicly, relevant to your Squad Domain(s):
-  - **Coder**: GitHub, LeetCode, HackerRank, CTFtime, or similar
-  - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
-  - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
-  - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
-- *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
+
+  - **Coder**:[Github](https://github.com/amaldev9188)
+  - **Designer**:[Figma](https://www.figma.com/@amaldev2)
+  - **Maker**:[hackster.io]( https://www.hackster.io/amaldevblogs999)
+  - **Strategist**:[linkedin]( https://www.linkedin.com/in/amaldeva)
+  
 
 #### Tools, Workflows & Automations:
 
-- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
-- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
+-  Kali linux for cyber-security learning purpose.
+- Google Antigravity,Ai studio and Vs code for development.
+
 
 #### Public Portfolio & Recognition:
 
@@ -83,8 +83,10 @@
 
 #### Education and Proof of Work:
 
-- Mention your current degree, institution, and any relevant certifications or courses completed.
-- Add links to your GitHub and LinkedIn profiles.
+- Pursuing Btech CSE.
+- Linkedin:[amaldeva](https://www.linkedin.com/in/amaldeva)
+  
+  
 
 #### History of Leadership:
 
