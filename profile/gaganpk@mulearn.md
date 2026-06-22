@@ -56,7 +56,7 @@
 
 #### Domain Profiles:
 
-- 💻 **Creative**: [GitHub: gaganpknair](https://github.com/gaganpknair)
+- 💻 **Creative**: [GitHub: gaganpk101](https://github.com/gaganpk101)
 -  [LinkedIn: Gagan P K](https://www.linkedin.com/in/gagan-p-k-34245637a/)
 
 #### Tools, Workflows & Automations:
@@ -73,7 +73,7 @@
 
 - BTech in Artificial Intelligence and Machine Learning from Marian Engineering College , Menamkulam.
 - Certifications: Nasscomm digital edge 101 , Machine learning at alpha innovation, AI unleashed by FOSS UNITED , CYBER SECURITY AND ETHICAL HACKING BY UDEMY.
-- GitHub: [gaganpknair](https://github.com/gaganpknair)
+- GitHub: [gaganpk101](https://github.com/gaganpk101)
 - LinkedIn: [Gagan P K](https://www.linkedin.com/in/gagan-p-k-34245637a/)
 
 #### History of Leadership:
