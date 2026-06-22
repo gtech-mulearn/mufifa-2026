@@ -128,8 +128,7 @@ Improve my problem-solving and software development skills
 
 # Profile Card:
 
-
 <img
-    src="https://app.mulearn.org/profile/libinareji@mulearn"
+    src="https://mulearn.org/embed/rank/libinareji@mulearn"
     width="400px">
 </img>
