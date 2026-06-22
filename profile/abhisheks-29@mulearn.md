@@ -77,12 +77,9 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 #### Domain Profiles:
 
-- Link to the platforms where your work lives publicly, relevant to your Squad Domain(s):
-  - **Coder**: GitHub, LeetCode, HackerRank, CTFtime, or similar
-  - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
-  - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
-  - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
-- *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
+  - **Designer**:
+    [Behance: 
+    
 
 #### Tools, Workflows & Automations:
 
