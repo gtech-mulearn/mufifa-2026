@@ -86,7 +86,8 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 #### Tools, Workflows & Automations:
 
 - AI tools: Claude, Chat GPT, Gemini etc.
-- 
+- Editing: Adobe Lightroom, Photoshop Express etc.
+- Designing: Canva, Adobe Photoshop etc.
 
 #### Public Portfolio & Recognition:
 
