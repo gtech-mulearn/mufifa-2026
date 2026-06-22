@@ -117,6 +117,7 @@ Led an entrepreneurship project team, coordinated tasks, and guided the project 
   
 ---
 
+
 #### Profile Card:
 
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
