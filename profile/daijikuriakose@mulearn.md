@@ -60,7 +60,7 @@
 
 #### History of Open Source and Collaborative Contributions:
 
-* Built projects such as **Savespics** and **Savesphere**, focusing on web development, authentication systems, and cloud-based solutions.
+* Built projects such as **supply-sync** and **Savesphere**, focusing on web development, authentication systems, and cloud-based solutions.
 * Participated in collaborative learning initiatives through μLearn.
 * Exploring opportunities to contribute to open-source projects and expand my public proof-of-work through GitHub.
 
