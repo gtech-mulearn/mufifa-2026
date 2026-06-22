@@ -1,6 +1,6 @@
 # Aradhana Rose (Computer Science Student | Creative Developer | AI & Design Enthusiast)
 
-**Squad Domain:** Creative | FIFA Nation: Argentina
+**Squad Domain:** Designer | FIFA Nation: Argentina
 
 ## About Me
 
