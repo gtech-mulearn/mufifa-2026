@@ -48,8 +48,8 @@ Until this year I have not been very active in tech communities, but that is som
 
 #### Domain Profiles:
 
-- GitHub: https://github.com/abhishek4me  
-- LinkedIn: https://www.linkedin.com/in/abhishek6969/  
+- GitHub: https://github.com/MartinJob07
+- LinkedIn: https://www.linkedin.com/in/martin-job-a4b599398/
 
 #### Tools, Workflows & Automations:
 
