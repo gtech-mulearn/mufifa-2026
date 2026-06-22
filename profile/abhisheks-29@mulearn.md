@@ -101,8 +101,9 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 #### History of Leadership:
 
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
+- Team Leader **GreenPlate Solutions**
+Led an entrepreneurship project team, coordinated tasks, and guided the project from idea to presentation. Developed leadership, teamwork, and problem-solving skills.
+- [Our Work: Green Plate Solutions](https://drive.google.com/drive/folders/1ndvPgIapLpTGqX2Mn1zC7QEyPVvNpnXe)
 
 #### Networking:
 
