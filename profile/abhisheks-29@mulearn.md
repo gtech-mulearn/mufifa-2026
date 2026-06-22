@@ -80,13 +80,13 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
   - **Designer**:
   -  [Behance: Abhishek.S](https://www.behance.net/abhisheks135)
   -  [Dribble: ABHISHEK S](https://dribbble.com/abhishek-s06)
+  -  [Instagram: ABHISHEK](https://www.instagram.com/a4_alphaaa?igsh=MXQ1OWwwbGdtb2IyNw==)
     
 
 #### Tools, Workflows & Automations:
 
-- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
-- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
+- AI tools: Claude, Chat GPT, Gemini etc.
+- 
 
 #### Public Portfolio & Recognition:
 
