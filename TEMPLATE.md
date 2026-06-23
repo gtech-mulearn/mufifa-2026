@@ -96,7 +96,7 @@ My long-term goal is to become a skilled designer capable of creating impactful 
 ---
 ## Profile Card
 <img
-    src="https://mulearn.org/embed/rank/sreeharputhenveedusunilkumar@mulearn"
+    src="https://mulearn.org/embed/rank/sreehariputhenveedusunilkumar@mulearn"
     width="400px">
 </img>
 ```
