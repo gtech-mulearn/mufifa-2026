@@ -1,83 +1,178 @@
-# Dilshan.k (Student)
+# Dilshan K (Student)
 
 ### Squad Domain: Creative | FIFA Nation: Portugal
 
-### About Me
+## 👋 About Me
 
-I am Dilshan.k, a B.Tech student in Information Technology at CUCEK. I am exploring the intersection of hardware and software and trying to understand how things work end to end. Right now I am focusing on improving my problem-solving skills through DSA, getting comfortable with data analytics using Python, and slowly getting into UI/UX. I joined μFIFA because I love watching football and wanted a fun way to build real projects, learn with a community, and put my skills to the test on a bigger stage.
+Hi, I'm **Dilshan K**, a first-year **B.Tech Information Technology student at CUCEK**. I enjoy exploring software and understanding how technology works from end to end.
 
-## ⚽ FIFA World Cup Corner
+Currently, I am focusing on:
 
-#### My Nation & Why:
+* Learning data analytics with Python
+* Exploring UI/UX design and user-centered thinking
+* Personal Branding
+* Web development
 
-I am representing Portugal in μFIFA because this tournament feels like the last real World Cup chapter for Cristiano Ronaldo. I grew up watching him and want to support his nation for one more big run.
+I joined **μFIFA** because it combines two things I enjoy: **technology and football**. I see it as an opportunity to learn, collaborate with like-minded people, build real projects, and create meaningful proof of work.
 
-#### Supporting Team in the Real World Cup 2026:
+---
 
-In the real FIFA World Cup 2026, I will also be supporting Portugal. Even though there are many strong teams, my heart is with them.
+# ⚽ FIFA World Cup Corner
 
-#### All-Time Favourite Player:
+## 🇵🇹 My Nation & Why
 
-Cristiano Ronaldo is my all-time favourite player. He reached the top of world football mainly through his hard work, discipline, and dedication, and that mentality inspires me a lot.
+I am representing **Portugal** in μFIFA because this tournament feels like the final World Cup chapter of **Cristiano Ronaldo's** legendary career. Having grown up watching him play, supporting Portugal felt like the natural choice.
 
-#### Best Player Right Now:
+## 🌍 Supporting Team in FIFA World Cup 2026
 
-Right now, I think Kylian Mbappé is the best player in the world. He is in his prime, has crazy pace and finishing, and can change a match on his own.
+Portugal will be the team I support in the real FIFA World Cup 2026 as well. While many nations have strong squads, Portugal remains the team I connect with the most.
 
-#### Past World Cup Memories:
+## 🐐 All-Time Favourite Player
 
-My favourite World Cup memory is the 2022 final between Argentina and France. Mbappé almost turned it into a one-man show with his performance, and the game had everything: drama, pressure, penalties, and emotions.
+**Cristiano Ronaldo**
 
-#### 2026 Predictions:
+Ronaldo's journey inspires me because of his relentless work ethic, discipline, consistency, and determination to improve. His mindset proves that talent alone is not enough—continuous effort makes the difference.
 
-For 2026, I see Portugal, France, Argentina, and Brazil as the main favourites. I would love to see Portugal lift the trophy, but any of these teams could win it. Mbappé and the young Portuguese talents are players I am especially excited to watch.
+## ⭐ Best Player Right Now
 
-#### μFIFA World Cup 2026 - Tournament Goals:
+**Kylian Mbappé**
 
-By the end of μFIFA, I want to learn how to build something meaningful using football and FIFA data. My goal is to combine my interest in data analytics and coding to ship at least one project that I can proudly add to my portfolio.
+At the moment, I believe Mbappé is the best player in the world. His pace, finishing ability, decision-making, and game-changing impact make him one of football's most exciting players.
 
-## 🏅 Portfolio Highlights
+## 🏆 Favourite World Cup Memory
 
-#### History of Open Source and Collaborative Contributions:
+My favourite World Cup memory is the **2022 FIFA World Cup Final between Argentina and France**. It was one of the greatest football matches ever played, filled with drama, emotion, and unforgettable moments. Mbappé's performance made the final even more special.
 
-Right now I do not have any major open-source contributions, but I plan to start joining hackathons and collaborative projects during μFIFA. My goal is to contribute to repositories related to data analytics, Python, or football data as I grow more confident.
+## 🔮 2026 Predictions
 
-#### History of Community Engagement:
+My favourites for the FIFA World Cup 2026 are:
 
-Until this year I have not been very active in tech communities, but that is something I want to change. I plan to participate actively in μLearn programs, μFIFA events, and future hackathons so that I can learn with others instead of learning alone.
+1. Portugal
+2. France
+3. Argentina
+4. Netherland
+5. Spain
 
-#### Domain Profiles:
+I would love to see Portugal lift the trophy, but any of these teams have the quality to become champions.
 
-- GitHub: https://github.com/dilshan-kakkengal
-- LinkedIn: https://www.linkedin.com/in/dilshan-k 
+Players I am most excited to watch:
 
-#### Tools, Workflows & Automations:
+* Kylian Mbappé
+* Cristiano Ronaldo
+* Vitinha
+* Leo Messi
+* Erling Haaland
 
-The tools I currently use or am learning include VS Code, Python for data analytics, and basic UI/UX tools. I am interested in building a better workflow around coding, version control with GitHub, and using AI tools to speed up learning.
+## 🎯 μFIFA Tournament Goals
 
-#### Public Portfolio & Recognition:
+By the end of μFIFA, I want to:
 
-I am still in the learning phase and do not yet have a big public portfolio or major recognition. During μFIFA, I want to change that by building at least one public project using FIFA or football-related data that others can see and try.
+* Build at least one football-related data project
+* Improve my Python and data analytics skills
+* Learn collaborative development using GitHub
+* Create portfolio-worthy proof of work
+* Connect with people who are passionate about technology and football
 
-#### Education and Proof of Work:
+---
 
-I am pursuing a B.Tech in IT @ CUCEK. As I progress, I plan to showcase my projects and problem-solving work on GitHub and LinkedIn.
+# 🏅 Portfolio Highlights
 
-#### History of Leadership:
+## 🌱 Open Source & Collaborative Contributions
 
-I do not have many formal leadership roles yet, but I am ready to take initiative when chances come up. In the coming years, I want to step into roles where I can organise events, guide teammates, and contribute more actively to communities.
+I am currently at the beginning of my open-source journey. While I do not yet have major contributions, I plan to actively participate in collaborative projects, hackathons, and GitHub-based initiatives during μFIFA.
 
-#### Networking:
+My goal is to contribute to projects related to:
 
-Right now I mostly learn on my own, but I want to use μFIFA to meet people who are into coding, data analytics, ML, and football. I am hoping to find collaborators who enjoy building fun projects around data and who are serious about improving their skills.
+* Web devolpment
+* App development
+* UI/UX
 
-#### Career Plan:
+## 🤝 Community Engagement
 
-In the next 6–12 months I want to focus on data analytics and machine learning with Python, along with improving my DSA foundations. Long term, I aim to work in data or ML-related roles, and μFIFA is a way for me to build proof of work, collaborate with others, and get closer to that goal.
+I have recently started becoming more active in technology communities through:
 
-#### Profile Card:
+* μLearn
+* μFIFA
+* Ascendra
+* IEEE
+* Internship programs
+* IRES SEDS
 
-<img
-    src="https://mulearn.org/embed/rank/dilshan.k@mulearn"
-    width="400px">
-</img>
+My objective is to learn with communities rather than learning in isolation.
+
+## 🔗 Domain Profiles
+
+* GitHub: [github.com/dilshan-kakkengal](https://github.com/dilshan-kakkengal)
+* LinkedIn: [linkedin.com/in/dilshan-k](https://www.linkedin.com/in/dilshan-k)
+
+## 🛠️ Tools, Workflows & Technologies
+
+Technologies and tools I currently use or am learning:
+
+* Python
+* VS Code
+* Git & GitHub
+* Jupyter Notebook
+* UI/UX Fundamentals
+* AI-Assisted Learning Tools
+* Figma
+
+I am particularly interested in creating efficient workflows that combine coding, creativity, collaboration, and modern AI tools.
+
+## 🌟 Public Portfolio & Recognition
+
+I am still building my portfolio and exploring different areas of technology.
+
+My primary goal during μFIFA is to create publicly accessible projects that showcase my learning journey and problem-solving skills through real-world applications.
+
+## 🎓 Education & Proof of Work
+
+**B.Tech in Information Technology**
+CUCEK (Cochin University College of Engineering, Kuttanadu)
+
+As I progress through my degree, I plan to document my projects, learning experiences, and technical growth through GitHub and LinkedIn.
+
+## 🚀 Leadership Journey
+
+While I have not yet held many formal leadership positions, I am always willing to take initiative and contribute wherever possible.
+
+In the future, I hope to:
+
+* Lead project teams
+* Organize community activities
+* Mentor beginners
+* Contribute to technology communities at a larger scale
+
+## 🌐 Networking
+
+One of my key goals in μFIFA is to meet and collaborate with people who are interested in:
+
+* Data Analytics
+* Machine Learning
+* Software Development
+* Football Analytics
+* Open Source
+
+I believe strong communities accelerate learning and create opportunities for meaningful collaboration.
+
+## 🎯 Career Plan
+
+### Short-Term Goals (6–12 Months)
+
+* Build practical projects
+* Gain experience with collaborative development
+* Strengthen GitHub and LinkedIn presence
+
+### Long-Term Goals
+
+* Work on impactful technology products
+* Contribute to open-source communities
+* Build my ideas
+
+I see μFIFA as an important step toward building proof of work, expanding my network, and accelerating my learning journey.
+
+---
+
+# 🏅 μLearn Profile Card
+
+[![μLearn Rank Card](https://mulearn.org/embed/rank/dilshan.k@mulearn)](https://mulearn.org)
