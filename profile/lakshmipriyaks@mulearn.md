@@ -79,4 +79,9 @@ Adi Shankara Institute of Engineering and Technology
 
 ## μLearn Profile Card
 
-<img width="998" height="825" alt="image" src="https://github.com/user-attachments/assets/c0baa4fc-9e9e-4392-8ca8-ba92e0d199e9" />
+https://mulearn.org/embed/rank/lakshmipriyaks@mulearn
+
+<img
+    src="https://mulearn.org/embed/rank/lakshmipriyaks@mulearn"
+    width="400px">
+</img>
