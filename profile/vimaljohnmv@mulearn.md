@@ -1,6 +1,3 @@
-#  Profile Card
-
-**Full Name (Your Role / What You Do)**
 Vimal John (Campus Lead @ GEC Kozhikode)
 **Squad Domain:** Maker | **FIFA Nation:** Argentina
 
