@@ -94,4 +94,5 @@ My long-term goal is to become a skilled software developer with strong practica
 **Field:** B.Tech Information Technology
 **Focus Areas:** Web Development, Full Stack Development, UI Design, GitHub, Cloud, DevOps
 **GitHub:** https://github.com/keerthu411
-**LinkedIn:** www.linkedin.com/in/keerthana-lekshmi-s-l-4374b63a1
+**LinkedIn:** https://www.linkedin.com/in/keerthana-lekshmi-s-l-4374b63a1/
+**Portfolio:**https://keerthu411.github.io/keerthana-portfolio/
