@@ -1,43 +1,34 @@
-# Keerthana Lekshmi S L
-
-**Squad Domain:** Coder | **FIFA Nation:** Argentina
-
-## About Me
-
-I am Keerthana Lekshmi S L, a B.Tech Information Technology student from Government Engineering College Idukki. I am passionate about web development, UI design, full-stack development, and building real-world projects that solve practical problems. I enjoy working with HTML, CSS, JavaScript, React, Node.js, MongoDB, GitHub, and learning cloud and DevOps concepts.
-
-I joined μFIFA to learn by contributing, improve my public proof of work, collaborate with other learners, and become more confident in open-source and community-based challenges. I am still growing as a developer, but I want to use this tournament to build consistency, improve my skills, and make my name visible on the leaderboard.
-
----
+**Squad Domain:** Coder | **FIFA Nation:** Brazil
 
 ## ⚽ FIFA World Cup Corner
 
 ### My Nation & Why:
 
-I am representing **Argentina** in μFIFA. I chose Argentina because of their strong football legacy, team spirit, emotional World Cup journey, and the inspiration created by Lionel Messi and the squad. Argentina represents passion, hard work, comeback spirit, and loyalty, which makes it a nation I can connect with during this tournament.
+I am representing **Brazil** in μFIFA. I chose Brazil because of their beautiful style of football, strong World Cup history, attacking mindset, and legendary players. Brazil is a nation known for creativity, skill, confidence, and football passion. As a Neymar fan, Brazil feels like the perfect nation for me to represent.
 
 ### Supporting Team in the Real World Cup 2026:
 
-For the real FIFA World Cup 2026, I am supporting **Argentina**. I admire the way they play as a team and how they carry emotion, pressure, and expectations with confidence. My μFIFA nation and my real-world football support are the same.
+For the real FIFA World Cup 2026, I am supporting **Brazil**. My μFIFA nation and my real-world football support are the same. I want Brazil to come back strongly and show their classic attacking football on the world stage.
 
 ### All-Time Favourite Player:
 
-My all-time favourite footballer is **Lionel Messi**. I admire him because of his skill, consistency, calmness, vision, and humble journey. His story shows that greatness is built through dedication, discipline, and patience. His ability to create chances, score goals, and lead the team inspires me.
+My all-time favourite footballer is **Neymar Jr.** I admire him because of his creativity, dribbling, flair, confidence, and ability to entertain fans. His playing style is unique, and he brings emotion and beauty to the game. As a fan, I connect with the way he plays with freedom and passion.
 
 ### Best Player Right Now:
 
-I think **Kylian Mbappé** is one of the best players in the world right now. His speed, finishing, confidence, and big-match performance make him a dangerous player. He can change the result of a match with a single run or goal.
+I think **Kylian Mbappé** is one of the best players in the world right now. His speed, finishing, confidence, and performance in big matches make him one of the most dangerous players in football.
 
 ### Past World Cup Memories:
 
-My most memorable FIFA World Cup moment was Argentina winning the 2022 World Cup. The final against France was full of emotion, pressure, goals, and drama. Watching Messi finally lift the World Cup was an unforgettable football memory.
+My most memorable FIFA World Cup moment was watching Brazil matches and seeing the passion of Brazilian football fans. Brazil’s style, energy, and emotional connection with football always make their World Cup matches special.
 
 ### 2026 Predictions:
 
-I think **Argentina** has a strong chance to win the FIFA World Cup 2026.
+I think **Brazil** has a strong chance to win the FIFA World Cup 2026.
 My dark horse team to watch is **Morocco**, because they showed great fighting spirit and teamwork in the previous World Cup.
-The player who may define this tournament could be **Kylian Mbappé**, because of his speed, finishing, and ability to perform in big matches.
-The match I am most looking forward to is **Argentina vs France**, because their last World Cup final was one of the most exciting matches in football history.
+The player who may define this tournament could be **Neymar Jr.** if he is fit and available, because his creativity and experience can make a big difference for Brazil.
+The match I am most looking forward to is **Brazil vs Argentina**, because it is one of the biggest rivalries in football.
+
 
 ### μFIFA World Cup 2026 - Tournament Goals:
 
@@ -98,7 +89,7 @@ My long-term goal is to become a skilled software developer with strong practica
 
 **Name:** Keerthana Lekshmi S L
 **Squad Domain:** Coder
-**FIFA Nation:** Argentina
+**FIFA Nation:** Brazil
 **Institution:** Government Engineering College Idukki
 **Field:** B.Tech Information Technology
 **Focus Areas:** Web Development, Full Stack Development, UI Design, GitHub, Cloud, DevOps
