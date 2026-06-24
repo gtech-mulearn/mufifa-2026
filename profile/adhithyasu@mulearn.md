@@ -43,7 +43,8 @@ By the final whistle on July 19, my core technical objective is to deliver a pro
 
 #### History of Open Source and Collaborative Contributions:
 * Developed **AQUA SENSE**, a highly cost-effective, IoT-enabled edge computing node designed to eliminate localized flash-flood telemetry blind spots on municipal streets during Kerala's heavy monsoon seasons.
-* Engineered custom **Model Context Protocol (MCP) servers** to extend LLM runtime capabilities and streamline specialized development environments.
+Here is the github repo: [https://github.com/Adhieeeh/AQUA-SENSE.git](https://github.com/Adhieeeh/AQUA-SENSE.git)
+
 
 #### History of Community Engagement:
 * Coordinated logistical operations and technical management for community initiatives including **Launchpad, Top 100 Series, In50Hours, and Mutate**.
