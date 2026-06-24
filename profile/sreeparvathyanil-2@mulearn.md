@@ -59,55 +59,53 @@
 
 #### History of Open Source and Collaborative Contributions:
 
-- Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
-- *If you're just starting:* mention a project you're planning to open-source, or a repo you've been studying and want to contribute to.
+- I’m still at the beginning of building my public portfolio, but I’ve started learning and exploring different areas in tech step by step. Right now, I’m mainly focused on improving my coding skills, understanding problem-solving better, and becoming more comfortable with building projects instead of just learning theory.
+  
+- I haven’t contributed to major open-source projects yet, but I do want to start putting my work publicly on GitHub as I improve. One of my goals during μFIFA is to become more consistent with building things, documenting what I learn, and slowly creating a portfolio that actually reflects my progress and interests.
 
 #### History of Community Engagement:
 
-- Describe your engagement in technical or creative communities: Discord servers, forums, hackathons, campus clubs, μLearn programs, or any space where you've shown up and contributed consistently.
-- *If you're just starting:* mention a community you've recently joined or an event you attended. Showing up counts.
+- I am an active member of μLearn STIST and enjoy being part of communities where people learn together, share ideas, and motivate each other to improve. Through μLearn and college activities, I’ve started interacting more with students who are interested in tech, creativity, and collaboration. Being in these spaces has helped me become more confident in communicating, participating, and learning from others instead of trying to figure everything out alone.
 
 #### Domain Profiles:
 
-- Link to the platforms where your work lives publicly, relevant to your Squad Domain(s):
-  - **Coder**: GitHub, LeetCode, HackerRank, CTFtime, or similar
-  - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
-  - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
-  - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
-- *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
+- GitHub: [sreeparvathyanil](https://github.com/sreeparvathyanil)
+- LinkedIn: [Sreeparvathy Anil](https://www.linkedin.com/in/sreeparvathy-anil-7784173a3/)
 
-#### Tools, Workflows & Automations:
 
-- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
-- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
+- GitHub for storing projects and learning version control
+- AI tools and assistants for understanding concepts, debugging, brainstorming, and learning faster
+- LeetCode and coding platforms to improve problem-solving
+- Design and documentation tools for notes, presentations, and organising ideas
 
 #### Public Portfolio & Recognition:
 
-- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
-- This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
-- *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
+- I’m currently building my portfolio and public proof of work. One thing I want to achieve during μFIFA is becoming more confident in sharing what I build and documenting my learning journey publicly instead of keeping everything private.
+
+- By the end of this tournament, I hope to have stronger GitHub activity, better technical consistency, and projects or work that clearly show my growth. Even though I’m still early in my journey, I want this experience to push me toward becoming someone who learns actively and builds consistently.
 
 #### Education and Proof of Work:
 
-- Mention your current degree, institution, and any relevant certifications or courses completed.
-- Add links to your GitHub and LinkedIn profiles.
+- Current Degree: B.Tech Student
+- Institution: St. thomas institute for science and technology
+- GitHub: [https://github.com/sreeparvathyanil]
+- LinkedIn: [(https://www.linkedin.com/in/sreeparvathy-anil-7784173a3/)]
 
 #### History of Leadership:
 
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
+- One of my earliest leadership experiences was serving as House Captain during school, which helped me become more confident in communication, coordination, and taking responsibility in group activities. It taught me how to work with different people, handle responsibilities properly, and stay organised during events and competitions. I am actively looking for a oppurtunity in collage as well. 
+
+Even though I’m still growing and learning, experiences like that helped me understand that leadership is not just about having a title — it’s also about being dependable, taking initiative, and contributing positively in team environments. Through college and communities like μLearn, I want to continue improving my confidence, teamwork, and ability to take on bigger responsibilities over time.
 
 #### Networking:
 
-- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
-- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
+- One thing I’m looking forward to during μFIFA is meeting people from different domains and backgrounds. I think some of the best learning happens when people with different skills work together and exchange ideas.
 
+-I especially want to connect with people who are interested in coding, design, AI, and creative projects because I enjoy learning from people who approach problems differently. I hope μFIFA helps me build genuine connections, improve collaboration skills, and become more comfortable working with teams.
 #### Career Plan:
 
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
-- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
-
+- **Immediate:** Over the next year, I want to improve my coding consistency, strengthen my understanding of DSA and problem-solving, and slowly start building projects that reflect my interests and learning. I also want to become more confident in sharing my work publicly and participating more actively in technical communities.
+- **Long-term:** Long-term, I want to build a strong career in tech while continuously improving both my technical and creative skills. I want to become someone who can solve problems, build useful things, and keep adapting as technology evolves.
 ---
 
 #### Profile Card:
@@ -115,6 +113,6 @@
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
+    src="https://mulearn.org/embed/rank/sreeparvathyanil-2@mulearn"
     width="400px">
 </img>
