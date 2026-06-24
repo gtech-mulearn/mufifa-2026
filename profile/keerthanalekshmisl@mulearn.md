@@ -65,9 +65,8 @@ I have worked on projects such as a personal portfolio website, BrownBelle e-com
 I am pursuing **B.Tech in Information Technology** at **Government Engineering College Idukki**. I have completed learning activities and internships related to web development, data science, cybersecurity, and problem-solving. I am also building practical projects to improve my development and deployment skills.
 
 * **GitHub:** https://github.com/keerthu411
-* **LinkedIn:** Add your LinkedIn link here
-
-### History of Leadership:
+* **LinkedIn:**https://www.linkedin.com/in/keerthana-lekshmi-s-l-4374b63a1/
+### History of Leadership:https://keerthu411.github.io/keerthana-portfolio/
 
 I am still developing my leadership experience, but I have taken initiative in learning projects, completing technical tasks, helping with project work, and improving my skills through self-learning. I believe leadership starts with responsibility, consistency, and willingness to learn and contribute.
 
@@ -96,3 +95,9 @@ My long-term goal is to become a skilled software developer with strong practica
 **GitHub:** https://github.com/keerthu411
 **LinkedIn:** https://www.linkedin.com/in/keerthana-lekshmi-s-l-4374b63a1/
 **Portfolio:**https://keerthu411.github.io/keerthana-portfolio/
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Secur
