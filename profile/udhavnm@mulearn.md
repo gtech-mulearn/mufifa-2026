@@ -43,4 +43,38 @@ To completely demystify GitHub, master its tricky interface, and feel confident 
 ## 🏅 Portfolio Highlights
 
 ### History of Open Source and Collaborative Contributions:
-* **GitHub Exploration:** Actively studying
+* **GitHub Exploration:** Actively studying foundational repositories, learning open-source contribution workflows, and tracking personal learning tracks.
+* **IoT & Arduino Roadmap:** Currently planning and building open-source hardware templates combining basic IoT frameworks and Arduino systems as part of an ongoing online internship.
+
+### History of Community Engagement:
+* **μLearn NSSCE Chapter:** Serving as a First-Year Coordinator and active core member of the **Space Interest Group (Space IG)**.
+* **IEEE & IEEE IES NSSCE:** Active core member contributing directly to the Chapter's core design team.
+* **SAE INDIA National Aerothon:** Representing **Team Astra (RC Plane Club)** of NSSCE, preparing for national-level aerospace challenges.
+* **TinkerHub / TinkerHack:** Voluntarily stepped up to assist seniors in organizing and managing the regional TinkerHack hackathon event.
+
+### Domain Profiles:
+* **μLearn ID:** `udhavnm@mulearn`
+* **GitHub:** [udhav4](https://github.com/udhav4)
+* **LinkedIn:** [Udhav N M on LinkedIn](https://www.linkedin.com/in/udhav-n-m-a69016364)
+
+### Tools, Workflows & Automations:
+* **Design & Vector Software:** Figma, Inkscape (specializing in vector design, layouts, and custom UI elements).
+* **Hardware & Development Tools:** Arduino IDE, basic IoT simulation configurations, OpenGL, and Three.js frameworks.
+* **Hardware Adaptation:** Working creatively within specific device and financial limitations, optimizing software setups to deliver maximum efficiency.
+
+### Public Portfolio & Recognition:
+* **Space IG UI Concept (MuMent Challenge):** Designed a complex frontend user interface blueprint for the college Space Interest Group website using Figma. Navigated complex visual architecture, experimenting with interactive openGL and Three.js background aesthetics.
+
+### Education and Proof of Work:
+* **Degree & Institution:** B.Tech Student in Electrical and Electronics Engineering (EEE), NSS College of Engineering, Palakkad (APJ Abdul Kalam Technological University, Kerala).
+
+### History of Leadership:
+* **μLearn Chapter Coordinator:** Taking initiative to coordinate first-year participation, bridge club communication, and organize grassroots tech interactions.
+* **Event Volunteering:** Stepping up without a formal title at TinkerHack to manage logistics, support participants, and streamline event operations.
+
+### Networking:
+Collaborating deeply across interdisciplinary student bodies, combining efforts with aerospace enthusiasts in SAE, developers in TinkerHub, and fellow designers inside the IEEE network.
+
+### Career Plan:
+* **Immediate (6-12 Months):** Secure a bulletproof foundation in Arduino, IoT architectures, and hardware testing; master GitHub version control; and ship concrete flight dynamics milestones with Team Astra for the SAE Aerothon.
+* **Long-Term:** To evolve into a self-reliant, multi-disciplinary Maker who deeply understands code, masters debugging from scratch, and seamlessly bridges heavy hardware engineering with modern minimal design aesthetics.
