@@ -78,3 +78,12 @@ Collaborating deeply across interdisciplinary student bodies, combining efforts 
 ### Career Plan:
 * **Immediate (6-12 Months):** Secure a bulletproof foundation in Arduino, IoT architectures, and hardware testing; master GitHub version control; and ship concrete flight dynamics milestones with Team Astra for the SAE Aerothon.
 * **Long-Term:** To evolve into a self-reliant, multi-disciplinary Maker who deeply understands code, masters debugging from scratch, and seamlessly bridges heavy hardware engineering with modern minimal design aesthetics.
+
+---
+
+## Profile Card
+
+<img
+    src="https://mulearn.org/embed/rank/udhavnm@mulearn"
+    width="400px">
+</img>
