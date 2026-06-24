@@ -49,8 +49,8 @@ I am part of learning communities where I participate in technical tasks, coding
 ### Domain Profiles:
 
 * **GitHub:** https://github.com/keerthu411
-* **LinkedIn:** Add your LinkedIn link here
-* **Portfolio:** Add your portfolio/live project link here if available
+* **LinkedIn:** https://www.linkedin.com/in/keerthana-lekshmi-s-l-4374b63a1/
+* **Portfolio:** https://keerthu411.github.io/keerthana-portfolio/
 
 ### Tools, Workflows & Automations:
 
