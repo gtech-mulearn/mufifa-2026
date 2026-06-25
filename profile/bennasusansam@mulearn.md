@@ -94,10 +94,7 @@ I enjoy connecting with learners from different domains through μLearn. During 
 #### Profile Card:
 
 <img
-
     src="https://mulearn.org/embed/rank/bennasusansam@mulearn"
-
-    width="600px">
-
+    width="400px">
 </img>
 
