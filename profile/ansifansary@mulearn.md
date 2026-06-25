@@ -80,7 +80,7 @@ I am a Mechanical Engineering Student at AJCE, passionate about applying science
 
   - **Maker**:
   -  [Linkedin: Ansif Ansary](www.linkedin.com/in/ansifansary)
-  -  [github: 7XTHOR].(https://github.com/7XTHOR)
+  -  [github: 7XTHOR]. (https://github.com/7XTHOR)
     
 
 #### Tools, Workflows & Automations:
