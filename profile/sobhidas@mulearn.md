@@ -1,6 +1,6 @@
-# SOBHIDAS S S ( Cybersecurity Student ,AI integrated cybersecurity enthusiasist)
+# SOBHIDAS S S ( Cybersecurity Student ,AI integrated cybersecurity enthusiasist,IG lead cybersecurity mulearn)
 
-**Squad Domain:** Strategist | **FIFA Nation:** Portugal
+**Squad Domain:** Cybersecurity| **FIFA Nation:** Portugal
 
 ## About Me
 I am a Computer Science Engineering student specializing in Cybersecurity, currently serving as a Campus Lead within the μLearn ecosystem and leading our department association, KAVAJ. I focus on the intersection of strategic community building, digital security, and applying artificial intelligence to real-world security challenges. From driving student initiatives to engineering intelligent detection systems, I love bridging the gap between operational leadership and technical execution.
