@@ -1,6 +1,6 @@
 # Benna Susan Sam (Aspiring AI Engineer)
 
-**Squad Domain:** Designer | **FIFA Nation:** Portugal
+### Squad Domain: Designer | FIFA Nation: Portugal
 
 ## About Me
 
