@@ -66,4 +66,5 @@ I serve as the Vice Chair of the IEEE Student Branch Chapter at my college.I als
 
 **Profile Card:**
 
-<img width="960" height="1572" alt="edwinviju2021-card" src="https://github.com/user-attachments/assets/149fe407-6e6d-4b91-a906-bc72aa3c3590" />
+<img width="998" height="500" alt="image" src="https://github.com/user-attachments/assets/a5b6b64b-ff6c-40de-921d-3529d236348b" />
+
