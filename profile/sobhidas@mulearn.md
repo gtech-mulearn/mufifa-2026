@@ -1,4 +1,4 @@
-# SOBHIDAS S S (Campus Lead, Cybersecurity Student & Strategist)
+# SOBHIDAS S S ( Cybersecurity Student ,AI integrated cybersecurity enthusiasist)
 
 **Squad Domain:** Strategist | **FIFA Nation:** Portugal
 
@@ -35,8 +35,7 @@ I am a Computer Science Engineering student specializing in Cybersecurity, curre
 
 ### History of Community Engagement & Leadership
 * **Department Association (KAVAJ) Lead:** Serve as the primary student leader directing association operations, technical workshops, and student collaboration within the department.
-* **μLearn Campus Lead:** Drive local community growth, manage chapter operations, and foster an active, collaborative learning culture for peer developers and innovators.
-* **Volunteer Coordinator at TEDx Thiruvananthapuram (Dec 2025):** Managed on-ground operations, logistics, and cross-functional team coordination to ensure seamless execution of a large-scale public event.
+
 
 ### Domain Profiles
 * 📋 **Strategist / Leader:** https://www.linkedin.com/in/sobhidasss/
