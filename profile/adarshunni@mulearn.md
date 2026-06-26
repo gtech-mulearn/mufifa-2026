@@ -167,5 +167,5 @@ Long-Term
 
 My long-term goal is to become an AI and Robotics Engineer developing intelligent autonomous systems that solve real-world problems. I aspire to pursue advanced research, contribute to impactful open-source technologies, and build innovative solutions at the intersection of Artificial Intelligence, Robotics, and Embedded Systems. I believe μFIFA will help me accelerate this journey through collaboration, learning, and proof of work.
 
-Profile Card :
+
 <img src="https://mulearn.org/embed/rank/adarshunni@mulearn" width="100px" height="100px"></img>
