@@ -34,7 +34,7 @@
 - **Who wins:** Argentina.
 - **Dark horse:** Uruguay.
 - **Player of the tournament:** Lamine Yamal.
-- **Most anticipated match:** Argentina vs. Brazil in the knockout stages.
+- **Most anticipated match:** Argentina vs. Spain in the knockout stages.
 
 #### μFIFA World Cup 2026 - Tournament Goals:
 
