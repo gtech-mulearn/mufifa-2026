@@ -48,7 +48,7 @@
 
 #### Domain Profiles:
 - **GitHub:** [github.com/your-Ameesha-K-G](https://github.com/Ameesha-K-G) 
-- **LinkedIn:** [(www.linkedin.com/in/ameesha-k-g123)](www.linkedin.com/in/ameesha-k-g123) 
+- **LinkedIn:** [www.linkedin.com/in/ameesha-k-g123](www.linkedin.com/in/ameesha-k-g123) 
 
 #### Tools, Workflows & Automations:
 - **Hardware/Coding:** VS Code, Xilinx Vivado, Arduino IDE, Git.
