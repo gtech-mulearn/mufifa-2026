@@ -8,7 +8,7 @@ I am Keziya Anish, a BTech student currently preparing to enter my third semeste
 
 I joined μFIFA to challenge myself, connect with like-minded learners, and gain practical experience by working on real projects. As someone still at the beginning of my tech journey, I see this tournament as an opportunity to learn from the community, improve my technical skills, and build a portfolio through consistent participation and collaboration. My goal is to become a skilled software developer who can create useful solutions and contribute meaningfully to the tech ecosystem.
 
-## FIFA World Cup Corner
+## ⚽️FIFA World Cup Corner
 
 ### My Nation & Why:
 
