@@ -4,7 +4,7 @@
 - **MUID:** anjith1000-coder@mulearn
 
 # ANJITH (Coder / Software Builder)
-**Squad Domain:** [Coder] | **FIFA Nation:** [Brazil]
+**Squad Domain:** Coder | **FIFA Nation:** Brazil
 
 ---
 
@@ -17,16 +17,16 @@ I'm jumping into the µFIFA World Cup tournament to push my coding skills furthe
 
 ## ⚽ FIFA World Cup Corner
 
-* **My Nation & Why:** [I chose Brazil as my nation for µFIFA because of their beautiful, creative style of football—the Joga Bonito. They play with incredible flair, joy, and technical mastery, which is the exact same energy and passion I try to bring to my programming projects.]
-* **Supporting Team in the Real World Cup 2026:** [Brazil]
-* **All-Time Favourite Player:** [Neymar Jr.]
-* **Best Player Right Now:** [Neymar Jr.]
-* **Past World Cup Memories:** [Watching Neymar lead the Seleção with his signature dribbles, stepping up under immense pressure, and bringing pure entertainment to the world stage every single match.]
+* **My Nation & Why:** I chose Brazil as my nation for µFIFA because of their beautiful, creative style of football—the Joga Bonito. They play with incredible flair, joy, and technical mastery, which is the exact same energy and passion I try to bring to my programming projects.
+* **Supporting Team in the Real World Cup 2026:** Brazil
+* **All-Time Favourite Player:** Neymar Jr.
+* **Best Player Right Now:** Neymar Jr.
+* **Past World Cup Memories:** Watching Neymar lead the Seleção with his signature dribbles, stepping up under immense pressure, and bringing pure entertainment to the world stage every single match.
 * **2026 Predictions:**
-  * *Who wins:* [Brazil]
-  * *Dark horse:* [Japan]
-  * *Defining player:* [Neymar Jr.]
-  * *Most anticipated match:* [Brazil vs Argentina]
+  * *Who wins:* Brazil
+  * *Dark horse:* Netherlands
+  * *Defining player:* Neymar Jr.
+  * *Most anticipated match:* Brazil vs Argentina
 * **µFIFA World Cup 2026 - Tournament Goals:** By the end of this tournament, I want to master public code collaboration, build a seamless open-source development workflow on GitHub, and help push my squad to the top of the leaderboard while proving my skills in public.
 
 ---
