@@ -1,4 +1,4 @@
-```markdown
+
 # Robert Thomas (Cybersecurity Enthusiast & AI Developer)
 ### Squad Domain: Coder | Strategist | FIFA Nation: India
 
@@ -99,4 +99,4 @@ I enjoy collaborating with developers, cybersecurity enthusiasts, designers, and
 <img
     src="https://mulearn.org/embed/rank/robertthomas@mulearn" width="400px">
 </img>
-```
+
