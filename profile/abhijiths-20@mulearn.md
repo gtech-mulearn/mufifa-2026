@@ -133,10 +133,8 @@ and building tools that improve student experiences.
 
 ## Domain Profiles
 
--   GitHub: https://github.com/yourusername
--   LinkedIn: https://linkedin.com/in/yourprofile
--   LeetCode: https://leetcode.com/yourusername
-
+-   GitHub: https://github.com/abhips2005
+-   LinkedIn: https://linkedin.com/in/abhips1108
 ------------------------------------------------------------------------
 
 ## Tools, Workflows & Automations
