@@ -1,0 +1,181 @@
+# Gayathri B Nair (Computer Science Engineering Student)
+
+**Squad Domain:** Coder | **FIFA Nation:** Argentina
+
+---
+
+# About Me
+
+I'm Gayathri B Nair, a Computer Science Engineering student passionate about software development, web technologies, and artificial intelligence. I enjoy building practical solutions to real-world problems while continuously improving my programming and problem-solving skills. Throughout my academic journey, I have worked on projects involving web development, database management, and full-stack applications using Java, Python, HTML, CSS, JavaScript, React, Flask, and MongoDB. Beyond academics, I actively participate in technical communities, workshops, hackathons, and μLearn initiatives to enhance my knowledge and collaborate with fellow learners. I joined μFIFA to challenge myself, contribute to open-source projects, connect with talented individuals, and build a strong portfolio through meaningful collaborations. My goal is to grow into a skilled software engineer who creates impactful technology while embracing continuous learning.
+
+---
+
+# ⚽ FIFA World Cup Corner
+
+## My Nation & Why
+
+**Argentina**
+
+I'm representing Argentina because of its rich football history, passionate supporters, and the determination the team shows every time they step onto the field. Watching Argentina lift the FIFA World Cup in 2022 was an unforgettable moment, and their resilience, teamwork, and attacking style made me admire them even more.
+
+---
+
+## Supporting Team in the Real World Cup 2026
+
+I'm proudly supporting **Argentina** in the FIFA World Cup 2026. My loyalty remains with the same nation because of its football culture, legendary players, and never-give-up attitude.
+
+---
+
+## All-Time Favourite Player
+
+**Lionel Messi**
+
+Lionel Messi is my all-time favourite footballer because of his humility, consistency, incredible vision, and dedication to the game. His journey from overcoming childhood challenges to becoming a World Cup champion proves that perseverance and hard work can achieve greatness. His creativity and leadership continue to inspire millions around the world.
+
+---
+
+## Best Player Right Now
+
+In my opinion, **Kylian Mbappé** is currently one of the best players in the world. His pace, finishing ability, decision-making, and performances in major tournaments make him one of football's brightest stars.
+
+---
+
+## Past World Cup Memories
+
+My favourite FIFA World Cup memory is the unforgettable **2022 FIFA World Cup Final between Argentina and France**. It was one of the greatest football matches ever played, filled with excitement, emotion, and unforgettable moments. Watching Argentina finally win the World Cup made it even more special.
+
+---
+
+## 2026 Predictions
+
+**World Cup Winner:** Argentina 🇦🇷
+
+**Dark Horse Team:** Portugal 🇵🇹
+
+**Player Who Will Define the Tournament:** Lionel Messi (if he plays) or Julián Álvarez
+
+**Match I'm Most Looking Forward To:** Argentina vs Brazil or any Argentina knockout match.
+
+---
+
+## μFIFA World Cup 2026 – Tournament Goals
+
+By the end of μFIFA, I hope to strengthen my GitHub portfolio, make meaningful open-source contributions, collaborate with students from different institutions, and build projects that showcase my technical and teamwork skills. I also want to improve my confidence in collaborative software development while expanding my professional network.
+
+---
+
+# 🏅 Portfolio Highlights
+
+## History of Open Source and Collaborative Contributions
+
+I'm currently at the beginning of my open-source journey. Most of my experience comes from academic projects, personal learning, and collaborative coursework. I've built web applications using Flask, MongoDB, React, HTML, CSS, and JavaScript as part of my learning. Through μFIFA, I hope to contribute to open-source repositories, participate in collaborative development, and publish more of my work on GitHub.
+
+---
+
+## History of Community Engagement
+
+I actively participate in μLearn activities, IEEE programs, technical workshops, coding events, and hackathons organized by my college and student communities. These experiences have helped me develop teamwork, communication, and problem-solving skills while connecting with students who share similar interests in technology.
+
+---
+
+## Domain Profiles
+
+- **GitHub:** https://github.com/yourusername
+- **LinkedIn:** https://linkedin.com/in/yourprofile
+
+---
+
+## Tools, Workflows & Automations
+
+The tools I regularly use include:
+
+- Visual Studio Code
+- Git & GitHub
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- React
+- Flask
+- MongoDB
+- MySQL
+- Figma (Basic)
+- ChatGPT
+- Claude AI
+
+I'm also interested in learning cloud technologies, DevOps, automation tools, and AI-powered development workflows.
+
+---
+
+## Public Portfolio & Recognition
+
+My portfolio currently includes academic and personal projects focused on web development and software engineering. Some of the projects I've built involve database-driven web applications, interactive user interfaces, and backend systems using Flask and MongoDB. During μFIFA, I aim to publish more polished projects, contribute consistently to GitHub, and build a stronger public portfolio that showcases my growth as a developer.
+
+---
+
+## Education and Proof of Work
+
+**Bachelor of Technology (B.Tech)**
+
+**Computer Science and Engineering**
+
+**College:** *(Enter your college name here)*
+
+Relevant coursework includes:
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Software Engineering
+- Computer Networks
+- Machine Learning
+
+
+---
+
+## History of Leadership
+
+I've taken initiative during academic projects by coordinating tasks, helping teammates, and ensuring work was completed effectively. I actively participate in student communities and technical events where I contribute, volunteer, and support collaborative activities. These experiences have strengthened my leadership, communication, and teamwork skills.
+
+---
+
+## Networking
+
+I enjoy connecting with students and professionals through μLearn, IEEE, hackathons, workshops, and campus events. During μFIFA, I hope to collaborate with developers, designers, and innovators from different institutions to build meaningful projects, exchange ideas, and learn from diverse perspectives.
+
+---
+
+## Career Plan
+
+### Immediate (Next 6–12 Months)
+
+- Improve Data Structures and Algorithms.
+- Build more full-stack web applications.
+- Contribute regularly to open-source projects.
+- Strengthen my GitHub portfolio.
+- Prepare for internships and placement opportunities.
+- Learn advanced React, cloud computing, and AI technologies.
+
+### Long-Term
+
+My long-term goal is to become a skilled software engineer who builds scalable, user-focused applications powered by modern technologies and artificial intelligence. I want to contribute to impactful products, continue learning throughout my career, and eventually mentor others in the tech community. I believe μFIFA will help me achieve these goals by providing opportunities for collaboration, open-source contribution, and continuous learning.
+
+---
+
+# 🎖 Profile Card
+
+**Name:** Gayathri B Nair
+
+**Role:** Computer Science Engineering Student
+
+**Squad Domain:** Coder
+
+**FIFA Nation:** Argentina 🇦🇷
+
+**Skills:** Java • Python • HTML • CSS • JavaScript • React • Flask • MongoDB • MySQL • Git • GitHub
+
+**Interests:** Web Development • Artificial Intelligence • Software Engineering • Open Source • Full-Stack Development
+
+**Current Goal:** Build impactful software, contribute to open source, collaborate with talented developers, and continuously grow as a software engineer.
