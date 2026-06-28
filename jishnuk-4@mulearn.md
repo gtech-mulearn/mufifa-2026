@@ -1,29 +1,54 @@
 # Jishnu K
 
-## About Me
+## 👨‍💻 About Me
 
-Hi! I'm Jishnu K, a B.Tech Computer Science & Engineering student at LBS College of Engineering Kasaragod. I'm passionate about coding, AI, web development, and hackathons. I enjoy building real-world projects and continuously learning through the µLearn community.
+Hi! I'm Jishnu K, a B.Tech Computer Science & Engineering student at LBS College of Engineering Kasaragod. I am passionate about coding, AI, web development, hackathons, and building real-world projects through the µLearn community.
 
-## College
+---
+
+## 🏫 College
 
 LBS College of Engineering Kasaragod
 
-## µID
+---
 
-jishnuk-4@mulearn
+## 🆔 µID
 
-## Country
+jishnuk-4
 
-Germany 🇩🇪
+---
 
-## Domain
+## 🌍 FIFA Nation
 
-Code 💻
+🇩🇪 Germany
 
-## GitHub
+---
 
-https://github.com/jh06-hub
+## 💻 Squad Domain
 
-## LinkedIn
+Code
 
-https://www.linkedin.com/in/jishnu-k-932715386
+---
+
+## 🛠️ Skills
+
+- C
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Firebase
+- AI Fundamentals
+
+---
+
+## 🔗 Connect With Me
+
+**GitHub:** https://github.com/jh06-hub
+
+**LinkedIn:** https://www.linkedin.com/in/jishnu-k-932715386
+
+**Discord Username:** jishnuk2661
+
+**Discord User ID:** 1098199102589771826
