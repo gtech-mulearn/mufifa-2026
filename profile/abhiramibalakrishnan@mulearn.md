@@ -110,7 +110,7 @@
 
 ```html
 <img
- src="https://mulearn.org/embed/rank/yourusername@mulearn"
- width="400px">
+    src="https://mulearn.org/embed/rank/abhiramibalakrishnan@mulearn"
+    width="400px">
 </img>
 ```
