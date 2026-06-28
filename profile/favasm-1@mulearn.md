@@ -100,7 +100,7 @@
 
 #### Profile Card:
 
-<!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
-
-<img src="https://cdn.discordapp.com/attachments/789476711867088967/1519681693034877028/rank.png?ex=6a3e715d&is=6a3d1fdd&hm=3a7b5854c863bf0993cf7f67bb052ce8ec838415690390ea61e5293e97ca0d12" width="400px">
+<img
+    src="https://mulearn.org/embed/rank/favasm-1@mulearn"
+    width="400px">
 </img>
