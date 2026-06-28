@@ -1,9 +1,13 @@
 Adarsh Naijo (Student & Tech Enthusiast)
+
 Squad Domain: Coder, Designer | FIFA Nation: France
+
 About Me
+
 I am an 18-year-old student at Viswajyothi College of Engineering and Technology (VCET) who loves living at the intersection of coding and design. Whether I am participating in competitive programming challenges like TCS CodeVita, diving into Generative AI, or getting hands-on with hardware (like repairing the speakers on my Lenovo gaming laptop), I am always looking to build and learn. I recently applied for the μLearn executive committee at my college, and I am excited to bring that energy to μFIFA, collaborate with other builders, and prove my skills on the pitch.
 
 ⚽ FIFA World Cup Corner
+
 My Nation & Why:
 I am representing France. They have a deep squad with a perfect mix of technical skill and tactical flexibility, which is the exact kind of balanced approach I try to bring to my tech stack.
 
