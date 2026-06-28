@@ -86,4 +86,4 @@ Along with academics, I actively participate in technical communities and learni
 
 ## Profile Card:
 
-<img src="https://mulearn.org/embed/rank/nikkitaannageorge@mulearn" alt="Profile Card">
+<img src="https://mulearn.org/embed/rank/nikkitaannageorge@mulearn" alt="Profile Card"></img>
