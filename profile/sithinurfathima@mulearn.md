@@ -82,3 +82,9 @@ Over the next 6–12 months, I want to strengthen my technical foundation, impro
 
 ### Long-term
 My long-term goal is to become a technology professional who combines technical knowledge with leadership and community building. I want to create solutions that make a positive impact and inspire others to learn and collaborate. I believe μFIFA will give me the experience, network, and confidence needed to take meaningful steps toward that vision.
+
+## Profile Card
+<img
+    src="https://mulearn.org/embed/rank/sithinurfathima@mulearn"
+    width="400px">
+</img>
