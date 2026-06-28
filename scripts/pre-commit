@@ -32,14 +32,9 @@ echo "⚽ μFIFA pre-commit: validating profile file(s)..."
 echo ""
 
 # Check Python is available
-PYTHON_CMD=""
-if python3 --version >/dev/null 2>&1; then
-  PYTHON_CMD="python3"
-elif python --version >/dev/null 2>&1; then
-  PYTHON_CMD="python"
-else
-  echo "⚠  python not found - skipping profile validation."
-  echo "   Install Python to enable checks."
+if ! command -v python3 >/dev/null 2>&1; then
+  echo "⚠  python3 not found - skipping profile validation."
+  echo "   Install Python 3 and re-run to enable checks."
   exit 0
 fi
 
@@ -49,7 +44,7 @@ for FILE in $STAGED_PROFILES; do
     continue
   fi
 
-  $PYTHON_CMD -X utf8 "$VALIDATOR" "$FILE"
+  python3 "$VALIDATOR" "$FILE"
   if [ $? -ne 0 ]; then
     FAILED=1
   fi
