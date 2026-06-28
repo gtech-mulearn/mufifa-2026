@@ -59,10 +59,8 @@ I actively participate in μLearn programs, innovation challenges, hackathons, w
 
 ### Domain Profiles
 
-- **GitHub:** https://github.com/yourusername
-- **LinkedIn:** https://linkedin.com/in/yourprofile
-- **LeetCode:** https://leetcode.com/yourusername *(Optional)*
-- **HackerRank:** https://hackerrank.com/yourusername *(Optional)*
+- **GitHub:** https://github.com/snekha717-debug
+- **LinkedIn:** https://www.linkedin.com/in/snekha-a-l-2b20b737b/
 
 ###  Tools, Workflows & Automations
 
@@ -102,10 +100,8 @@ Relevant Certifications:
 - Web Development
 - Internship Certifications
 
-**GitHub:** https://github.com/yourusername
-
-**LinkedIn:** https://linkedin.com/in/yourprofile
-
+**GitHub:** https://github.com/snekha717-debug
+**Linkedin:** https://www.linkedin.com/in/snekha-a-l-2b20b737b/
 ### History of Leadership
 
 I have taken initiative during academic projects by coordinating teammates, planning project execution, and ensuring timely completion. I believe leadership is about collaboration, responsibility, and helping others succeed together.
