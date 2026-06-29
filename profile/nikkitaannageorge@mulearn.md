@@ -10,7 +10,7 @@ Along with academics, I actively participate in technical communities and learni
 
 ---
 
-## âš½ FIFA World Cup Corner
+##  FIFA World Cup Corner
 
 **My Nation & Why:**
 - I am representing Portugal because of its rich football history, talented players, and fighting spirit. Their determination and teamwork inspire me.
@@ -42,7 +42,7 @@ Along with academics, I actively participate in technical communities and learni
 
 ---
 
-## ðŸ… Portfolio Highlights
+##  Portfolio Highlights
 
 **History of Open Source and Collaborative Contributions:**
 - Contributed as a GirlScript Summer of Code 2026 (GSSoC'26) Contributor.
