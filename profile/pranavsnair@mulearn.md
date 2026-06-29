@@ -253,7 +253,7 @@ https://www.linkedin.com/in/pranavsanthoshnair/
 
 ### Portfolio
 
-https://pranavsnair.dev
+https://pranavsnair.vercel.app
 
 ---
 
