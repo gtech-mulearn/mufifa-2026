@@ -6,6 +6,7 @@ About Me
 ____
 I am an 18-year-old student at Viswajyothi College of Engineering and Technology (VCET) who loves living at the intersection of coding and design. Whether I am participating in competitive programming challenges like TCS CodeVita, diving into Generative AI, or getting hands-on with hardware (like repairing the speakers on my Lenovo gaming laptop), I am always looking to build and learn. I recently applied for the μLearn executive committee at my college, and I am excited to bring that energy to μFIFA, collaborate with other builders, and prove my skills on the pitch.
 
+____
 ⚽ FIFA World Cup Corner
 
 My Nation & Why:
@@ -35,6 +36,7 @@ Most anticipated match: Any knockout game where top European and South American 
 μFIFA World Cup 2026 - Tournament Goals:
 To level up my GitHub portfolio, connect with versatile innovators across Kerala, and put solid points on the board for France.
 
+____
 🏅 Portfolio Highlights
 History of Open Source and Collaborative Contributions:
 My main focus is ramping up my GitHub commits. I use GitHub Codespaces heavily for my development workflow and plan to open-source the projects I build during this tournament.
