@@ -3,8 +3,10 @@
 
 ### About Me
 
-> I'm a person who would spent who knows how long MUCH HOURS rearranging pixels in a canvas and when I get bore of that I hop onto my code editor and try building something in the mean time and upon the arrival of Mufifa started dedicating some time trying to climb the leaderboard while building my skills.
-> I am graphic designer at MuLearn Foundation and MBCET Catalyst IEDC's TRIBE Team, so a lot of time would be spent in figma which eventually ends up staring back right at me as a result of staring into the abyss of limitless possibilities. With the help of the community built around Mufifa I hope to find like minded people on my journey to become my better self.
+>I am someone who thrives at the intersection of visual creativity and logical problem-solving. My days are often spent in a meticulous dance with design, I can easily lose track of hours just rearranging pixels on a canvas, chasing visual perfection. However, when the creative well needs a momentary break, I seamlessly hop over to my code editor, channeling that same focus into building tangible digital solutions.Currently, I serve as a Graphic Designer at both the MuLearn Foundation and the MBCET Catalyst IEDC's TRIBE Team. Because of these roles, a massive portion of my time is dedicated to Figma. It’s a powerful tool, but any designer knows the feeling of staring into its blank canvas—facing an abyss of limitless possibilities that can occasionally stare right back at you, demanding a spark of inspiration.
+
+>Lately, my journey has taken an exciting new turn with the arrival of Mufifa. I have been dedicatedly carving out time to climb its leaderboard, using the platform not just for the thrill of competition, but as a deliberate way to sharpen and build my skill set.
+Ultimately, growth isn't a solo mission. Through the incredible, vibrant community built around Mufifa, my goal is to connect with like-minded individuals, share insights, and collaborate. I’m excited to see where this journey takes me as I continuously push myself to become the best version of who I can be.
 
 ---
 
