@@ -1,4 +1,4 @@
-# Your Name (Computer Scienec Student,AI Enthusiast,UI/UX Enthusiast)
+# Abhirami Balakrishnan(Computer Scienec Student,AI Enthusiast,UI/UX Enthusiast)
 
 ### Squad Domain: Coder | FIFA Nation: Argentina
 
