@@ -1,0 +1,111 @@
+# μFIFA Profile
+
+## Full Name (Your Role / What You Do)
+
+**Full Name:** Nandana C S  
+**Squad Domain:** Maker  
+**FIFA Nation:** Germany 🇩🇪
+
+---
+
+# About Me
+
+I am Nandana C S, a B.Tech student in Electrical and Electronics Engineering at NSS College of Engineering. As a Maker, I am passionate about learning and building technology that solves real-world problems. Although I am still a beginner, I have a strong interest in IoT and look forward to exploring embedded systems, connected devices, and innovative hardware projects.
+
+I joined μFIFA to support my favourite team, Germany, while becoming part of a community that encourages learning, collaboration, and creativity. Through this journey, I aim to strengthen my technical skills, work on meaningful projects, connect with like-minded people, and build a portfolio that reflects my growth as an aspiring engineer and maker.
+
+---
+
+# ⚽ FIFA World Cup Corner
+
+## My Nation & Why
+
+I proudly represent **Germany** in μFIFA because of the nation's unmatched football legacy. Even when they aren't receiving the spotlight, Germany has consistently proven to be one of football's most disciplined and successful teams. To me, they are the unpraised dominators of the pitch, defined by resilience, teamwork, and a winning mentality.
+
+## Supporting Team in the Real World Cup 2026
+
+I'm supporting **Germany** in the FIFA World Cup 2026 as well. My loyalty has always been with Die Mannschaft, and I'll be cheering them on throughout the tournament.
+
+## All-Time Favourite Player
+
+My all-time favourite footballer is **Mesut Özil**. His vision, creativity, intelligence, and ability to create chances out of nothing made him a joy to watch. The elegance of his game and the way he controlled the midfield are what inspired my admiration.
+
+## Best Player Right Now
+
+For me, **Mesut Özil** will always be the greatest footballer. Even though he is retired, his style of play, football IQ, and influence on the game continue to define excellence in my eyes.
+
+## Past World Cup Memories
+
+My most unforgettable FIFA World Cup memory is the **2014 FIFA World Cup Final**. Watching Germany lift the trophy after a hard-fought victory remains one of my favourite football moments. That triumph strengthened my admiration for the team's resilience and legacy.
+
+## 2026 Predictions
+
+- **World Cup Winner:** Germany 🇩🇪
+- **Dark Horse Team:** Japan 🇯🇵
+- **Player Who Will Define the Tournament:** Erling Haaland
+- **Most Exciting Match:** Germany's knockout matches, especially against one of the tournament favourites.
+
+## μFIFA World Cup 2026 – Tournament Goals
+
+By the final whistle of μFIFA, I want to have developed practical skills, completed meaningful maker projects, expanded my network, and built a portfolio that showcases my growth in IoT and engineering. I also hope to contribute actively to the community while proudly representing Germany.
+
+---
+
+# 🏅 Portfolio Highlights
+
+## History of Open Source and Collaborative Contributions
+
+I am currently at the beginning of my open-source journey and have not yet contributed to any public projects. During μFIFA, I plan to document my IoT learning journey on GitHub, publish my first hardware projects, and make my first open-source contribution.
+
+## History of Community Engagement
+
+I am new to technical communities and excited to begin participating in collaborative learning through μFIFA and μLearn. I look forward to joining workshops, hackathons, and community events where I can learn from experienced makers and contribute as I grow.
+
+## Domain Profiles
+
+- **GitHub:** *(Public profile link to be added)*
+- **LinkedIn:** https://www.linkedin.com/in/nandana-cs-57090a381
+
+## Tools, Workflows & Automations
+
+As a beginner, I am currently exploring the maker ecosystem. I am eager to learn tools and platforms commonly used in IoT and embedded systems, including Arduino, ESP32, VS Code, Git, and AI assistants such as ChatGPT. My goal is to build a strong technical workflow through consistent practice and project-based learning.
+
+## Public Portfolio & Recognition
+
+I have not yet built a public portfolio. By the end of μFIFA, I aim to publish my first IoT project on GitHub with proper documentation, demonstrating my progress from beginner to maker.
+
+## Education and Proof of Work
+
+- **Degree:** B.Tech in Electrical and Electronics Engineering
+- **Institution:** NSS College of Engineering
+- **Certifications:** None yet; planning to complete relevant IoT, embedded systems, and electronics courses during μFIFA.
+
+**GitHub:** *(Public profile link to be added)*
+
+**LinkedIn:** https://www.linkedin.com/in/nandana-cs-57090a381
+
+## History of Leadership
+
+I am an active **ISTE (Indian Society for Technical Education)** student member and have taken on leadership responsibilities as the **Coordinator of RoboBlitz**, a technical event conducted at NSS College of Engineering. This experience helped me develop teamwork, communication, coordination, and event management skills while working with students and faculty to organize a successful technical event.
+
+## Networking
+
+During μFIFA, I hope to connect with IoT developers, electronics enthusiasts, startup founders, and professionals who are passionate about building innovative technology. I am also looking for opportunities to collaborate on projects, gain mentorship, and explore internships that will help me grow as an engineer.
+
+## Career Plan
+
+### Immediate (Next 6–12 Months)
+
+My immediate goal is to strengthen my technical foundation by learning CAD software, building IoT mini-projects, improving my practical engineering skills, and creating a strong GitHub portfolio. I also aim to participate in hackathons, technical communities, and collaborative projects to gain hands-on experience.
+
+### Long-Term
+
+My long-term goal is to become a skilled Electrical and Electronics Engineer with expertise in IoT, embedded systems, and product development. I want to build innovative solutions that solve real-world problems while continuously learning, contributing to open-source projects, and collaborating with the global maker community. I believe μFIFA will help me develop the technical skills, confidence, and professional network needed to achieve these goals.
+ 
+
+## Profile Card
+
+<img
+    src="https://mulearn.org/embed/rank/nandanacs-1@mulearn"
+    width="400px">
+</img>
