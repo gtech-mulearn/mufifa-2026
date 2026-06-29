@@ -97,7 +97,7 @@ Become a skilled Full-Stack Software Engineer who builds scalable web applicatio
 
 ```html
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
+    src="https://mulearn.org/embed/rank/jobthomascherian@mulearn"
     width="400px">
 </img>
 ```
