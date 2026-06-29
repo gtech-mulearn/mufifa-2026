@@ -114,3 +114,7 @@ To become a Product Designer + Software Engineer building impactful real-world d
 ## 🤝 Networking
 
 Open to collaborating with designers, developers, and innovators through hackathons, μLearn, and LinkedIn. Always excited to learn and build with new people.
+<img
+    src="https://mulearn.org/embed/rank/nicolenelson@mulearn"
+    width="400px">
+</img>
