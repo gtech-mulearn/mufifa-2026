@@ -1,4 +1,5 @@
 # Full Name (Your Role / What You Do)
+
 ### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
 
 ### About Me
@@ -71,6 +72,7 @@
   - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
   - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
   - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
+
 - *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
 
 #### Tools, Workflows & Automations:
@@ -103,6 +105,7 @@
 #### Career Plan:
 
 - **Immediate:** What are you working on or planning to do in the next 6-12 months?
+
 - **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
 
 ---
@@ -114,4 +117,3 @@
 <img
     src="https://mulearn.org/embed/rank/yourname@mulearn"
     width="400px">
-</img>
