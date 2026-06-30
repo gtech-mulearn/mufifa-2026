@@ -1,116 +1,73 @@
 # Joseph Michael(CSE Student)
-### Squad Domain: [Coder] | FIFA Nation: [portugal]
+### Squad Domain: [Coder]  |  FIFA Nation: [portugal]
 
 ### About Me
 > I'm a computer science student passionate about software development and building intuitive user interfaces. I joined μFIFA to challenge myself, apply my coding skills in a gamified environment, and connect with other tech enthusiasts. I'm excited to learn more about system architecture and contribute to impactful projects during this tournament.
 
 ---
 
-## ⚽ FIFA World Cup Corner
-
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
-
-#### My Nation & Why:
-
-- Which FIFA Nation are you representing in μFIFA, and why did you pick them?
-- Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
-
-#### Supporting Team in the Real World Cup 2026:
-
-- Which team are you backing in the actual FIFA World Cup 2026?
-- Are they the same as your μFIFA Nation, or do you split loyalties?
-
-#### All-Time Favourite Player:
-
-- Who is your all-time favourite footballer and why?
-- What about their game or story resonates with you?
-
-#### Best Player Right Now:
-
-- Who do you think is the best player in the world at this moment?
-- Make your case.
-
-#### Past World Cup Memories:
-
-- What's your most memorable FIFA World Cup moment? A match, a goal, a heartbreak, or an upset?
-- Where were you when it happened?
-
-#### 2026 Predictions:
-
-- Who wins the FIFA World Cup 2026?
-- Dark horse team to watch?
-- Player who will define this tournament?
-- Which match are you most looking forward to?
-
-#### μFIFA World Cup 2026 - Tournament Goals:
-
-- What do you want to achieve in μFIFA by the time the final whistle blows?
-- What will you have built, learned, or contributed that you didn't have before?
-
+### FIFA World Cup Corner
+My Nation & Why:
+ * Which FIFA Nation are you representing in µFIFA, and why did you pick them?
+> I'm representing Portugal because of their rich footballing history, legendary players, and passionate fan base.
+> 
+ * Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
+> It's a mix of legacy and passion. I've always admired icons like Eusébio and Cristiano Ronaldo, and the technical, attacking style of play is something I deeply connect with.
+> 
+Supporting Team in the Real World Cup 2026:
+ * Which team are you backing in the actual FIFA World Cup 2026?
+> I am backing Portugal in the real World Cup as well.
+> 
+ * Are they the same as your μFIFA Nation, or do you split loyalties?
+> They are the same. My loyalty lies entirely with A Seleção.
+> 
+All-Time Favourite Player:
+ * Who is your all-time favourite footballer and why?
+> Cristiano Ronaldo, because of his incredible dedication, work ethic, and unmatched goalscoring records.
+> 
+Best Player Right Now:
+ * Who do you think is the best player in the world at this moment?
+> I believe Bernardo Silva is currently one of the best due to his exceptional vision, dribbling, and control over the midfield.
+>
 ---
 
 ## 🏅 Portfolio Highlights
-
 > No portfolio yet? That's fine. μFIFA is where you build one. Fill in what you have, even if it's just an idea, a plan, or something you're currently learning.
-
+> 
 #### History of Open Source and Collaborative Contributions:
-
-- Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
-- *If you're just starting:* mention a project you're planning to open-source, or a repo you've been studying and want to contribute to.
-
+ * Currently maintaining personal repositories focused on foundational development, automated utility scripts, and exploratory design systems. Active contributor to collaborative peer-learning circles within the μLearn network.
+ * As a primary goal for μFIFA, I am studying active community repositories to make meaningful open-source contributions while preparing a dedicated project codebase to launch openly by the end of the tournament.
 #### History of Community Engagement:
-
-- Describe your engagement in technical or creative communities: Discord servers, forums, hackathons, campus clubs, μLearn programs, or any space where you've shown up and contributed consistently.
-- *If you're just starting:* mention a community you've recently joined or an event you attended. Showing up counts.
-
+ * Highly active across technical and creative ecosystem touchpoints, specifically the **μLearn Discord community** and local campus technical clubs.
+ * Regular participant in peer-to-peer study sessions, design hackathons, and regional tech meetups—focusing on showing up consistently, building side-by-side with peers, and sharing learning resources.
 #### Domain Profiles:
-
-- Link to the platforms where your work lives publicly, relevant to your Squad Domain(s):
-  - **Coder**: GitHub, LeetCode, HackerRank, CTFtime, or similar
-  - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
-  - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
-  - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
-- *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
-
+ * **Coder:** https://github.com/JosephMichael
 #### Tools, Workflows & Automations:
-
-- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
-- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
-
+ * **Core Workflow & Design:** VS Code, Git/GitHub, Figma, and Canva for structural layout and development.
+ * **AI & Productivity Assistants:** Prompting and brainstorming workflows powered by ChatGPT, Claude, and Notion for comprehensive project tracking and documentation.
+ * **Currently Mastering:** Exploring GitHub Actions for workflow automation, continuous integration, and learning the fundamentals of low-code development architectures.
 #### Public Portfolio & Recognition:
-
-- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
-- This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
-- *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
-
+ * Deployed foundational web layouts and minor web utilities accessible via open hosting networks (GitHub Pages/Vercel).
+ * My primary objective during μFIFA is to design, refine, and publicly ship a functional, production-ready product application. This will serve as my ultimate public proof of work, proving my ability to build and launch under pressure.
 #### Education and Proof of Work:
-
-- Mention your current degree, institution, and any relevant certifications or courses completed.
-- Add links to your GitHub and LinkedIn profiles.
-
+ * Pursuing a formal degree at **St. Joseph's College of Engineering, Pala**.
+ * Completed foundational domain-specific certifications via self-paced learning pathways (freeCodeCamp, Google, Coursera).
+ * **Core Professional Anchors:** https://github.com/JosephMichael
 #### History of Leadership:
-
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
-
+ * Practiced peer leadership by organizing informal campus study cohorts, leading small project teams during hackathons, and managing event logistics for student club meetups.
+ * Focused heavily on taking initiative without requiring a formal title—frequently onboarding junior students, facilitating peer code reviews, and streamlining team task allocations.
 #### Networking:
-
-- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
-- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
-
+ * Actively collaborating across disciplines by bridging technical development, visual design, and product strategy to form well-rounded, cross-functional squads.
+ * During μFIFA, I am specifically targeting meaningful partnerships with creative designers and product strategists to bring multidisciplinary project concepts to life.
 #### Career Plan:
-
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
-- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
-
----
+ * **Immediate (6-12 Months):** Securing a domain-specific internship, sharpening specialized skills through practical deployments, and establishing a visible public digital footprint.
+ * **Long-term:** Evolving into a full-scale professional capability role (e.g., Engineer, Product Designer, or Technical Strategist). μFIFA serves as my high-intensity runway to build real-world agility, collaborate at scale, and ship verified proof of work.
 
 #### Profile Card:
 
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
+    src="https://mulearn.org/embed/rank/josephmichael@mulearn"
     width="400px">
 </img>
