@@ -216,6 +216,9 @@ My long-term goal is to become a **Full-Stack Software Engineer** who develops s
 I see **μFIFA** as an opportunity to gain practical experience, collaborate with talented developers, and build a portfolio that reflects both technical expertise and teamwork.
 
 # 📇 Profile Card
-<img width="190" height="92" alt="image" src="https://github.com/user-attachments/assets/f84bb32b-5a54-41b5-b03c-cda7d2822293" />
+<img
+    src="https://mulearn.org/embed/rank/aksavinod-1@mulearn"
+    width="400px">
+</img>
 
 
