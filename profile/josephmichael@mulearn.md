@@ -1,9 +1,8 @@
 # Joseph Michael(CSE Student)
 ### Squad Domain: [Coder] | FIFA Nation: [portugal]
 
-### I'm a computer science student passionate about software development and building intuitive user interfaces. I joined μFIFA to challenge myself, apply my coding skills in a gamified environment, and connect with other tech enthusiasts. I'm excited to learn more about system architecture and contribute to impactful projects during this tournament.
-
-> Who are you, what do you build or create, and what brought you to μFIFA? Tell us about your field, your work at your institution or organisation, and what you're here to prove on the pitch. If you're just starting out, tell us what excites you and what you want to become. *(Minimum 200 characters)*
+### About Me
+> I'm a computer science student passionate about software development and building intuitive user interfaces. I joined μFIFA to challenge myself, apply my coding skills in a gamified environment, and connect with other tech enthusiasts. I'm excited to learn more about system architecture and contribute to impactful projects during this tournament.
 
 ---
 
