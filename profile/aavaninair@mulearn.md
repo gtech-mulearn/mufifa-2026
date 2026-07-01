@@ -104,7 +104,7 @@ I aim to become a skilled technology professional who can create impactful solut
 ---
 
 ## Profile Card
-
+<img src="https://mulearn.org/embed/rank/aavaninair-1@mulearn" width="100px" height="100px"></img>
 **Name:** Aavani Nair  
 **Squad:** Strategist  
 **Nation:** Argentina 🇦🇷  
