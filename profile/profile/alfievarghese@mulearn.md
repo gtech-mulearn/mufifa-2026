@@ -93,6 +93,6 @@ My core technical team includes Nevin, S Tippu Sahib, Benison Benny, Jomy Joseph
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
-    src="https://mulearn.org/embed/rank/alfievarghese@mulearn"
+    src="https://cdn.discordapp.com/attachments/789476711867088967/1521899458651226206/rank.png?ex=6a4682d2&is=6a453152&hm=3f69a6481e18fabc66e7d90b67c3a580286890f381f550e71fa7207fc2ee39f0&"
     width="400px">
 </img>
