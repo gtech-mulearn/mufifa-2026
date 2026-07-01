@@ -100,6 +100,6 @@ I enjoy connecting with students who are passionate about technology, software d
 #### Profile Card:
 
 <img
-    src="rajendrannandana55-card.png"
+    src="https://mulearn.org/embed/rank/nandanarajendran-2@mulearn"
     width="400px">
 </img>
