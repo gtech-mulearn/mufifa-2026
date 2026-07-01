@@ -137,3 +137,7 @@ My long-term goal is to become a skilled software engineer with expertise in cyb
 
 Profile Card
 https://mufifa.mulearn.org/profile/diyakrishnam2028
+<img
+    src="https://mulearn.org/embed/rank/diyakrishna.m@mulearn"
+    width="400px">
+</img>
