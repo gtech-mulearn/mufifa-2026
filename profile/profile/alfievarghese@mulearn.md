@@ -1,5 +1,5 @@
 # Alfie Varghese (AI & Full Stack Developer / Researcher)
-### Squad Domain: Coder / Strategist | FIFA Nation: [Add your nation]
+### Squad Domain: Coder / Strategist | FIFA Nation: Brazil
 
 ### About Me
 
@@ -13,30 +13,30 @@ I'm a 3rd year B.Tech student in Artificial Intelligence and Data Science at St.
 
 #### My Nation & Why:
 
-[Add: which FIFA Nation you're representing in μFIFA and why]
+I'm representing Brazil. It's the classic Kerala football household pick, the samba style, the yellow jersey, and the sheer weight of history with five World Cups make it an easy team to back with pride.
 
 #### Supporting Team in the Real World Cup 2026:
 
-[Add: which team you're backing in the real World Cup 2026]
+Brazil, same as my μFIFA nation. No split loyalties here.
 
 #### All-Time Favourite Player:
 
-[Add: your all time favourite footballer and why]
+Lionel Messi. His footballing IQ, low center of gravity dribbling, and the sheer consistency across two decades at the top make him the standard I judge every other player against.
 
 #### Best Player Right Now:
 
-[Add: who you think is the best player right now]
+Kylian Mbappe. His pace, finishing, and big match temperament make him the most decisive attacker in the world right now.
 
 #### Past World Cup Memories:
 
-[Add: your most memorable World Cup moment]
+The 2022 final between Argentina and France, watched with friends late into the night. Messi finally lifting the trophy after Mbappe's hat trick nearly stole it was the most dramatic 120 minutes of football I've seen.
 
 #### 2026 Predictions:
 
-- Winner: [Add]
-- Dark horse: [Add]
-- Player of the tournament: [Add]
-- Match you're most looking forward to: [Add]
+- Winner: Brazil
+- Dark horse: Morocco
+- Player of the tournament: Kylian Mbappe
+- Match you're most looking forward to: Brazil vs Argentina, if the draw allows it
 
 #### μFIFA World Cup 2026 - Tournament Goals:
 
@@ -93,6 +93,6 @@ My core technical team includes Nevin, S Tippu Sahib, Benison Benny, Jomy Joseph
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
+    src="https://mulearn.org/embed/rank/alfievarghese@mulearn"
     width="400px">
 </img>
