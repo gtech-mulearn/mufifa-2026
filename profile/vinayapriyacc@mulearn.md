@@ -1,4 +1,4 @@
-# Vinayapriya CC (Aspiring Developer)
+# Vinayapriya C C (Aspiring Developer)
 
 ### Squad Domain: Coder | FIFA Nation: Argentina
 
