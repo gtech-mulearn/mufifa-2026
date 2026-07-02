@@ -30,9 +30,10 @@ Cristiano Ronaldo's discipline, consistency, work ethic, and passion for excelle
 
 #### Best Player Right Now:
 
-**Lamine Yamal**
 
-His technical brilliance, confidence, creativity, and maturity at such a young age make him one of the most exciting footballers in the world today.
+**Cristiano Ronaldo (CR7)**
+
+In my opinion, Cristiano Ronaldo is still the best player in the world. His exceptional professionalism, unmatched work ethic, consistency, and winning mentality continue to set him apart. Even after two decades at the highest level, he remains a decisive player for both club and country, inspiring millions through his leadership, goal-scoring ability, and relentless pursuit of excellence. For me, CR7 continues to represent the highest standard of football.
 
 #### Past World Cup Memories:
 
@@ -41,8 +42,8 @@ The FIFA World Cup 2022 Final between Argentina and France remains my favourite 
 #### 2026 Predictions:
 
 - **World Cup Winner:** Portugal
-- **Dark Horse Team:** Morocco
-- **Player of the Tournament:** Lamine Yamal
+- **Dark Horse Team:** France
+- **Player of the Tournament:** Cristiano Ronaldo
 - **Most Anticipated Match:** Portugal vs Spain
 
 #### μFIFA World Cup 2026 - Tournament Goals:
