@@ -1,4 +1,4 @@
-## Krishnapriya A R (Computer Science student | Web developer)
+# Krishnapriya A R (Computer Science student | Web developer)
 ### Squad Domain: Coder | FIFA Nation: Argentina
 
 ### About Me
@@ -8,19 +8,19 @@ I joined μFIFA because it combines teamwork, strategy, and competition with a s
 
 ## ⚽ FIFA World Cup Corner
 
-### My Nation & Why
+#### My Nation & Why
 Nation: Argentina
 Inspired by Argentina's football legacy and fighting spirit.
 Lifelong fan of Lionel Messi.
 The 2022 World Cup victory made my support even stronger.
 
-### Supporting Team in the Real World Cup 2026:
+#### Supporting Team in the Real World Cup 2026:
 
 I am supporting Argentina in the FIFA World Cup 2026.
 Yes, it's the same team I represent in μFIFA. 
 
-### All-Time Favourite Player:
-### Lionel Messi
+#### All-Time Favourite Player:
+Lionel Messi
 Exceptional vision, creativity, and leadership.
 His journey inspires me to work hard and stay humble.
 
@@ -29,11 +29,11 @@ His journey inspires me to work hard and stay humble.
 I think Kylian Mbappé,  is the best player in the world right now. He is incredibly fast, has excellent finishing, and performs well in big matches. His confidence, consistency, and ability to change the game make him one of the most exciting footballers to watch.
 
 
-### Past World Cup Memories:
+#### Past World Cup Memories:
 Argentina defeating France in the 2022 FIFA World Cup Final.
 Watching Messi lift the World Cup trophy was unforgettable.
 
- ### 2026 Predictions:
+ #### 2026 Predictions:
 
 * World Cup Winner: Argentina. I believe they have a strong team and the experience to compete for another title.
 
@@ -44,25 +44,25 @@ Watching Messi lift the World Cup trophy was unforgettable.
 * Match I'm Most Looking Forward To: Argentina vs. Portugal. It would be an exciting match between two top football nations with world-class players.
 
 
- ### μFIFA World Cup 2026 - Tournament Goals:
+ #### μFIFA World Cup 2026 - Tournament Goals:
 
 - By the end of the μFIFA World Cup 2026, I want to improve my skills, learn from other participants, and enjoy the competition. I hope to become a better team player, build new friendships, and gain more confidence through the tournament.   Most importantly, I want to represent Argentina with pride and give my best in every match.
 
 - I hope to learn new strategies, improve my teamwork and communication, and become more confident while competing. I also      want to contribute by supporting my teammates, playing fairly, and creating a positive experience for everyone in the         tournament.
 ---
 
-### 🏅 Portfolio Highlights
+## 🏅 Portfolio Highlights
 
-## History of Open Source & Collaborative Contributions
+#### History of Open Source & Collaborative Contributions
 Building personal projects on GitHub.
 Planning to contribute to open-source repositories.
 Interested in collaborative coding projects.
 
-## History of Community Engagement
+#### History of Community Engagement
 Attend coding events and technical workshops.
 Enjoy learning from the developer community.
 
- ### Domain Profiles:
+ #### Domain Profiles:
  
  💻 Coder:    :https://github.com/krishnapriya609
  
@@ -98,7 +98,7 @@ Enjoy learning from the developer community.
 
 *Planning to publish more full-stack projects during μFIFA
 
-### Education and Proof of Work:
+#### Education and Proof of Work:
 
 Btech Computer Science and Engineering at St Joseph's College of Engineering and Technology, Palai
 
