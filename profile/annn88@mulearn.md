@@ -111,9 +111,7 @@ Become a skilled Software Engineer and contribute to impactful technology soluti
 
 ### Profile Card
 
-```html
 <img
-    src="https://mulearn.org/embed/rank/annn88@mulearn"
+    src="https://mulearn.org/embed/rank/annmariyabiju@mulearn"
     width="400px">
 </img>
-```
