@@ -103,3 +103,7 @@ Immediate (6–12 months):
 
 Long-term:
 To start my own company or business and become a successful and kind human being who creates meaningful impact through technology.
+<img
+    src="https://mulearn.org/embed/rank/athulyapraveen@mulearn"
+    width="400px">
+</img>
