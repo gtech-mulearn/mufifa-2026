@@ -232,9 +232,9 @@ My goal is to become a Cybersecurity Engineer specializing in Offensive Security
 
 ## Profile Card
 
-```html
+
 <img
     src="https://mulearn.org/embed/rank/jacobprasanth@mulearn"
     width="400px">
 </img>
-```
+
