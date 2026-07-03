@@ -46,7 +46,7 @@ I want to build a solid track record of cybersecurity and web development projec
 
 ## 🏅 Portfolio Highlights
 
-> No portfolio yet? That's fine. μFIFA is where you build one. Fill in what you have, even if it's just an idea, a plan, or something you're currently learning.
+> I have built several projects showcasing my skills in web development and cybersecurity, and I am continuously expanding my expertise.
 
 #### History of Open Source and Collaborative Contributions:
 
