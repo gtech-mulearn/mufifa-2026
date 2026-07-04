@@ -43,4 +43,7 @@ Contribute to open source, improve my design skills, and build impactful project
 
 ## Profile Card
 
-Paste your μLearn embed link here.
+Paste your μLearn embed link here.<img
+    src="https://mulearn.org/embed/rank/ezajohny@mulearn"
+    width="400px">
+</img>
