@@ -1,5 +1,5 @@
-# Full Name
-**Gokul Shaji (Backend Developer Intern | Computer Science Student)**
+
+# Gokul Shaji (Backend Developer Intern | Computer Science Student)
 
 ### Squad Domain
 **Coder** | **FIFA Nation: Brazil**
@@ -159,7 +159,6 @@ My long-term goal is to become a Software Engineer specializing in scalable back
 ---
 
 ## Profile Card
+<img src="https://mulearn.org/embed/rank/gokulshaji@mulearn" width="400" ></img>
 
-```html
-<img src="https://mulearn.org/embed/rank/gokulshaji@mulearn" width="200px" height="200px"></img>
 ```
