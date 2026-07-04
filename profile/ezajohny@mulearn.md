@@ -1,7 +1,7 @@
 # Eza Johny
 
-**Squad Domain:** Designer, Maker  
-**FIFA Nation:** India 🇮🇳
+**Squad Domain:** Designer
+**FIFA Nation:** France 🇫🇷
 
 ## About Me
 
@@ -15,7 +15,7 @@ FC Barcelona
 
 #### Favourite Player
 
-Lionel Messi
+Kylian Mbappé
 
 #### Why I Love Football
 
@@ -43,7 +43,7 @@ Contribute to open source, improve my design skills, and build impactful project
 
 ## Profile Card
 
-Paste your μLearn embed link here.<img
+<img
     src="https://mulearn.org/embed/rank/ezajohny@mulearn"
     width="400px">
 </img>
