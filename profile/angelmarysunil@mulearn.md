@@ -73,7 +73,7 @@ I actively participate in hackathons, internships, technical workshops, coding a
 - Vite
 ## Public Portfolio & Recognition
 
-Some of my projects include a Movie App, Recipe App, Chat App, restaurent management system 
+Some of my projects include a Movie App, Recipe App, Chat App, restaurant management system.
 During μFIFA, I plan to build more collaborative projects, contribute to open-source repositories, and strengthen my public portfolio.
 
 ## Education and Proof of Work
