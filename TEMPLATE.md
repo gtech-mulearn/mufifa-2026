@@ -1,117 +1,115 @@
-# Full Name (Your Role / What You Do)
-### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
+# Ananthu S (Engineering Student | Aspiring Software Developer)
+### Squad Domain: Coder | FIFA Nation: ARGEN
 
-### About Me
+## About Me
 
-> Who are you, what do you build or create, and what brought you to μFIFA? Tell us about your field, your work at your institution or organisation, and what you're here to prove on the pitch. If you're just starting out, tell us what excites you and what you want to become. *(Minimum 200 characters)*
-
----
-
-## ⚽ FIFA World Cup Corner
-
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
-
-#### My Nation & Why:
-
-- Which FIFA Nation are you representing in μFIFA, and why did you pick them?
-- Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
-
-#### Supporting Team in the Real World Cup 2026:
-
-- Which team are you backing in the actual FIFA World Cup 2026?
-- Are they the same as your μFIFA Nation, or do you split loyalties?
-
-#### All-Time Favourite Player:
-
-- Who is your all-time favourite footballer and why?
-- What about their game or story resonates with you?
-
-#### Best Player Right Now:
-
-- Who do you think is the best player in the world at this moment?
-- Make your case.
-
-#### Past World Cup Memories:
-
-- What's your most memorable FIFA World Cup moment? A match, a goal, a heartbreak, or an upset?
-- Where were you when it happened?
-
-#### 2026 Predictions:
-
-- Who wins the FIFA World Cup 2026?
-- Dark horse team to watch?
-- Player who will define this tournament?
-- Which match are you most looking forward to?
-
-#### μFIFA World Cup 2026 - Tournament Goals:
-
-- What do you want to achieve in μFIFA by the time the final whistle blows?
-- What will you have built, learned, or contributed that you didn't have before?
+I am an engineering student at KMCT College of Engineering with a strong interest in programming, software development, and continuous learning. I enjoy solving problems through code and am currently improving my skills in C, Python, Git, GitHub, web development, and Data Structures & Algorithms. I joined μFIFA to learn from experienced developers, collaborate with like-minded students, and build a strong portfolio through real-world projects. My goal is to become a skilled software engineer by contributing to open-source projects, developing practical applications, and continuously improving my technical and teamwork skills. I believe consistency and hands-on practice are the keys to success, and μFIFA provides the perfect opportunity to learn, build, and grow.
 
 ---
 
-## 🏅 Portfolio Highlights
+# ⚽ FIFA World Cup Corner
 
-> No portfolio yet? That's fine. μFIFA is where you build one. Fill in what you have, even if it's just an idea, a plan, or something you're currently learning.
+## My Nation & Why
 
-#### History of Open Source and Collaborative Contributions:
+I chose **Argentina** because of its rich football history, passionate supporters, and the legacy created by legendary players. Argentina represents determination, teamwork, and excellence, values that inspire me both in football and in my journey as a developer.
 
-- Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
-- *If you're just starting:* mention a project you're planning to open-source, or a repo you've been studying and want to contribute to.
+## Supporting Team in the Real World Cup 2026
 
-#### History of Community Engagement:
+I will proudly support **Argentina** in the FIFA World Cup 2026. My loyalty stays with Argentina because of its fighting spirit and exciting style of football.
 
-- Describe your engagement in technical or creative communities: Discord servers, forums, hackathons, campus clubs, μLearn programs, or any space where you've shown up and contributed consistently.
-- *If you're just starting:* mention a community you've recently joined or an event you attended. Showing up counts.
+## All-Time Favourite Player
 
-#### Domain Profiles:
+**Lionel Messi** is my all-time favourite footballer. His vision, creativity, dribbling, passing, humility, and dedication make him one of the greatest players in football history. His journey from overcoming challenges to lifting the FIFA World Cup inspires me to stay committed to my own goals.
 
-- Link to the platforms where your work lives publicly, relevant to your Squad Domain(s):
-  - **Coder**: GitHub, LeetCode, HackerRank, CTFtime, or similar
-  - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
-  - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
-  - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
-- *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
+## Best Player Right Now
 
-#### Tools, Workflows & Automations:
+In my opinion, **Lionel Messi** is still the best player in the world. His football intelligence, leadership, playmaking ability, and consistency continue to influence matches at the highest level. Even after achieving almost everything in football, he continues to perform with exceptional quality.
 
-- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
-- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
+## Past World Cup Memories
 
-#### Public Portfolio & Recognition:
+My favourite FIFA World Cup memory is the 2022 World Cup Final between Argentina and France. Watching Lionel Messi finally lift the World Cup trophy after one of the greatest finals ever played was an unforgettable and emotional experience.
 
-- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
-- This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
-- *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
+## 2026 Predictions
 
-#### Education and Proof of Work:
+- **Winner:** Argentina
+- **Dark Horse:** Portugal
+- **Player to Watch:** Lionel Messi
+- **Most Anticipated Match:** Argentina vs Brazil
 
-- Mention your current degree, institution, and any relevant certifications or courses completed.
-- Add links to your GitHub and LinkedIn profiles.
+## μFIFA World Cup 2026 - Tournament Goals
 
-#### History of Leadership:
-
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
-
-#### Networking:
-
-- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
-- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
-
-#### Career Plan:
-
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
-- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
+By the end of μFIFA, I want to become a better programmer, improve my Git and GitHub workflow, contribute to collaborative projects, build an impressive GitHub portfolio, and connect with talented learners from different domains. I also hope to gain practical experience that prepares me for internships and future software engineering opportunities.
 
 ---
 
-#### Profile Card:
+# 🏅 Portfolio Highlights
 
-<!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
+## History of Open Source and Collaborative Contributions
+
+I am currently beginning my open-source journey. Through μFIFA and μLearn, I plan to contribute to GitHub repositories, collaborate with other developers, and publish personal projects that showcase my skills. My goal is to actively participate in open-source communities and learn professional software development practices.
+
+## History of Community Engagement
+
+I recently joined the μLearn community to improve my technical knowledge and connect with fellow learners. I actively participate in learning programs, coding challenges, workshops, and community discussions that help me grow as a developer.
+
+## Domain Profiles
+
+- **GitHub:** https://github.com/atu-s
+- **LinkedIn:** https://www.linkedin.com/in/atu-s
+
+## Tools, Workflows & Automations
+
+I regularly use:
+
+- Visual Studio Code
+- Git & GitHub
+- ChatGPT
+- Python
+- C Programming
+- HTML & CSS
+- Linux (Learning)
+- Google Workspace
+
+I am also interested in learning Docker, React, Node.js, and cloud technologies.
+
+## Public Portfolio & Recognition
+
+I am currently building my public portfolio through GitHub projects and μLearn initiatives. During μFIFA, I plan to publish multiple projects, improve my coding profile, and create work that demonstrates my technical abilities.
+
+## Education and Proof of Work
+
+- **Degree:** B.Tech in Engineering
+- **Institution:** KMCT College of Engineering
+- **GitHub:** https://github.com/atu-s
+- **LinkedIn:** https://linkedin.com/in/atu-s
+
+## History of Leadership
+
+Although I have not held formal leadership positions yet, I enjoy helping classmates understand programming concepts and working collaboratively during team activities. I believe leadership begins with responsibility, communication, and supporting others.
+
+## Networking
+
+Through μFIFA, I hope to connect with developers, designers, and technology enthusiasts from different institutions. I want to collaborate on projects, learn from experienced mentors, and build lasting professional relationships within the tech community.
+
+## Career Plan
+
+### Immediate Goals (6–12 Months)
+
+- Master Data Structures and Algorithms
+- Learn Full Stack Web Development
+- Build several GitHub projects
+- Contribute to Open Source
+- Improve problem-solving skills
+
+### Long-Term Goals
+
+My long-term goal is to become a skilled software engineer who develops impactful software solutions for real-world problems. I aim to contribute to open-source projects, continuously improve my technical expertise, and build innovative applications that make a positive impact.
+
+---
+
+## Profile Card
 
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
+    src="https://mulearn.org/embed/rank/ananthus@mulearn"
     width="400px">
 </img>
