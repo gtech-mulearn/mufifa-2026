@@ -86,6 +86,13 @@ Contribute to open-source projects
 Build more full-stack applications
 Long-term: Become a skilled software engineer specializing in full-stack web development, contribute to impactful software products, and continue learning emerging technologies while actively participating in the open-source community.
 
+Profile Card
+Added my μFIFA profile card
+
+<img
+    src="https://mulearn.org/embed/rank/pavithramenona@mulearn"
+    width="400px">
+</img>
 
 
 
