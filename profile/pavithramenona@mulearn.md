@@ -1,5 +1,10 @@
 Pavithra Menon A (B.Tech CSE Student | Aspiring Software Developer)
+
+
 Squad Domain: Coder | FIFA Nation: India
+
+
+
 About Me
 I am Pavithra Menon A, a third-year B.Tech Computer Science and Engineering student with a strong passion for software development, web technologies, and continuous learning. I enjoy building responsive web applications, exploring modern frameworks, and solving real-world problems through programming. My current technical skills include C, HTML, CSS, JavaScript, React, Git, and GitHub, and I am actively expanding my knowledge in full-stack development and open-source collaboration.
 
@@ -80,7 +85,8 @@ Learn Node.js and backend development
 Contribute to open-source projects
 Build more full-stack applications
 Long-term: Become a skilled software engineer specializing in full-stack web development, contribute to impactful software products, and continue learning emerging technologies while actively participating in the open-source community.
-Profile card
+
+
 
 
 
