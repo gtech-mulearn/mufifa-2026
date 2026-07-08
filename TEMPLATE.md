@@ -1,125 +1,109 @@
-# Riya Ann Mathew(Computer Science Student & Aspiring Software Developer)
-
-### Squad Domain:  Coder | FIFA Nation: Argentina
+# Full Name (Your Role / What You Do)
+### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
 
 ### About Me
 
-> I am a Computer Science and Engineering student at St. Joseph's College of Engineering and Technology (SJCET), Palai, passionate about web development, software engineering, open-source collaboration, and emerging technologies. I enjoy building practical web applications, exploring AI-powered solutions, and learning through hands-on projects. Through μFIFA, I aim to challenge myself, collaborate with talented builders, strengthen my technical skills, and create meaningful proof-of-work that reflects my growth as a developer and community contributor.
+> Who are you, what do you build or create, and what brought you to μFIFA? Tell us about your field, your work at your institution or organisation, and what you're here to prove on the pitch. If you're just starting out, tell us what excites you and what you want to become. *(Minimum 200 characters)*
+
 ---
 
 ## ⚽ FIFA World Cup Corner
 
+*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
+
 #### My Nation & Why:
-* Representing **Argentina** in μFIFA because of their rich football legacy, resilience, and the inspiration provided by Lionel Messi.
-* Argentina's journey from years of disappointment to lifting the World Cup in 2022 taught me the importance of perseverance and believing in long-term goals.
 
-
+- Which FIFA Nation are you representing in μFIFA, and why did you pick them?
+- Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
 
 #### Supporting Team in the Real World Cup 2026:
 
-* I will be representing and supporting Argentina 🇦🇷 in the tournament.
-* I’ve always admired Argentina for their intense passion for football, strong team spirit, and fearless attacking style of play, which makes them one of the most exciting teams to watch on the world stage.
-* Their ability to stay determined under pressure, fight back in difficult matches, and perform in high-stakes moments truly reflects a winning mentality that I respect a lot.
-* I will be cheering for Argentina throughout the tournament, supporting them not just as a fan, but also because of the inspiration I draw from their resilience, teamwork, and love for the game.
+- Which team are you backing in the actual FIFA World Cup 2026?
+- Are they the same as your μFIFA Nation, or do you split loyalties?
 
 #### All-Time Favourite Player:
 
-* **Lionel Messi.**
-* His vision, creativity, humility, consistency, and leadership make him my favorite footballer.
-* His journey proves that dedication and hard work can turn dreams into reality.
+- Who is your all-time favourite footballer and why?
+- What about their game or story resonates with you?
 
 #### Best Player Right Now:
 
-* **Lamine Yamal.**
-* His technical ability, confidence, and maturity at such a young age are remarkable.
-* He has the potential to become one of football's defining players for the next decade.
+- Who do you think is the best player in the world at this moment?
+- Make your case.
 
 #### Past World Cup Memories:
 
-
-* **Argentina winning the FIFA World Cup 2022.**
-* Watching Messi finally lift the trophy was unforgettable.
-* The final against France remains one of the greatest football matches I have ever watched.
+- What's your most memorable FIFA World Cup moment? A match, a goal, a heartbreak, or an upset?
+- Where were you when it happened?
 
 #### 2026 Predictions:
 
-* **Winner:** Argentina
-* **Dark Horse:** Portugal
-* **Player of the Tournament:** Lamine Yamal
-* **Most Anticipated Match:** Argentina vs Portugal
+- Who wins the FIFA World Cup 2026?
+- Dark horse team to watch?
+- Player who will define this tournament?
+- Which match are you most looking forward to?
 
 #### μFIFA World Cup 2026 - Tournament Goals:
 
-
-* Build meaningful projects and public proof-of-work.
-* Improve my development and problem-solving skills.
-* Collaborate with talented members across the μLearn ecosystem.
-* Contribute to community initiatives and open-source projects.
-* Leave μFIFA with a stronger portfolio, valuable connections, and practical experience.
+- What do you want to achieve in μFIFA by the time the final whistle blows?
+- What will you have built, learned, or contributed that you didn't have before?
 
 ---
 
 ## 🏅 Portfolio Highlights
 
+> No portfolio yet? That's fine. μFIFA is where you build one. Fill in what you have, even if it's just an idea, a plan, or something you're currently learning.
 
 #### History of Open Source and Collaborative Contributions:
-I am currently at the beginning of my journey in open-source development. Through platforms like GitHub and learning communities such as μLearn, I have started exploring collaborative coding practices and version control using Git. I have worked on small personal projects including a React-based To-Do application, a basic weather app, and portfolio websites, which helped me understand how real-world development workflows function.
 
-Although I have not yet made major open-source contributions, I actively participate in coding tasks, practice building projects, and follow repositories to understand how experienced developers collaborate. During μFIFA, I aim to contribute to open-source repositories, work on team-based projects, and improve my ability to write clean, maintainable, and collaborative code that benefits the developer community.
-
+- Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
+- *If you're just starting:* mention a project you're planning to open-source, or a repo you've been studying and want to contribute to.
 
 #### History of Community Engagement:
-I actively participate in technical learning communities such as μLearn, where I engage with coding tasks, challenges, and collaborative learning activities. These experiences have helped me improve my problem-solving skills and gain exposure to real-world development practices.
 
-I also take part in college-level technical discussions and peer learning, where I collaborate with classmates to understand programming concepts and work on small projects together. Being part of these communities has helped me stay consistent in learning and motivated me to improve my skills.
-
-During μFIFA, I aim to become more active in community discussions, contribute to collaborative projects, and engage with developers from different backgrounds to expand my technical and communication skills.
-* Active participant in μLearn programs, technical events, workshops, and hackathons.
-* Volunteer at **Asthra SJCET** and participant in a **TEDx event**.
+- Describe your engagement in technical or creative communities: Discord servers, forums, hackathons, campus clubs, μLearn programs, or any space where you've shown up and contributed consistently.
+- *If you're just starting:* mention a community you've recently joined or an event you attended. Showing up counts.
 
 #### Domain Profiles:
 
-
-🔗 LinkedIn: https://www.linkedin.com/in/riya-ann-mathew-972aa5326/
-
-💻 GitHub:https://github.com/riyaann422
+- Link to the platforms where your work lives publicly, relevant to your Squad Domain(s):
+  - **Coder**: GitHub, LeetCode, HackerRank, CTFtime, or similar
+  - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
+  - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
+  - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
+- *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
 
 #### Tools, Workflows & Automations:
 
-* AI Tools: ChatGPT, Gemini, GitHub Copilot
-* Development: Python, Django, HTML, CSS, JavaScript, VS Code
-* Database & Backend: SQLite, Supabase
-* Version Control: Git & GitHub
-* Productivity: Notion, Google Workspace
-* Learning: Technical Documentation, FreeCodeCamp, Open Source Projects
+- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
+- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
+- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
 
 #### Public Portfolio & Recognition:
-* Participated in μLearn programs and community initiatives.
-* TEDx Participant Certificate.
-* Volunteer at Asthra SJCET.
-* Consistently building projects and sharing progress through GitHub.
+
+- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
+- This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
+- *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
+
 #### Education and Proof of Work:
 
-* **B.Tech Computer Science and Engineering**
-* **St. Joseph's College of Engineering and Technology (SJCET), Palai**
-* Currently pursuing Semester 5.
+- Mention your current degree, institution, and any relevant certifications or courses completed.
+- Add links to your GitHub and LinkedIn profiles.
 
 #### History of Leadership:
 
-* Assisted peers in web development and programming-related learning.
-* Volunteered in technical events and community initiatives at SJCET.
-* Regularly take initiative in organizing, supporting, and guiding collaborative activities.
+- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
+- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
 
 #### Networking:
 
-
-* Interested in connecting with software developers, AI enthusiasts, open-source contributors, and entrepreneurs.
-* Collaborate with students, mentors, and developers through μLearn, technical communities, and college events.
-* Looking forward to participating in projects that combine technology, innovation, and community impact.
+- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
+- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
 
 #### Career Plan:
-* **Immediate:** Strengthen full-stack development skills, build impactful projects, contribute to open source, and secure internship opportunities.
-* **Long-term:** Become a skilled software engineer, build scalable products, contribute to innovative technologies, and mentor future developers.
+
+- **Immediate:** What are you working on or planning to do in the next 6-12 months?
+- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
 
 ---
 
@@ -128,6 +112,6 @@ During μFIFA, I aim to become more active in community discussions, contribute 
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
-    src="https://mulearn.org/embed/rank/riyaannmathew@mulearn"
+    src="https://mulearn.org/embed/rank/yourname@mulearn"
     width="400px">
 </img>
