@@ -14,7 +14,7 @@ I enjoy exploring emerging technologies, contributing to open-source projects, a
 
 #### My Nation & Why
 
-I represent **Portugal** because my football idol, **Cristiano Ronaldo**, has inspired me throughout my life. His discipline, relentless hard work, leadership, and determination motivate me both on an[...]
+I represent **Portugal** because my football idol, **Cristiano Ronaldo**, has inspired me throughout my life. His discipline, relentless hard work, leadership, and determination motivate me both on and off the field.
 
 #### Supporting Team in the Real World Cup 2026
 
@@ -134,13 +134,12 @@ I enjoy collaborating with students, mentors, developers, and innovators through
 
 #### Long-Term
 
-My long-term goal is to become a **Software Engineer** while continuing to explore IoT, embedded systems, and emerging technologies. I believe μFIFA will help me build a strong portfolio, expand my p[...]
+My long-term goal is to become a **Software Engineer** while continuing to explore IoT, embedded systems, and emerging technologies. I believe μFIFA will help me expand my professional network, strengthen my technical and leadership skills, and gain valuable real-world experience through collaboration, innovation, and global competition.
 
 ---
 
 #### Profile Card
 
-```html
 ```<img
     src="https://mulearn.org/embed/rank/doncygracemohan@mulearn"
     width="400px">
