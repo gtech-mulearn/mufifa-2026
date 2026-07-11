@@ -59,7 +59,7 @@ My biggest FIFA World Cup dream is to see **Cristiano Ronaldo lift the FIFA Worl
 
 #### History of Open Source and Collaborative Contributions
 
-I am currently beginning my open-source journey and continuously learning through community projects. I look forward to contributing to open-source repositories and collaborating with developers throu[...]
+I am currently beginning my open-source journey and continuously learning through community projects. I look forward to contributing to open-source repositories and collaborating with developers through meaningful projects.
 
 #### History of Community Engagement
 
@@ -116,11 +116,12 @@ I also participated as part of the mentoring team for **Zephyr 4.0**, the hackat
 
 ### History of Leadership
 
-I currently serve as the **Campus Lead of μLearn KJCMT**, where I work closely with my teammates to organize technical workshops, hackathons, bootcamps, Tryout Series, Simple Series, and student-focu[...]
+I currently serve as the **Campus Lead of μLearn KJCMT**, where I work with my teammates to organize technical workshops, hackathons, bootcamps, Tryout Series, Simple Series, and student-focused initiatives that encourage learning, collaboration, and innovation.
+
 
 #### Networking
 
-I enjoy collaborating with students, mentors, developers, and innovators through μLearn, IEDC, and Inovus Labs. During μFIFA, I hope to connect with passionate coders, makers, and designers to build[...]
+I enjoy collaborating through μLearn, IEDC, and Inovus Labs. At μFIFA, I hope to connect with passionate innovators, learn together, and build impactful projects.
 
 ## Career Plan
 
