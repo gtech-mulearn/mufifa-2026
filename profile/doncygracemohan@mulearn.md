@@ -1,12 +1,12 @@
-# Doncy Grace Mohan
+# Doncy Grace Mohan(Student)
 
 ### Squad Domain: **Coder** | FIFA Nation: **Portugal**
 
 ### About Me
 
-I am **Doncy Grace Mohan**, a second-year Bachelor of Computer Applications (BCA) student (Semester 3) at **Kristu Jyothi College of Management and Technology, Kottayam**. I am passionate about techno[...]
+I am **Doncy Grace Mohan**, a second-year Bachelor of Computer Applications (BCA) student (Semester 3) at **Kristu Jyothi College of Management and Technology, Kottayam**. I am passionate about technology, software development, IoT, and exploring innovative solutions through coding and collaboration.
 
-I enjoy exploring emerging technologies, contributing to open-source projects, and collaborating with like-minded people to create innovative solutions. My interests include IoT, embedded systems, clo[...]
+I enjoy exploring emerging technologies, contributing to open-source projects, and collaborating with like-minded people to create innovative solutions. My interests include IoT, embedded systems, cloud computing, and software development.
 
 ---
 
@@ -141,8 +141,7 @@ My long-term goal is to become a **Software Engineer** while continuing to explo
 
 #### Profile Card
 
-```<img
+<img
     src="https://mulearn.org/embed/rank/doncygracemohan@mulearn"
-    width="400px">
-</img>```
-```
+    width="400px"
+/>
