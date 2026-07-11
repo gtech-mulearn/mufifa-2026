@@ -111,7 +111,7 @@ I also participated as part of the mentoring team for **Zephyr 4.0**, the hackat
 
 #### Profiles
 
-- **GitHub:** https://github.com/doncygrace631-lghtm
+- **GitHub:** https://github.com/doncygrace631-lgtm
 - **LinkedIn:** https://www.linkedin.com/in/doncy-grace-mohan-b958a638a
 
 ### History of Leadership
