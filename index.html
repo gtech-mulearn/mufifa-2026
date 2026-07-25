@@ -115,6 +115,16 @@
                 <h3 class="text-xl font-bold mb-4">Operational Vision</h3>
                 <p class="text-zinc-400 leading-relaxed">The goal is to transition the `mufifa-2026` repository from a simple registration database to a high-density "Omni-Grid" command center. This requires bridging the gap between GitOps workflows and real-time dashboard telemetry used by advanced organizational units like `mulearnhome`.</p>
             </div>
+
+            <div class="bg-gradient-to-r from-purple-50 to-blue-50 border border-purple-100 p-6 rounded-2xl shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mt-6">
+                <div>
+                    <h3 class="font-bold text-lg text-purple-900 flex items-center"><span class="mr-2">✨</span> Gemini AI Integrated</h3>
+                    <p class="text-sm text-purple-700 mt-1">Test the live LLM evaluation or chat with the Omni-Grid Assistant (bottom right).</p>
+                </div>
+                <button onclick="showSection('agentic')" class="bg-purple-600 text-white px-6 py-2.5 rounded-lg text-sm font-bold shadow-md hover:bg-purple-700 transition-colors whitespace-nowrap">
+                    Test Agent A2 Simulator
+                </button>
+            </div>
         </section>
 
         <!-- SECTION: DIAGNOSTICS -->
@@ -596,6 +606,13 @@
                 updateMessage(loadingId, "Connection error. Unable to reach the Omni-Grid network.");
             }
         }
+
+        setTimeout(() => {
+            const chatWindow = document.getElementById('chat-window');
+            if (chatWindow && chatWindow.classList.contains('hidden')) {
+                toggleChat();
+            }
+        }, 1200);
     </script>
 </body>
 </html>
