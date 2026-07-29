@@ -1,4 +1,4 @@
-# Milan Manoj *(AI & Robotics Engineer | B.Tech AI & Data Science Student)*
+# ADITHYAN A R
 
 ### Squad Domain: **Coder | Maker | Strategist** | FIFA Nation: **🇦🇷 Argentina**
 
@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm **Milan Manoj**, a final-year B.Tech student in Artificial Intelligence & Data Science at Muthoot Institute of Technology & Science (MITS), Kochi. I currently serve as the IoT & Robotics IG Lead at μLearn. I'm passionate about developing intelligent systems that combine Artificial Intelligence, Robotics, Computer Vision, Embedded Systems, and Full-Stack Development to solve real-world challenges.
+I'm **ADITHYAN A R**, a final-year B.Tech student in Artificial Intelligence & Data Science at Muthoot Institute of Technology & Science (MITS), Kochi. I currently serve as the IoT & Robotics IG Lead at μLearn. I'm passionate about developing intelligent systems that combine Artificial Intelligence, Robotics, Computer Vision, Embedded Systems, and Full-Stack Development to solve real-world challenges.
 
 My work primarily focuses on autonomous robotics, humanoid robots, AI agents, drone technologies, computer vision, Generative AI, and cloud-based AI applications. I enjoy transforming innovative ideas into practical engineering solutions through continuous learning, experimentation, and collaboration.
 
@@ -56,10 +56,10 @@ The **2022 FIFA World Cup Final** between Argentina and France is my most memora
 
 ## 2026 Predictions
 
-- 🏆 **Winner:** Argentina
+- 🏆 **Winner:** SPAIN
 - 🌟 **Dark Horse:** Portugal
-- ⭐ **Player of the Tournament:** Lionel Messi
-- 🔥 **Most Anticipated Match:** Argentina vs Brazil
+- ⭐ **Player of the Tournament:** LAMINE YAMAL
+- 🔥 **Most Anticipated Match:** Argentina vs SPAIN
 
 ---
 
@@ -102,15 +102,15 @@ I'm continuously working toward making more meaningful contributions to open-sou
 
 ### GitHub
 
-**https://github.com/MilanM002005**
+**https://github.com/adithyanboi69-code**
 
 ### LinkedIn
 
-**https://www.linkedin.com/in/milan-manoj/**
+**https://www.linkedin.com/in/adithyan-a-r-6a1568420/**
 
 ### LeetCode
 
-**[https://leetcode.com/](https://leetcode.com/u/MilanM002005/)** 
+ 
 
 ---
 
@@ -181,11 +181,10 @@ Muthoot Institute of Technology & Science (MITS), Kochi
 
 **GitHub**
 
-https://github.com/MilanM002005
+https://github.com/adithyanboi69-code
 
 **LinkedIn**
-
-https://www.linkedin.com/in/milan-manoj/ 
+https://www.linkedin.com/in/adithyan-a-r-6a1568420/
 
 ### Relevant Learning
 
@@ -229,9 +228,6 @@ My long-term goal is to become an **AI & Robotics Engineer** specializing in int
 ---
 
 ## Profile Card
-https://app.mulearn.org/profile/milanmanoj@mulearn
+https://app.mulearn.org/profile/adithyan-23@mulearn
 
-<img
-    src="https://mulearn.org/embed/rank/milanmanoj@mulearn"
-    width="400px">
-</img>
+
