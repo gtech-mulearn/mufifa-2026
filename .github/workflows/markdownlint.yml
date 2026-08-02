@@ -1,0 +1,28 @@
+name: Markdown Lint
+
+on:
+  push:
+    paths:
+      - 'profile/**/*.md'
+  pull_request:
+    paths:
+      - 'profile/**/*.md'
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: reviewdog / markdownlint
+        uses: reviewdog/action-markdownlint@v0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          reporter: github-pr-review
+          filter_mode: added
+          fail_on_error: true
+          markdownlint_flags: "profile/**/*.md --disable MD013 MD033"

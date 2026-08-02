@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>μFIFA 2026: Architectural Analysis Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --bg-main: #fcfaf7;
+            --sidebar: #1a1a1a;
+            --accent: #d4af37;
+            --card-bg: #ffffff;
+            --text-muted: #6b7280;
+        }
+        body {
+            background-color: var(--bg-main);
+            color: #1a1a1a;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+        }
+        .bento-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .nav-item.active {
+            background-color: var(--accent);
+            color: black;
+        }
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #d1d5db;
+            border-radius: 10px;
+        }
+        @media (min-width: 768px) {
+            .chart-container { height: 350px; }
+        }
+    </style>
+</head>
+<body class="flex overflow-hidden h-screen">
+
+    <!-- Sidebar Navigation -->
+    <nav class="w-20 md:w-64 bg-[#1a1a1a] text-white flex flex-col transition-all duration-300">
+        <div class="p-6 font-bold text-xl tracking-tighter border-b border-zinc-800">
+            <span class="hidden md:inline">μFIFA 2026</span>
+            <span class="md:hidden">μF</span>
+        </div>
+        <div class="flex-1 py-4 px-2 space-y-2 overflow-y-auto custom-scrollbar">
+            <button onclick="showSection('overview')" class="nav-item active w-full flex items-center p-3 rounded-lg transition-colors text-sm font-medium">
+                <span class="mr-3">◈</span> <span class="hidden md:inline">Ecosystem Overview</span>
+            </button>
+            <button onclick="showSection('diagnostics')" class="nav-item w-full flex items-center p-3 rounded-lg hover:bg-zinc-800 transition-colors text-sm font-medium">
+                <span class="mr-3">⚠</span> <span class="hidden md:inline">Operational Flaws</span>
+            </button>
+            <button onclick="showSection('agentic')" class="nav-item w-full flex items-center p-3 rounded-lg hover:bg-zinc-800 transition-colors text-sm font-medium">
+                <span class="mr-3">⚛</span> <span class="hidden md:inline">Agentic Strategy</span>
+            </button>
+            <button onclick="showSection('leaderboard')" class="nav-item w-full flex items-center p-3 rounded-lg hover:bg-zinc-800 transition-colors text-sm font-medium">
+                <span class="mr-3">⊞</span> <span class="hidden md:inline">Score Simulator</span>
+            </button>
+            <button onclick="showSection('roadmap')" class="nav-item w-full flex items-center p-3 rounded-lg hover:bg-zinc-800 transition-colors text-sm font-medium">
+                <span class="mr-3">➹</span> <span class="hidden md:inline">Roadmap</span>
+            </button>
+        </div>
+        <div class="p-4 border-t border-zinc-800 text-[10px] text-zinc-500 hidden md:block">
+            Architectural Analysis v1.0
+        </div>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main id="content-area" class="flex-1 overflow-y-auto p-4 md:p-8 custom-scrollbar">
+        
+        <!-- SECTION: OVERVIEW -->
+        <section id="overview" class="section-content space-y-6">
+            <header>
+                <h1 class="text-3xl font-extrabold text-zinc-900">Ecosystem Analysis Overview</h1>
+                <p class="text-zinc-600 mt-2">The μFIFA 2026 initiative is a six-week gamified innovation tournament designed to mobilize over 66,000 innovators across the Kerala region. This section outlines the structural foundations and the core domains of participation.</p>
+            </header>
+
+            <div class="bento-grid">
+                <div class="bg-white p-6 rounded-2xl shadow-sm border border-zinc-100 flex flex-col justify-between">
+                    <div>
+                        <h3 class="font-bold text-lg mb-2">Participant Domains</h3>
+                        <p class="text-sm text-zinc-500 mb-4">Competitors are segmented into four distinct operational squads, mirroring the FIFA World Cup squad expansion.</p>
+                    </div>
+                    <div class="grid grid-cols-2 gap-2">
+                        <div class="p-3 bg-zinc-50 rounded-lg text-center"><div class="text-lg">🛠</div><div class="text-xs font-bold">Maker</div></div>
+                        <div class="p-3 bg-zinc-50 rounded-lg text-center"><div class="text-lg">💻</div><div class="text-xs font-bold">Coder</div></div>
+                        <div class="p-3 bg-zinc-50 rounded-lg text-center"><div class="text-lg">🎨</div><div class="text-xs font-bold">Designer</div></div>
+                        <div class="p-3 bg-zinc-50 rounded-lg text-center"><div class="text-lg">♟</div><div class="text-xs font-bold">Strategist</div></div>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 rounded-2xl shadow-sm border border-zinc-100 col-span-1 md:col-span-2">
+                    <h3 class="font-bold text-lg mb-4">Current vs. Target Capability</h3>
+                    <div class="chart-container">
+                        <canvas id="capabilityChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-[#1a1a1a] text-white p-8 rounded-2xl">
+                <h3 class="text-xl font-bold mb-4">Operational Vision</h3>
+                <p class="text-zinc-400 leading-relaxed">The goal is to transition the `mufifa-2026` repository from a simple registration database to a high-density "Omni-Grid" command center. This requires bridging the gap between GitOps workflows and real-time dashboard telemetry used by advanced organizational units like `mulearnhome`.</p>
+            </div>
+
+            <div class="bg-gradient-to-r from-purple-50 to-blue-50 border border-purple-100 p-6 rounded-2xl shadow-sm flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mt-6">
+                <div>
+                    <h3 class="font-bold text-lg text-purple-900 flex items-center"><span class="mr-2">✨</span> Gemini AI Integrated</h3>
+                    <p class="text-sm text-purple-700 mt-1">Test the live LLM evaluation or chat with the Omni-Grid Assistant (bottom right).</p>
+                </div>
+                <button onclick="showSection('agentic')" class="bg-purple-600 text-white px-6 py-2.5 rounded-lg text-sm font-bold shadow-md hover:bg-purple-700 transition-colors whitespace-nowrap">
+                    Test Agent A2 Simulator
+                </button>
+            </div>
+        </section>
+
+        <!-- SECTION: DIAGNOSTICS -->
+        <section id="diagnostics" class="section-content hidden space-y-6">
+            <header>
+                <h1 class="text-3xl font-extrabold text-zinc-900">Pipeline Diagnostics</h1>
+                <p class="text-zinc-600 mt-2">Analysis of the existing infrastructure reveals critical failure domains that hinder scalability. Use the tools below to investigate where the system breaks under high load.</p>
+            </header>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="md:col-span-2 bg-white p-6 rounded-2xl shadow-sm border border-zinc-100">
+                    <h3 class="font-bold text-lg mb-4">The PR Bottleneck Effect</h3>
+                    <p class="text-sm text-zinc-500 mb-6">Current workflow execution requires manual maintainer approval for first-time contributors. At 66,000 users, the administrative backlog becomes insurmountable.</p>
+                    <div class="chart-container">
+                        <canvas id="efficiencyChart"></canvas>
+                    </div>
+                </div>
+                
+                <div class="space-y-4">
+                    <div class="bg-red-50 border border-red-100 p-5 rounded-2xl">
+                        <h4 class="text-red-800 font-bold flex items-center">
+                            <span class="mr-2">‼</span> Manual Approval Gate
+                        </h4>
+                        <p class="text-xs text-red-600 mt-2">GitHub Actions stop for first-time contributors. Requires human intervention for every registration PR.</p>
+                    </div>
+                    <div class="bg-orange-50 border border-orange-100 p-5 rounded-2xl">
+                        <h4 class="text-orange-800 font-bold flex items-center">
+                            <span class="mr-2">‼</span> Data Inconsistency
+                        </h4>
+                        <p class="text-xs text-orange-600 mt-2">Reliance on Markdown templates `[REPLACE_ME]` leads to high typographical error rates and parsing failures.</p>
+                    </div>
+                    <div class="bg-zinc-100 border border-zinc-200 p-5 rounded-2xl">
+                        <h4 class="text-zinc-800 font-bold flex items-center">
+                            <span class="mr-2">‼</span> Security Debt
+                        </h4>
+                        <p class="text-xs text-zinc-600 mt-2">Lack of `SECURITY.md` and input sanitization opens risks for XSS and malicious markdown payloads.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION: AGENTIC -->
+        <section id="agentic" class="section-content hidden space-y-6">
+            <header>
+                <h1 class="text-3xl font-extrabold text-zinc-900">Multi-Agent Orchestration</h1>
+                <p class="text-zinc-600 mt-2">Inspired by the "Master-Agentic-AI" paradigm, we propose an intelligent review system to replace manual oversight. This section explores how specialized agents manage the registration lifecycle.</p>
+            </header>
+
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-zinc-100">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    <div class="text-center space-y-3">
+                        <div class="w-16 h-16 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center mx-auto text-2xl font-bold">A1</div>
+                        <h4 class="font-bold">Parsing Agent</h4>
+                        <p class="text-xs text-zinc-500">Deterministic validation of YAML schemas and file paths. Rejects non-compliant PRs instantly.</p>
+                    </div>
+                    <div class="text-center space-y-3">
+                        <div class="w-16 h-16 bg-purple-100 text-purple-600 rounded-full flex items-center justify-center mx-auto text-2xl font-bold">A2</div>
+                        <h4 class="font-bold">Semantic Agent</h4>
+                        <p class="text-xs text-zinc-500">Reviews career plans and highlights. Ensures participant alignment with chosen squad domains.</p>
+                    </div>
+                    <div class="text-center space-y-3">
+                        <div class="w-16 h-16 bg-green-100 text-green-600 rounded-full flex items-center justify-center mx-auto text-2xl font-bold">A3</div>
+                        <h4 class="font-bold">Orchestrator</h4>
+                        <p class="text-xs text-zinc-500">Synthesizes agent reports, executes the merge, and welcomes the user via automated comments.</p>
+                    </div>
+                </div>
+                <div class="mt-8 p-4 bg-zinc-900 rounded-xl text-zinc-300 text-xs font-mono">
+                    // Agentic Trigger Sequence<br>
+                    on(PULL_REQUEST) {<br>
+                    &nbsp;&nbsp;invoke(ParsingAgent).validate(SCHEMA);<br>
+                    &nbsp;&nbsp;invoke(SemanticAgent).analyze(WRITEOUP);<br>
+                    &nbsp;&nbsp;if(consensus) merge();<br>
+                    }
+                </div>
+            </div>
+
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-zinc-100 mt-6">
+                <h3 class="font-bold text-lg mb-4 flex items-center">
+                    <span class="w-8 h-8 rounded-full bg-purple-100 text-purple-600 flex items-center justify-center mr-3">A2</span> 
+                    Live Semantic Agent Simulation
+                </h3>
+                <p class="text-sm text-zinc-500 mb-6">Test the LLM-powered semantic analysis. Provide a sample participant write-up and see how the agent scores it against the chosen domain.</p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                    <div class="space-y-4">
+                        <div>
+                            <label class="block text-sm font-bold text-zinc-700 mb-2">Participant Write-up</label>
+                            <textarea id="ai-writeup" rows="4" class="w-full p-3 border border-zinc-300 rounded-lg text-sm focus:ring-2 focus:ring-[#d4af37] focus:border-transparent outline-none transition-all resize-none" placeholder="e.g., I have been building full-stack web apps in React and Node.js for 3 years..."></textarea>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-bold text-zinc-700 mb-2">Target Squad Domain</label>
+                            <select id="ai-squad" class="w-full p-3 border border-zinc-300 rounded-lg text-sm outline-none">
+                                <option value="Coder">💻 Coder</option>
+                                <option value="Maker">🛠 Maker</option>
+                                <option value="Designer">🎨 Designer</option>
+                                <option value="Strategist">♟ Strategist</option>
+                            </select>
+                        </div>
+                        <button id="ai-run-btn" onclick="runSemanticAnalysis()" class="w-full bg-[#1a1a1a] text-white font-medium py-3 rounded-lg hover:bg-zinc-800 transition-colors">
+                            Run Semantic Analysis
+                        </button>
+                    </div>
+                    
+                    <div class="bg-zinc-50 rounded-xl border border-zinc-200 p-6 flex flex-col">
+                        <div class="text-xs font-bold text-zinc-500 uppercase tracking-wider mb-4 border-b border-zinc-200 pb-2">Agent Evaluation Output</div>
+                        <div id="ai-result" class="flex-1 flex items-center justify-center text-center text-sm text-zinc-400">
+                            Awaiting input...
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION: LEADERBOARD -->
+        <section id="leaderboard" class="section-content hidden space-y-6">
+            <header>
+                <h1 class="text-3xl font-extrabold text-zinc-900">Nation Score Simulator</h1>
+                <p class="text-zinc-600 mt-2">The tournament uses a median-based formula to ensure fair competition. Use the simulator below to test how activity ratios and point distributions affect a nation's ranking.</p>
+            </header>
+
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-zinc-100">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+                    <div class="space-y-6">
+                        <div>
+                            <label class="block text-sm font-bold text-zinc-700 mb-2">Median Squad Points (x̃)</label>
+                            <input type="range" id="medianPts" min="0" max="5000" step="100" value="1200" class="w-full h-2 bg-zinc-200 rounded-lg appearance-none cursor-pointer accent-[#d4af37]">
+                            <div class="flex justify-between text-xs text-zinc-500 mt-1"><span>0</span><span id="medianVal">1200 µP</span></div>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-bold text-zinc-700 mb-2">Active Members (A)</label>
+                            <input type="number" id="activeMembers" value="45" class="w-full p-2 border border-zinc-300 rounded-lg">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-bold text-zinc-700 mb-2">Registered Members (R)</label>
+                            <input type="number" id="regMembers" value="50" class="w-full p-2 border border-zinc-300 rounded-lg">
+                        </div>
+                    </div>
+                    
+                    <div class="bg-zinc-50 p-8 rounded-2xl flex flex-col items-center justify-center border-2 border-dashed border-zinc-200">
+                        <div class="text-zinc-500 text-xs mb-2 font-mono uppercase tracking-widest">Calculated Nation Score</div>
+                        <div id="finalScore" class="text-6xl font-black text-[#d4af37]">108,000</div>
+                        <div class="mt-6 text-[10px] font-mono text-zinc-400 text-center">
+                            Formula: x̃ * (A / R) * 100
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION: ROADMAP -->
+        <section id="roadmap" class="section-content hidden space-y-6">
+            <header>
+                <h1 class="text-3xl font-extrabold text-zinc-900">Implementation Roadmap</h1>
+                <p class="text-zinc-600 mt-2">A phased transition plan to modernize the repository infrastructure without disrupting ongoing participation.</p>
+            </header>
+
+            <div class="space-y-8 relative before:content-[''] before:absolute before:left-8 before:top-0 before:bottom-0 before:w-1 before:bg-zinc-100">
+                <div class="relative pl-16">
+                    <div class="absolute left-6 top-0 w-5 h-5 rounded-full bg-blue-500 border-4 border-white shadow-sm"></div>
+                    <div class="bg-white p-6 rounded-2xl shadow-sm border border-zinc-100">
+                        <h4 class="font-bold text-lg">Phase 1: Standardization</h4>
+                        <ul class="text-sm text-zinc-500 mt-2 space-y-1 list-disc list-inside">
+                            <li>Implement YAML Frontmatter for all profiles.</li>
+                            <li>Transition to `pull_request_target` workflows.</li>
+                            <li>Automated Zero-Touch merging for validated data.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="relative pl-16">
+                    <div class="absolute left-6 top-0 w-5 h-5 rounded-full bg-purple-500 border-4 border-white shadow-sm"></div>
+                    <div class="bg-white p-6 rounded-2xl shadow-sm border border-zinc-100">
+                        <h4 class="font-bold text-lg">Phase 2: Security & Telemetry</h4>
+                        <ul class="text-sm text-zinc-500 mt-2 space-y-1 list-disc list-inside">
+                            <li>Deploy LLM-driven plagiarism detection for write-ups.</li>
+                            <li>Establish rigid `SECURITY.md` and input sanitization.</li>
+                            <li>Webhook integration for external CTF score sync.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="relative pl-16">
+                    <div class="absolute left-6 top-0 w-5 h-5 rounded-full bg-amber-500 border-4 border-white shadow-sm"></div>
+                    <div class="bg-white p-6 rounded-2xl shadow-sm border border-zinc-100">
+                        <h4 class="font-bold text-lg">Phase 3: Headless Migration</h4>
+                        <ul class="text-sm text-zinc-500 mt-2 space-y-1 list-disc list-inside">
+                            <li>Deprecate static Markdown registration for OAuth2.</li>
+                            <li>Migration to centralized relational database (PostgreSQL).</li>
+                            <li>Launch Omni-Grid Real-time User Dashboard.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Omni-Grid Assistant Chat UI -->
+    <div id="chat-widget" class="fixed bottom-6 right-6 z-50 flex flex-col items-end">
+        <div id="chat-window" class="hidden bg-white w-80 sm:w-96 rounded-2xl shadow-2xl border border-zinc-200 mb-4 overflow-hidden flex-col h-[400px] transition-all duration-300 transform origin-bottom-right">
+            <div class="bg-[#1a1a1a] text-white p-4 flex justify-between items-center">
+                <div class="flex items-center space-x-2">
+                    <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+                    <span class="font-bold text-sm">Omni-Grid Assistant</span>
+                </div>
+                <button onclick="toggleChat()" class="text-zinc-400 hover:text-white">&times;</button>
+            </div>
+            <div id="chat-messages" class="flex-1 p-4 overflow-y-auto bg-zinc-50 space-y-4 custom-scrollbar text-sm">
+                <!-- Initial Greeting -->
+                <div class="flex justify-start">
+                    <div class="bg-white border border-zinc-200 text-zinc-800 p-3 rounded-tr-xl rounded-bl-xl rounded-br-xl max-w-[85%] shadow-sm">
+                        Hello! I am the architectural AI for μFIFA 2026. How can I help you understand the transition, agentic workflows, or scoring models?
+                    </div>
+                </div>
+            </div>
+            <div class="p-3 border-t border-zinc-200 bg-white flex space-x-2">
+                <input type="text" id="chat-input" class="flex-1 p-2 bg-zinc-100 rounded-lg outline-none focus:ring-1 focus:ring-[#1a1a1a] text-sm" placeholder="Ask about the architecture..." onkeypress="if(event.key === 'Enter') sendChatMessage()">
+                <button onclick="sendChatMessage()" class="bg-[#d4af37] text-white p-2 rounded-lg hover:bg-yellow-600 transition-colors">
+                    ➤
+                </button>
+            </div>
+        </div>
+        
+        <button onclick="toggleChat()" id="chat-toggle-btn" class="w-14 h-14 bg-[#1a1a1a] text-white rounded-full shadow-lg flex items-center justify-center text-2xl hover:bg-zinc-800 transition-transform transform hover:scale-105">
+            💬
+        </button>
+    </div>
+
+    <script>
+        // --- Navigation Logic ---
+        function showSection(sectionId) {
+            document.querySelectorAll('.section-content').forEach(el => el.classList.add('hidden'));
+            document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
+            
+            document.getElementById(sectionId).classList.remove('hidden');
+            const btn = document.querySelector(`button[onclick="showSection('${sectionId}')"]`);
+            if (btn) btn.classList.add('active');
+        }
+
+        // --- Chart 1: Capability (Radar) ---
+        const ctxCap = document.getElementById('capabilityChart').getContext('2d');
+        const capabilityChart = new Chart(ctxCap, {
+            type: 'radar',
+            data: {
+                labels: ['Scalability', 'Security', 'User UX', 'Dev Experience', 'Data Integrity', 'Automation'],
+                datasets: [{
+                    label: 'Current System',
+                    data: [20, 15, 40, 30, 25, 10],
+                    backgroundColor: 'rgba(239, 68, 68, 0.2)',
+                    borderColor: '#ef4444',
+                    pointBackgroundColor: '#ef4444'
+                }, {
+                    label: 'Proposed Architecture',
+                    data: [95, 90, 85, 90, 95, 100],
+                    backgroundColor: 'rgba(212, 175, 55, 0.2)',
+                    borderColor: '#d4af37',
+                    pointBackgroundColor: '#d4af37'
+                }]
+            },
+            options: {
+                maintainAspectRatio: false,
+                scales: {
+                    r: { beginAtZero: true, max: 100 }
+                },
+                plugins: {
+                    legend: { position: 'bottom' }
+                }
+            }
+        });
+
+        // --- Chart 2: Efficiency (Line) ---
+        const ctxEff = document.getElementById('efficiencyChart').getContext('2d');
+        const efficiencyChart = new Chart(ctxEff, {
+            type: 'line',
+            data: {
+                labels: ['100 Users', '500 Users', '2k Users', '10k Users', '50k Users'],
+                datasets: [{
+                    label: 'Manual Approval Latency (Hours)',
+                    data: [2, 12, 48, 168, 500],
+                    borderColor: '#ef4444',
+                    tension: 0.4
+                }, {
+                    label: 'Agentic Merging Latency (Seconds)',
+                    data: [30, 30, 30, 35, 40],
+                    borderColor: '#22c55e',
+                    tension: 0.1
+                }]
+            },
+            options: {
+                maintainAspectRatio: false,
+                scales: {
+                    y: { type: 'logarithmic', beginAtZero: false }
+                },
+                plugins: {
+                    legend: { position: 'bottom' }
+                }
+            }
+        });
+
+        // --- Leaderboard Simulator Logic ---
+        const medianInput = document.getElementById('medianPts');
+        const medianVal = document.getElementById('medianVal');
+        const activeInput = document.getElementById('activeMembers');
+        const regInput = document.getElementById('regMembers');
+        const finalScoreDisplay = document.getElementById('finalScore');
+
+        function updateScore() {
+            const x = parseInt(medianInput.value);
+            const a = parseInt(activeInput.value);
+            const r = parseInt(regInput.value);
+            
+            medianVal.innerText = x + ' µP';
+            
+            if (r === 0) {
+                finalScoreDisplay.innerText = "0";
+                return;
+            }
+
+            const score = Math.round(x * (a / r) * 100);
+            finalScoreDisplay.innerText = score.toLocaleString();
+        }
+
+        [medianInput, activeInput, regInput].forEach(el => el.addEventListener('input', updateScore));
+        updateScore(); // Initial run
+
+        // --- Gemini API Integration: Semantic Agent A2 ---
+        async function runSemanticAnalysis() {
+            const writeup = document.getElementById('ai-writeup').value.trim();
+            const squad = document.getElementById('ai-squad').value;
+            const resultDiv = document.getElementById('ai-result');
+            const btn = document.getElementById('ai-run-btn');
+
+            if (!writeup) {
+                resultDiv.innerHTML = '<span class="text-orange-500">Please provide a write-up to analyze.</span>';
+                return;
+            }
+
+            btn.innerText = "Analyzing Context...";
+            btn.disabled = true;
+            btn.classList.add('opacity-70');
+            resultDiv.innerHTML = '<div class="text-[#d4af37] animate-pulse font-medium text-sm flex items-center justify-center"><span class="w-4 h-4 border-2 border-[#d4af37] border-t-transparent rounded-full animate-spin mr-2"></span> Agent A2 is processing...</div>';
+
+            const payload = {
+                contents: [{ parts: [{ text: `Participant Write-up: "${writeup}"\nChosen Squad Domain: ${squad}` }] }],
+                generationConfig: {
+                    responseMimeType: "application/json",
+                    responseSchema: {
+                        type: "OBJECT",
+                        properties: {
+                            score: { type: "NUMBER", description: "Alignment score from 0 to 100 based on how well the write-up matches the squad domain." },
+                            approved: { type: "BOOLEAN", description: "True if the score is greater than or equal to 70." },
+                            feedback: { type: "STRING", description: "A concise 1-2 sentence explanation of why this score was given." }
+                        }
+                    }
+                },
+                systemInstruction: {
+                    parts: [{ text: "You are the A2 Semantic Agent for the μFIFA 2026 system. Your job is to rigorously evaluate if a participant's career write-up logically aligns with their chosen squad domain (Coder, Maker, Designer, or Strategist). Return structured JSON only." }]
+                }
+            };
+
+            try {
+                const apiKey = ""; // Left empty for Canvas to inject
+                const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
+                const response = await fetch(apiUrl, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+                
+                const result = await response.json();
+                
+                if (result.candidates && result.candidates.length > 0 && result.candidates[0].content) {
+                    const jsonStr = result.candidates[0].content.parts[0].text;
+                    const data = JSON.parse(jsonStr);
+                    
+                    resultDiv.innerHTML = `
+                        <div class="flex flex-col items-center w-full">
+                            <div class="flex items-center space-x-3 mb-3 pb-3 border-b border-zinc-200 w-full justify-center">
+                                <span class="text-2xl font-black ${data.approved ? 'text-green-600' : 'text-red-500'}">
+                                    ${data.approved ? '✅ MATCHED' : '❌ REJECTED'}
+                                </span>
+                                <span class="px-3 py-1 bg-zinc-100 rounded-full text-sm font-bold text-zinc-800">Score: ${data.score}/100</span>
+                            </div>
+                            <p class="text-sm text-zinc-700 text-left w-full leading-relaxed">${data.feedback}</p>
+                        </div>
+                    `;
+                } else {
+                    resultDiv.innerHTML = '<div class="text-red-500 text-sm">Failed to generate a valid response.</div>';
+                }
+            } catch (error) {
+                console.error("Semantic Analysis API Error:", error);
+                resultDiv.innerHTML = '<div class="text-red-500 text-sm">Connection error during analysis. Ensure API is accessible.</div>';
+            } finally {
+                btn.innerText = "Run Semantic Analysis";
+                btn.disabled = false;
+                btn.classList.remove('opacity-70');
+            }
+        }
+
+        // --- Gemini API Integration: Omni-Grid Assistant ---
+        let chatHistory = [];
+        let messageCounter = 0;
+
+        function toggleChat() {
+            const window = document.getElementById('chat-window');
+            if (window.classList.contains('hidden')) {
+                window.classList.remove('hidden');
+                window.classList.add('flex');
+            } else {
+                window.classList.add('hidden');
+                window.classList.remove('flex');
+            }
+        }
+
+        function appendMessage(role, text) {
+            const msgsDiv = document.getElementById('chat-messages');
+            const id = 'msg-' + messageCounter++;
+            const isUser = role === 'user';
+            
+            const msgHtml = `
+                <div id="${id}" class="flex ${isUser ? 'justify-end' : 'justify-start'} w-full">
+                    <div class="${isUser ? 'bg-[#1a1a1a] text-white rounded-tl-xl rounded-bl-xl rounded-br-xl' : 'bg-white border border-zinc-200 text-zinc-800 rounded-tr-xl rounded-bl-xl rounded-br-xl'} p-3 max-w-[85%] shadow-sm whitespace-pre-wrap">
+                        ${text}
+                    </div>
+                </div>
+            `;
+            msgsDiv.insertAdjacentHTML('beforeend', msgHtml);
+            msgsDiv.scrollTop = msgsDiv.scrollHeight;
+            return id;
+        }
+
+        function updateMessage(id, text) {
+            const msgContainer = document.getElementById(id);
+            if(msgContainer) {
+                const bubble = msgContainer.querySelector('div');
+                bubble.innerText = text;
+            }
+            const msgsDiv = document.getElementById('chat-messages');
+            msgsDiv.scrollTop = msgsDiv.scrollHeight;
+        }
+
+        async function sendChatMessage() {
+            const input = document.getElementById('chat-input');
+            const text = input.value.trim();
+            if (!text) return;
+            
+            input.value = '';
+            appendMessage('user', text);
+            chatHistory.push({ role: "user", parts: [{ text: text }] });
+            
+            const loadingId = appendMessage('model', '...');
+            
+            const payload = {
+                contents: chatHistory,
+                systemInstruction: {
+                    parts: [{ text: "You are the Omni-Grid Assistant, an AI architect specializing in the μFIFA 2026 system. Help users understand the ecosystem overview, operational flaws (PR bottlenecks), agentic multi-agent strategy, leaderboard scoring formula (median-based), and the 3-phase implementation roadmap. Keep responses conversational, technical, and concise." }]
+                }
+            };
+
+            try {
+                const apiKey = ""; // Left empty for Canvas to inject
+                const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
+                
+                const response = await fetch(apiUrl, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+                
+                const result = await response.json();
+                
+                if (result.candidates && result.candidates.length > 0 && result.candidates[0].content) {
+                    const replyText = result.candidates[0].content.parts[0].text;
+                    updateMessage(loadingId, replyText);
+                    chatHistory.push({ role: "model", parts: [{ text: replyText }] });
+                } else {
+                    updateMessage(loadingId, "I'm having trouble processing that right now. Please try again.");
+                }
+            } catch (error) {
+                console.error("Chatbot API Error:", error);
+                updateMessage(loadingId, "Connection error. Unable to reach the Omni-Grid network.");
+            }
+        }
+
+        setTimeout(() => {
+            const chatWindow = document.getElementById('chat-window');
+            if (chatWindow && chatWindow.classList.contains('hidden')) {
+                toggleChat();
+            }
+        }, 1200);
+    </script>
+</body>
+</html>

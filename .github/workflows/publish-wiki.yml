@@ -1,0 +1,44 @@
+name: Publish Wiki
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Initialize Wiki if Not Yet Created
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          WIKI_URL="https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.wiki.git"
+          if ! git ls-remote "$WIKI_URL" &>/dev/null; then
+            echo "Wiki repository not found — bootstrapping with an initial commit."
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
+            TMP=$(mktemp -d)
+            git init "$TMP"
+            cd "$TMP"
+            git remote add origin "$WIKI_URL"
+            echo "# μFIFA 2026 Wiki" > Home.md
+            git add Home.md
+            git commit -m "Initialize wiki"
+            git push origin HEAD
+          fi
+
+      - name: Publish to GitHub Wiki
+        uses: Andrew-Chen-Wang/github-wiki-action@v4
+        with:
+          path: docs
+          token: ${{ secrets.GITHUB_TOKEN }}

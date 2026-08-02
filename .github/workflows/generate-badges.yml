@@ -1,0 +1,39 @@
+name: Generate Performance Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * 5' # Every Friday
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/LEADERBOARD.md'
+
+jobs:
+  build-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Badge Script
+        run: |
+          python3 scripts/generate_badges.py --input docs/LEADERBOARD.md --output docs/assets/badges/
+
+      - name: Archive Leaderboard JSON
+        uses: actions/upload-artifact@v4
+        with:
+          name: leaderboard-data
+          path: docs/assets/badges/leaderboard.json
+
+      - name: Deploy Badges to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs/assets/badges
+          publish_branch: gh-pages

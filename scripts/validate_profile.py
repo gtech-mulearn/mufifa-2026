@@ -196,6 +196,35 @@ def check_mulearn_id_consistency(path, content):
     return True, f"MUID is consistent: {filename_muid}"
 
 
+# --- NEW CHECKS FOR PHASE 1 ---
+def check_urls(content):
+    urls = re.findall(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', content)
+    for url in urls:
+        if "localhost" in url or "127.0.0.1" in url:
+            return False, f"Found local URL which is not allowed: {url}"
+    return True, "URLs are valid."
+
+def check_emails(content):
+    emails = re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', content)
+    for email in emails:
+        if email.endswith("@example.com"):
+            return False, f"Placeholder email found: {email}"
+    return True, "Emails are valid."
+
+# Add to runner:
+# We need to insert these checks into the checks list in validate()
+
+def check_image_dimensions(content):
+    # Check for img tags and warn if height/width is missing or too large
+    imgs = re.findall(r'<img[^>]+>', content)
+    for img in imgs:
+        width = re.search(r'width=["\'](\d+)["\']', img)
+        height = re.search(r'height=["\'](\d+)["\']', img)
+        if width and int(width.group(1)) > 800:
+            return False, "Image width must not exceed 800px"
+        if height and int(height.group(1)) > 800:
+            return False, "Image height must not exceed 800px"
+    return True, "Image dimensions are valid."
 # ── Runner ───────────────────────────────────────────────────────────────────
 
 def validate(path):
@@ -222,6 +251,9 @@ def validate(path):
         ("Section content",      lambda: check_sections_not_empty(content, lines)),
         ("Profile Card",         lambda: check_profile_card(content)),
         ("MUID consistency",     lambda: check_mulearn_id_consistency(path, content)),
+        ("URL Formats",          lambda: check_urls(content)),
+        ("Email Formats",        lambda: check_emails(content)),
+        ("Image Dimensions",     lambda: check_image_dimensions(content)),
     ]
 
     for label, fn in checks:
@@ -265,3 +297,4 @@ if __name__ == "__main__":
             all_passed = False
 
     sys.exit(0 if all_passed else 1)
+

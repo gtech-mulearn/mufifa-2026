@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Certificate of Achievement</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        .certificate { border: 10px solid #333; padding: 50px; width: 800px; margin: 0 auto; }
+        .title { font-size: 48px; font-weight: bold; color: #f1c40f; }
+        .subtitle { font-size: 24px; margin: 20px 0; }
+        .name { font-size: 36px; text-decoration: underline; margin: 20px 0; }
+        .domain { font-size: 20px; font-style: italic; }
+        .details { font-size: 18px; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <div class="certificate">
+        <div class="title">Certificate of Achievement</div>
+        <div class="subtitle">This certifies that</div>
+        <div class="name">{{ name | e }}</div>
+        <div class="domain">has demonstrated outstanding performance in the {{ domain | e }} domain.</div>
+        <div class="details">
+            Rank: {{ rank | e }} | Nation: {{ nation | e }} | Points: {{ points | e }}<br><br>
+            μFIFA World Cup 2026
+        </div>
+    </div>
+</body>
+</html>

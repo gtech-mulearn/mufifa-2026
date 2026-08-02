@@ -1,61 +1,10 @@
 #!/bin/sh
-# μFIFA World Cup 2026 - Pre-commit Hook
-# ----------------------------------------
-# Runs automatically before every commit.
-# Validates any profile files staged for commit.
-#
-# Install:
-#   cp scripts/pre-commit .git/hooks/pre-commit
-#   chmod +x .git/hooks/pre-commit
-#
-# Or run the setup script:
-#   sh scripts/install-hooks.sh
+# pre-commit Hook v2
+# Upgraded to run via pre-commit framework
 
-VALIDATOR="scripts/validate_profile.py"
-PROFILE_DIR="profile"
-FAILED=0
-
-# MUIDs to skip validation for (maintainer/example profiles).
-# Update this list if the example profile MUID changes.
-SKIP_MUIDS="example@mulearn|sachinrajm@mulearn"
-
-# Find all staged .md files inside the profile/ directory
-STAGED_PROFILES=$(git diff --cached --name-only --diff-filter=ACM | grep -i "^${PROFILE_DIR}/.*\.md$")
-
-if [ -z "$STAGED_PROFILES" ]; then
-  # No profile files staged - nothing to check
-  exit 0
+if ! command -v pre-commit >/dev/null 2>&1; then
+    echo "⚠ pre-commit not found. Installing..."
+    pip3 install pre-commit
 fi
 
-echo ""
-echo "⚽ μFIFA pre-commit: validating profile file(s)..."
-echo ""
-
-# Check Python is available
-if ! command -v python3 >/dev/null 2>&1; then
-  echo "⚠  python3 not found - skipping profile validation."
-  echo "   Install Python 3 and re-run to enable checks."
-  exit 0
-fi
-
-for FILE in $STAGED_PROFILES; do
-  # Skip maintainer / example profiles (see SKIP_MUIDS at top of file)
-  if echo "$FILE" | grep -qi -E "$SKIP_MUIDS"; then
-    continue
-  fi
-
-  python3 "$VALIDATOR" "$FILE"
-  if [ $? -ne 0 ]; then
-    FAILED=1
-  fi
-done
-
-if [ $FAILED -ne 0 ]; then
-  echo "─────────────────────────────────────────────────────"
-  echo "  Commit blocked - fix the errors above and try again."
-  echo "  Need help? Ask in the μFIFA Discord server."
-  echo ""
-  exit 1
-fi
-
-exit 0
+pre-commit run --files $(git diff --name-only HEAD)

@@ -28,10 +28,10 @@ jobs:
         id: changed
         run: |
           # Find all profile/*.md files changed in this PR
+          # (grep patterns: keep in sync with SKIP_MUIDS in scripts/pre-commit)
           FILES=$(git diff --name-only origin/${{ github.base_ref }}...HEAD \
             | grep -i '^profile/.*\.md$' \
             | grep -ivE 'example@mulearn|sachinrajm@mulearn' \
-            # ^ Keep in sync with SKIP_MUIDS in scripts/pre-commit \
             || true)
 
           echo "files<<EOF" >> $GITHUB_OUTPUT

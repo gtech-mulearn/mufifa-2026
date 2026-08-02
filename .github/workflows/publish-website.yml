@@ -1,0 +1,36 @@
+name: Publish Website
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'index.html'
+      - 'HOWTO.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Create build directory
+        run: |
+          mkdir build
+          cp index.html build/
+          cp HOWTO.md build/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          publish_branch: gh-pages
+          keep_files: false

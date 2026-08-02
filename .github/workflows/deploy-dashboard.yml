@@ -1,0 +1,51 @@
+name: Deploy Dashboard
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'dashboard/**'
+      - 'docs/LEADERBOARD.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build leaderboard.json for dashboard
+        run: |
+          python3 scripts/generate_badges.py --input docs/LEADERBOARD.md --output /tmp/badges
+          cp /tmp/badges/leaderboard.json dashboard/public/leaderboard.json
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        working-directory: ./dashboard
+        run: npm ci
+
+      - name: Build Dashboard
+        working-directory: ./dashboard
+        run: npm run build
+
+      - name: Deploy Dashboard to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dashboard/dist
+          publish_branch: gh-pages
+          keep_files: true

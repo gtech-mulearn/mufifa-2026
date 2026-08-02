@@ -1,0 +1,50 @@
+name: Generate Certificates
+
+on:
+  workflow_dispatch:
+  release:
+    types: [created]
+
+permissions:
+  contents: read
+
+jobs:
+  build-certificates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install System Dependencies
+        run: sudo apt-get update && sudo apt-get install -y wkhtmltopdf
+
+      - name: Install Python Dependencies
+        run: |
+          pip install jinja2 pdfkit pycryptodome
+
+      - name: Download Leaderboard Data
+        run: |
+          python3 scripts/generate_badges.py --input docs/LEADERBOARD.md --output /tmp/badges
+
+      - name: Generate Certificates
+        run: |
+          python3 scripts/generate_certificates.py --input /tmp/badges/leaderboard.json --output ./certificates
+
+      - name: Upload Certificates Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: player-certificates
+          path: ./certificates/*.pdf
+          
+      - name: Upload Signatures Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: player-signatures
+          path: |
+            ./certificates/*.sig
+            ./certificates/public.pem
