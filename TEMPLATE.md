@@ -1,117 +1,121 @@
-# Full Name (Your Role / What You Do)
-### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
+# Abhijith (Electronics & Communication Engineering Student | Research Enthusiast)
+
+### Squad Domain: **Coder | Maker** | FIFA Nation: **India**
 
 ### About Me
 
-> Who are you, what do you build or create, and what brought you to μFIFA? Tell us about your field, your work at your institution or organisation, and what you're here to prove on the pitch. If you're just starting out, tell us what excites you and what you want to become. *(Minimum 200 characters)*
+I am Abhijith, an Electronics and Communication Engineering (ECE) student with a strong interest in research, programming, artificial intelligence, electronics, and web development. I enjoy solving technical problems and building projects that combine software and hardware. Recently, I have been working on Python-based research projects, GitHub repositories, academic portfolio development, and electronics circuit design. μFIFA gives me an opportunity to collaborate with like-minded people, contribute to open-source projects, improve my technical skills, and build a portfolio that reflects my learning journey. My goal is to grow as a developer and researcher while learning from experienced community members and contributing meaningful work throughout the tournament.
 
 ---
 
-## ⚽ FIFA World Cup Corner
+# ⚽ FIFA World Cup Corner
 
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
+### My Nation & Why:
 
-#### My Nation & Why:
+I am representing **India** in μFIFA because it is my home country. Even though India is not part of the FIFA World Cup, I want to proudly represent my nation while learning, collaborating, and competing with participants from different backgrounds.
 
-- Which FIFA Nation are you representing in μFIFA, and why did you pick them?
-- Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
+### Supporting Team in the Real World Cup 2026:
 
-#### Supporting Team in the Real World Cup 2026:
+I will be supporting **Argentina** in the FIFA World Cup 2026 because of their teamwork, fighting spirit, and rich football history.
 
-- Which team are you backing in the actual FIFA World Cup 2026?
-- Are they the same as your μFIFA Nation, or do you split loyalties?
+### All-Time Favourite Player:
 
-#### All-Time Favourite Player:
+**Lionel Messi** is my all-time favourite player. His vision, consistency, humility, and dedication inspire me both in football and in life. His journey proves that persistence and hard work can overcome every obstacle.
 
-- Who is your all-time favourite footballer and why?
-- What about their game or story resonates with you?
+### Best Player Right Now:
 
-#### Best Player Right Now:
+In my opinion, **Kylian Mbappé** is among the best players in the world today. His pace, finishing ability, leadership, and consistent performances make him one of football's biggest stars.
 
-- Who do you think is the best player in the world at this moment?
-- Make your case.
+### Past World Cup Memories:
 
-#### Past World Cup Memories:
+My favourite FIFA World Cup memory is **Argentina winning the 2022 FIFA World Cup** after an unforgettable final against France. Watching Lionel Messi finally lift the World Cup trophy was a historic and emotional moment.
 
-- What's your most memorable FIFA World Cup moment? A match, a goal, a heartbreak, or an upset?
-- Where were you when it happened?
+### 2026 Predictions:
 
-#### 2026 Predictions:
+* **Winner:** Argentina
+* **Dark Horse:** Portugal
+* **Player to Watch:** Kylian Mbappé
+* **Most Anticipated Match:** Argentina vs Brazil
 
-- Who wins the FIFA World Cup 2026?
-- Dark horse team to watch?
-- Player who will define this tournament?
-- Which match are you most looking forward to?
+### μFIFA World Cup 2026 - Tournament Goals:
 
-#### μFIFA World Cup 2026 - Tournament Goals:
-
-- What do you want to achieve in μFIFA by the time the final whistle blows?
-- What will you have built, learned, or contributed that you didn't have before?
+By the end of μFIFA, I hope to contribute to open-source projects, improve my GitHub profile, collaborate with talented developers, strengthen my programming and research skills, and build a portfolio that demonstrates my growth throughout the tournament.
 
 ---
 
-## 🏅 Portfolio Highlights
+# 🏅 Portfolio Highlights
 
-> No portfolio yet? That's fine. μFIFA is where you build one. Fill in what you have, even if it's just an idea, a plan, or something you're currently learning.
+### History of Open Source and Collaborative Contributions:
 
-#### History of Open Source and Collaborative Contributions:
+I have published personal projects on GitHub, including Python-based research work related to quantum capacitance. I am continuing to improve my repositories and plan to contribute to more open-source projects during μFIFA.
 
-- Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
-- *If you're just starting:* mention a project you're planning to open-source, or a repo you've been studying and want to contribute to.
+### History of Community Engagement:
 
-#### History of Community Engagement:
+I have participated in technical learning communities and college activities where I continuously improve my skills through collaborative learning. I joined μFIFA to connect with developers, researchers, and makers while learning from the community.
 
-- Describe your engagement in technical or creative communities: Discord servers, forums, hackathons, campus clubs, μLearn programs, or any space where you've shown up and contributed consistently.
-- *If you're just starting:* mention a community you've recently joined or an event you attended. Showing up counts.
+### Domain Profiles:
 
-#### Domain Profiles:
+* **GitHub:** *(Add your GitHub profile link)*
+* **LinkedIn:** *(Add your LinkedIn profile link)*
 
-- Link to the platforms where your work lives publicly, relevant to your Squad Domain(s):
-  - **Coder**: GitHub, LeetCode, HackerRank, CTFtime, or similar
-  - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
-  - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
-  - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
-- *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
+### Tools, Workflows & Automations:
 
-#### Tools, Workflows & Automations:
+I regularly use:
 
-- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
-- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
+* Python
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+* ChatGPT
+* Arduino IDE
+* ESP32
+* Wokwi Simulator
+* HTML, CSS, and JavaScript
+* Figma (Learning)
 
-#### Public Portfolio & Recognition:
+### Public Portfolio & Recognition:
 
-- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
-- This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
-- *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
+I am currently building my academic portfolio website where I will showcase my research projects, technical blogs, electronics projects, and future work. During μFIFA, I plan to publish more open-source repositories and improve my online portfolio.
 
-#### Education and Proof of Work:
+### Education and Proof of Work:
 
-- Mention your current degree, institution, and any relevant certifications or courses completed.
-- Add links to your GitHub and LinkedIn profiles.
+**Degree:** Bachelor of Technology (B.Tech) in Electronics and Communication Engineering
 
-#### History of Leadership:
+**Institution:** *(Add your college name)*
 
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
+**GitHub:** *(Add GitHub URL)*
 
-#### Networking:
+**LinkedIn:** *(Add LinkedIn URL)*
 
-- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
-- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
+### History of Leadership:
 
-#### Career Plan:
+Although I am still building my leadership experience, I enjoy taking initiative during academic projects, collaborating with teammates, and helping others solve technical problems whenever possible.
 
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
-- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
+### Networking:
+
+I look forward to connecting with students, developers, researchers, designers, and makers from different institutions. I hope to collaborate on open-source projects, research ideas, and innovative technology solutions during μFIFA.
+
+### Career Plan:
+
+**Immediate (6–12 Months):**
+
+* Strengthen Python and full-stack development skills.
+* Build a strong GitHub portfolio.
+* Contribute to open-source projects.
+* Complete research and electronics projects.
+
+**Long-Term:**
+Become a skilled Electronics and AI researcher, contribute to impactful open-source projects, and build innovative technologies that solve real-world problems while pursuing higher studies and research.
 
 ---
 
-#### Profile Card:
+### Profile Card
 
-<!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
+Replace **yourname@mulearn** with your actual μLearn embed link.
 
+```html
 <img
     src="https://mulearn.org/embed/rank/yourname@mulearn"
     width="400px">
 </img>
+```
